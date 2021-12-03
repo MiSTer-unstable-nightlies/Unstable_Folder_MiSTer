@@ -1,0 +1,113 @@
+{
+    "base_files_url": "",
+    "db_files": [],
+    "db_id": "unstable_nightlies_folder",
+    "default_options": {},
+    "files": {
+        "_Unstable/Apple-II_unstable_20211120_d409.rbf": {
+            "hash": "b0dfd6e79eb98b9b0ae0f936ce131328",
+            "size": 3486412,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20211120_d409.rbf"
+        },
+        "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
+            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
+            "size": 2758268,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
+        },
+        "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
+        },
+        "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
+            "hash": "70c7c504b22313543a81283bd77d4600",
+            "size": 3020072,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
+        },
+        "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
+            "hash": "1ef609b811e76812412292e60324db11",
+            "size": 3417396,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
+        },
+        "_Unstable/Arcade-Tecmo_unstable_20210222_663a.rbf": {
+            "hash": "7b36d0de89605ca63a09a05e44f2b51f",
+            "size": 3167520,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20210222_663a.rbf"
+        },
+        "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
+            "hash": "bc803137a7f74f8147ec942848a6f5b4",
+            "size": 3130416,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
+        },
+        "_Unstable/C64_unstable_20210701_e269.rbf": {
+            "hash": "114ec4f1d13f3f51c94295da208a5e04",
+            "size": 3665392,
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20210701_e269.rbf"
+        },
+        "_Unstable/GBA_unstable_20211201_8948.rbf": {
+            "hash": "e791276256572f776b0098fd1631e064",
+            "size": 4214284,
+            "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20211201_8948.rbf"
+        },
+        "_Unstable/Gameboy_unstable_20211024_4807.rbf": {
+            "hash": "7220357aef13969b0e3dc1ef63679009",
+            "size": 3798876,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20211024_4807.rbf"
+        },
+        "_Unstable/Genesis_unstable_20211128_5fd0.rbf": {
+            "hash": "3abedd97cb43863a7b96be42f011e3f3",
+            "size": 3687584,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211128_5fd0.rbf"
+        },
+        "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
+            "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
+            "size": 4191920,
+            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
+        },
+        "_Unstable/Minimig_unstable_20210305_d536.rbf": {
+            "hash": "a8eb01d1892d22501ab7a879fca2285d",
+            "size": 3159732,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
+        },
+        "_Unstable/NES_unstable_20211129_ccd9.rbf": {
+            "hash": "b81b9a17e2ab4101ec04513746add5ea",
+            "size": 3151672,
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20211129_ccd9.rbf"
+        },
+        "_Unstable/NeoGeo_unstable_20210825_a5f4.rbf": {
+            "hash": "e1a9d738d5a232a28012795f99a9eef4",
+            "size": 3674356,
+            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20210825_a5f4.rbf"
+        },
+        "_Unstable/SMS_unstable_20210929_e72e.rbf": {
+            "hash": "5cd2cb81d5fa82716e94134e4a7a8134",
+            "size": 3278684,
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20210929_e72e.rbf"
+        },
+        "_Unstable/SNES_unstable_20210905_8be2.rbf": {
+            "hash": "8d2dc27e6586c9cce5deb40647c2accd",
+            "size": 4348684,
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20210905_8be2.rbf"
+        },
+        "_Unstable/TurboGrafx16_unstable_20210830_1950.rbf": {
+            "hash": "4acd552e012679ce9706166f28688cdf",
+            "size": 4226808,
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20210830_1950.rbf"
+        },
+        "_Unstable/X68000_unstable_20211121_966a.rbf": {
+            "hash": "3cf9e915cd1d66e516547748bd8e40ca",
+            "size": 3664408,
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211121_966a.rbf"
+        },
+        "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
+            "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
+            "size": 4210900,
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20210524_c2fd.rbf"
+        }
+    },
+    "folders": {
+        "_Unstable": {}
+    },
+    "timestamp": 1638575113,
+    "zips": {}
+}
