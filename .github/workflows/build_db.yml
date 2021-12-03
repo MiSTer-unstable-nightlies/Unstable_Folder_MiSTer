@@ -1,6 +1,8 @@
 name: Build DB
 
 on:
+  schedule:
+  - cron:  "*/20 * * * *"
   push:
   workflow_dispatch:
 

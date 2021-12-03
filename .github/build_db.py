@@ -1,5 +1,4 @@
 import subprocess
-import urllib.request
 from pathlib import Path
 import hashlib
 import json
@@ -7,6 +6,11 @@ import time
 import tempfile
 import os
 import sys
+
+_print = print
+def print(text=""):
+    _print(text, flush=True)
+    sys.stdout.flush()
 
 def main():
     print('START!')
@@ -29,9 +33,7 @@ def main():
     if len(all_urls) == 0:
         return
 
-    timestamp = int(time.time())
-
-    db = create_db(all_urls, timestamp)
+    db = create_db(all_urls)
 
     json_name = 'db_unstable_nightlies_folder.json'
 
@@ -39,14 +41,38 @@ def main():
         json.dump(db, f, sort_keys=True, indent=4)
 
     print(json_name)
-    if len(sys.argv) > 0 and sys.argv[0] == '--push':
-        subprocess.run('git add ' + json_name, shell=True, stdout=subprocess.PIPE)
-        subprocess.run('git commit "%d"' % timestamp, shell=True, stdout=subprocess.PIPE)
-        subprocess.run('git pull', shell=True, stdout=subprocess.PIPE)
-        subprocess.run('git push', shell=True, stdout=subprocess.PIPE)
+    subprocess.run('cat ' + json_name, shell=True, stderr=subprocess.STDOUT)
+    print()
+
+    if len(sys.argv) > 1 and sys.argv[1] == '--push':
+        push(db, json_name)
+
     print('Done.')
 
-def create_db(all_urls, timestamp):
+def push(db, json_name):
+    timestamp = db['timestamp']
+    already_existing_file = "/tmp/existing.json"
+
+    try:
+        download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
+        with open(already_existing_file) as json_file:
+            old = json.load(json_file)
+            old['timestamp'] = 0
+            db['timestamp'] = 0
+
+            if json.dumps(old, sort_keys=True) == json.dumps(db, sort_keys=True):
+                print('No changes')
+                return
+    except:
+        pass
+
+    print('Pushing changes...')
+    subprocess.run(['git', 'add', json_name], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'commit', '-m', str(timestamp)], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'pull'], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'push'], stderr=subprocess.STDOUT)
+
+def create_db(all_urls):
 
     db = {
         "db_id": 'unstable_nightlies_folder',
@@ -56,7 +82,7 @@ def create_db(all_urls, timestamp):
         "zips": {},
         "base_files_url": "",
         "default_options": {},
-        "timestamp": timestamp
+        "timestamp":  int(time.time())
     }
 
     with tempfile.NamedTemporaryFile() as temp:
@@ -70,16 +96,20 @@ def create_db(all_urls, timestamp):
                 pass
             download(url, unstable_delme_file)
 
-            db["files"]["_Unstable/" + Path(url).name] = {
-                "url": url,
-                "size": size(unstable_delme_file),
-                "hash": hash(unstable_delme_file)
-            }
+            try:
+                db["files"]["_Unstable/" + Path(url).name] = {
+                    "url": url,
+                    "size": size(unstable_delme_file),
+                    "hash": hash(unstable_delme_file)
+                }
+            except Exception as e:
+                print('Exception during ' + url)
+                raise e
 
         return db
 
 def download(url, path):
-    urllib.request.urlretrieve(url, path)
+    subprocess.run(['curl', '-L', '-o', path, url], stderr=subprocess.STDOUT)
 
 def hash(file):
     with open(file, "rb") as f:
