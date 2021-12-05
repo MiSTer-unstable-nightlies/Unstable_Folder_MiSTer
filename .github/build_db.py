@@ -60,7 +60,7 @@ def main():
         json.dump(db, f, sort_keys=True, indent=4)
 
     print(json_name)
-    subprocess.run('cat ' + json_name, shell=True, stderr=subprocess.STDOUT)
+    subprocess.run(['cat', json_name], stderr=subprocess.STDOUT)
     print()
 
     if len(sys.argv) > 1 and sys.argv[1] == '--push':
