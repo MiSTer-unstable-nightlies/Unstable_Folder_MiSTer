@@ -109,26 +109,31 @@ def create_db(all_urls):
         unstable_delme_file = temp.name
 
         for url in all_urls:
-            try:
-                Path(unstable_delme_file).unlink()
-            except:
-                pass
+            unlink(unstable_delme_file)
             download(url, unstable_delme_file)
-
-            try:
-                db["files"]["_Unstable/" + Path(url).name] = {
-                    "url": url,
-                    "size": size(unstable_delme_file),
-                    "hash": hash(unstable_delme_file)
-                }
-            except Exception as e:
-                print('Exception during ' + url)
-                raise e
+            db["files"]["_Unstable/" + Path(url).name] = describe_file(url, unstable_delme_file)
 
         return db
 
 def download(url, path):
     subprocess.run(['curl', '-L', '-o', path, url], stderr=subprocess.STDOUT)
+
+def unlink(path):
+    try:
+        Path(unstable_delme_file).unlink()
+    except:
+        pass
+
+def describe_file(url, file):
+    try:
+        return {
+            "url": url,
+            "size": size(file),
+            "hash": hash(file)
+        }
+    except Exception as e:
+        print('Exception during ' + url)
+        raise e
 
 def hash(file):
     with open(file, "rb") as f:
