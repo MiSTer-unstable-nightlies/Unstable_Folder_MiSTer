@@ -35,6 +35,22 @@ def main():
     print('START!')
     print()
 
+    all_urls = gather_urls()
+    if len(all_urls) == 0:
+        print('Nothing to do.')
+        return
+    
+    db = create_db(all_urls)
+    
+    json_name = 'db_unstable_nightlies_folder.json'
+    save_json(db, json_name)
+
+    if len(sys.argv) > 1 and sys.argv[1] == '--push':
+        push(db, json_name)
+
+    print('Done.')
+
+def gather_urls():
     proc = subprocess.run('gh repo list MiSTer-unstable-nightlies --json "name" | jq -r ".[].name"', shell=True, stdout=subprocess.PIPE)
     all_urls = []
     for name in proc.stdout.decode().splitlines():
@@ -48,26 +64,9 @@ def main():
             print('rbf file not found')
 
         print()
-
-    if len(all_urls) == 0:
-        return
-
-    db = create_db(all_urls)
-
-    json_name = 'db_unstable_nightlies_folder.json'
-
-    with open(json_name, 'w') as f:
-        json.dump(db, f, sort_keys=True, indent=4)
-
-    print(json_name)
-    subprocess.run(['cat', json_name], stderr=subprocess.STDOUT)
-    print()
-
-    if len(sys.argv) > 1 and sys.argv[1] == '--push':
-        push(db, json_name)
-
-    print('Done.')
-
+    
+    return all_urls
+    
 def create_db(all_urls):
 
     db = {
@@ -123,6 +122,14 @@ def hash(file):
 
 def size(file):
     return os.path.getsize(file)
+
+def save_json(db, json_name):
+    with open(json_name, 'w') as f:
+        json.dump(db, f, sort_keys=True, indent=4)
+
+    print(json_name)
+    subprocess.run(['cat', json_name], stderr=subprocess.STDOUT)
+    print()
 
 def push(db, json_name):
     timestamp = db['timestamp']
