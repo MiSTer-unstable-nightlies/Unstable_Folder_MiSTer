@@ -160,7 +160,7 @@ def changes_detected_impl(db):
         existing['timestamp'] = 0
         db['timestamp'] = 0
 
-        return json.dumps(existing, sort_keys=True) != json.dumps(db, sort_keys=True):
+        return json.dumps(existing, sort_keys=True) != json.dumps(db, sort_keys=True)
 
 if __name__ == "__main__":
     main()
