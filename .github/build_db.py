@@ -68,29 +68,6 @@ def main():
 
     print('Done.')
 
-def push(db, json_name):
-    timestamp = db['timestamp']
-    already_existing_file = "/tmp/existing.json"
-
-    try:
-        download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
-        with open(already_existing_file) as json_file:
-            old = json.load(json_file)
-            old['timestamp'] = 0
-            db['timestamp'] = 0
-
-            if json.dumps(old, sort_keys=True) == json.dumps(db, sort_keys=True):
-                print('No changes')
-                return
-    except:
-        pass
-
-    print('Pushing changes...')
-    subprocess.run(['git', 'add', json_name], stderr=subprocess.STDOUT)
-    subprocess.run(['git', 'commit', '-m', str(timestamp)], stderr=subprocess.STDOUT)
-    subprocess.run(['git', 'pull'], stderr=subprocess.STDOUT)
-    subprocess.run(['git', 'push'], stderr=subprocess.STDOUT)
-
 def create_db(all_urls):
 
     db = {
@@ -146,6 +123,37 @@ def hash(file):
 
 def size(file):
     return os.path.getsize(file)
+
+def push(db, json_name):
+    timestamp = db['timestamp']
+
+    if not changes_detected(db):
+        print('No changes')
+        return
+
+    print('Pushing changes...')
+    subprocess.run(['git', 'add', json_name], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'commit', '-m', str(timestamp)], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'pull'], stderr=subprocess.STDOUT)
+    subprocess.run(['git', 'push'], stderr=subprocess.STDOUT)
+
+def changes_detected(db):
+    try:
+        return changes_detected_impl(db)
+    except:
+        pass
+    return True
+
+def changes_detected_impl(db):
+    already_existing_file = "/tmp/existing.json"
+    
+    download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
+    with open(already_existing_file) as json_file:
+        existing = json.load(json_file)
+        existing['timestamp'] = 0
+        db['timestamp'] = 0
+
+        return json.dumps(existing, sort_keys=True) != json.dumps(db, sort_keys=True):
 
 if __name__ == "__main__":
     main()
