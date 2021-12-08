@@ -35,8 +35,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20210222_663a.rbf"
         },
         "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
-            "hash": "bc803137a7f74f8147ec942848a6f5b4",
-            "size": 3130416,
+            "hash": "c1bfd8d65b0949bfb7bd22f4d417ad98",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
         },
         "_Unstable/C64_unstable_20210701_e269.rbf": {
@@ -95,8 +95,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20210905_8be2.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20210830_1950.rbf": {
-            "hash": "4acd552e012679ce9706166f28688cdf",
-            "size": 4226808,
+            "hash": "b32ef417d9726949d79faef19d8990b6",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20210830_1950.rbf"
         },
         "_Unstable/X68000_unstable_20211121_966a.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638945523,
+    "timestamp": 1638949373,
     "zips": {}
 }
