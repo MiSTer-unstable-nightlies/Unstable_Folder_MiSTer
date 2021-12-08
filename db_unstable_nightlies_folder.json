@@ -10,8 +10,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20211120_d409.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "c2acad967099e3e555f62a7b9a1065ec",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
@@ -105,14 +105,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211121_966a.rbf"
         },
         "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
-            "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
-            "size": 4210900,
+            "hash": "0501ab49b7075420d6ca3aa7581f4999",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20210524_c2fd.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638952605,
+    "timestamp": 1638953334,
     "zips": {}
 }
