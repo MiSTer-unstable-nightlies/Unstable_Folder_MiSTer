@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20210701_e269.rbf"
         },
         "_Unstable/GBA_unstable_20211201_8948.rbf": {
-            "hash": "e791276256572f776b0098fd1631e064",
-            "size": 4214284,
+            "hash": "ec5afb97add67cfba43b9a935f2f7eb4",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20211201_8948.rbf"
         },
         "_Unstable/Gameboy_unstable_20211024_4807.rbf": {
@@ -80,8 +80,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20210825_a5f4.rbf"
         },
         "_Unstable/PlayStation_unstable_20211207_1741.rbf": {
-            "hash": "e774ca886b66ceae80df28b545e65437",
-            "size": 3458280,
+            "hash": "b34f76b07500cd69b28d75f2773b9c1f",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/PlayStation_MiSTer/releases/download/unstable-builds/PlayStation_unstable_20211207_1741.rbf"
         },
         "_Unstable/SMS_unstable_20210929_e72e.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638934335,
+    "timestamp": 1638935170,
     "zips": {}
 }
