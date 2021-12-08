@@ -60,8 +60,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211128_5fd0.rbf"
         },
         "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
-            "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
-            "size": 4191920,
+            "hash": "8df9dcebb473de040d8845bc54331b57",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638962877,
+    "timestamp": 1638965653,
     "zips": {}
 }
