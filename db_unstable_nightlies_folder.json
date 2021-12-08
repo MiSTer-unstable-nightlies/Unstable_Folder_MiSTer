@@ -65,8 +65,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
-            "hash": "a8eb01d1892d22501ab7a879fca2285d",
-            "size": 3159732,
+            "hash": "82d4bc669434202198cbffe4e4cf2fae",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20211129_ccd9.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638936683,
+    "timestamp": 1638940139,
     "zips": {}
 }
