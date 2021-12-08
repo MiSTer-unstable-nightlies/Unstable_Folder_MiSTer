@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/Apple-II_unstable_20211120_d409.rbf": {
-            "hash": "75704b5ab58fc3a53a2ed36e701d0f27",
-            "size": 212,
+            "hash": "b0dfd6e79eb98b9b0ae0f936ce131328",
+            "size": 3486412,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20211120_d409.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
@@ -35,8 +35,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20210222_663a.rbf"
         },
         "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
-            "hash": "bc803137a7f74f8147ec942848a6f5b4",
-            "size": 3130416,
+            "hash": "9bc9593ff84dafe3d3aaa35a2c490b91",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
         },
         "_Unstable/C64_unstable_20210701_e269.rbf": {
@@ -70,8 +70,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20211129_ccd9.rbf": {
-            "hash": "b81b9a17e2ab4101ec04513746add5ea",
-            "size": 3151672,
+            "hash": "81efbc30ebe7e36d40a4c8a78f51b045",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20211129_ccd9.rbf"
         },
         "_Unstable/NeoGeo_unstable_20210825_a5f4.rbf": {
@@ -90,8 +90,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20210929_e72e.rbf"
         },
         "_Unstable/SNES_unstable_20210905_8be2.rbf": {
-            "hash": "8d2dc27e6586c9cce5deb40647c2accd",
-            "size": 4348684,
+            "hash": "1d3001303b8dfba451ebdf9f076787b3",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20210905_8be2.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20210830_1950.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1638970641,
+    "timestamp": 1638971152,
     "zips": {}
 }
