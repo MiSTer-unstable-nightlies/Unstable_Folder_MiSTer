@@ -99,10 +99,10 @@
             "size": 4226808,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20210830_1950.rbf"
         },
-        "_Unstable/X68000_unstable_20211121_966a.rbf": {
-            "hash": "3cf9e915cd1d66e516547748bd8e40ca",
-            "size": 3664408,
-            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211121_966a.rbf"
+        "_Unstable/X68000_unstable_20211209_400e.rbf": {
+            "hash": "9ed95afac37cd8c1b16ad414c614e3e1",
+            "size": 3621212,
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
         "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
             "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1639073423,
+    "timestamp": 1639082686,
     "zips": {}
 }
