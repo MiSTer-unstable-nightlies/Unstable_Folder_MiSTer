@@ -79,10 +79,10 @@
             "size": 3674356,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20210825_a5f4.rbf"
         },
-        "_Unstable/PlayStation_unstable_20211209_231e.rbf": {
-            "hash": "b21f90e9b6b2119bf4672fef97d9af3b",
-            "size": 3493072,
-            "url": "https://github.com/MiSTer-unstable-nightlies/PlayStation_MiSTer/releases/download/unstable-builds/PlayStation_unstable_20211209_231e.rbf"
+        "_Unstable/PlayStation_unstable_20211210_d76a.rbf": {
+            "hash": "b41a087b9fc7f95e4014f7b45b0cdb4b",
+            "size": 3433268,
+            "url": "https://github.com/MiSTer-unstable-nightlies/PlayStation_MiSTer/releases/download/unstable-builds/PlayStation_unstable_20211210_d76a.rbf"
         },
         "_Unstable/SMS_unstable_20210929_e72e.rbf": {
             "hash": "5cd2cb81d5fa82716e94134e4a7a8134",
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1639147363,
+    "timestamp": 1639148955,
     "zips": {}
 }
