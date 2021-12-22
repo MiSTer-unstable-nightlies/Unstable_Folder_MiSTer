@@ -54,10 +54,10 @@
             "size": 3798876,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20211024_4807.rbf"
         },
-        "_Unstable/Genesis_unstable_20211217_cb2e.rbf": {
-            "hash": "3382c771f8ce9f0d554460e0c16b9881",
+        "_Unstable/Genesis_unstable_20211221_a42c.rbf": {
+            "hash": "27d1c5a54f6faf22efef415d15e0917c",
             "size": 3738444,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211217_cb2e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211221_a42c.rbf"
         },
         "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
             "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
@@ -69,10 +69,10 @@
             "size": 3159732,
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
-        "_Unstable/NES_unstable_20211129_ccd9.rbf": {
-            "hash": "b81b9a17e2ab4101ec04513746add5ea",
-            "size": 3151672,
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20211129_ccd9.rbf"
+        "_Unstable/NES_unstable_20211221_7aff.rbf": {
+            "hash": "812f6e37aeb7cd703d8b3119417c82c2",
+            "size": 3190248,
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20211221_7aff.rbf"
         },
         "_Unstable/NeoGeo_unstable_20210825_a5f4.rbf": {
             "hash": "e1a9d738d5a232a28012795f99a9eef4",
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640108498,
+    "timestamp": 1640133215,
     "zips": {}
 }
