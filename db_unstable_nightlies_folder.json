@@ -39,6 +39,11 @@
             "size": 3665392,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20210701_e269.rbf"
         },
+        "_Unstable/CoCo3_unstable_20211226_706d.rbf": {
+            "hash": "7371cad6f0ada7332970627b92b0210b",
+            "size": 3342168,
+            "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20211226_706d.rbf"
+        },
         "_Unstable/GBA_unstable_20211201_8948.rbf": {
             "hash": "e791276256572f776b0098fd1631e064",
             "size": 4214284,
@@ -53,6 +58,11 @@
             "hash": "27d1c5a54f6faf22efef415d15e0917c",
             "size": 3738444,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211221_a42c.rbf"
+        },
+        "_Unstable/MacPlus_unstable_20211226_34aa.rbf": {
+            "hash": "b7a9d60fbd1e4fac1bb45665a56c1e44",
+            "size": 2664652,
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20211226_34aa.rbf"
         },
         "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
             "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
@@ -108,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640478878,
+    "timestamp": 1640483371,
     "zips": {}
 }
