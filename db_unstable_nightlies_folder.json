@@ -55,8 +55,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20211024_4807.rbf"
         },
         "_Unstable/Genesis_unstable_20211221_a42c.rbf": {
-            "hash": "27d1c5a54f6faf22efef415d15e0917c",
-            "size": 3738444,
+            "hash": "36f049992d5449545c029ce1db527f98",
+            "size": 3508592,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211221_a42c.rbf"
         },
         "_Unstable/MacPlus_unstable_20211226_34aa.rbf": {
@@ -110,14 +110,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
         "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
-            "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
-            "size": 4210900,
+            "hash": "bc803137a7f74f8147ec942848a6f5b4",
+            "size": 3130416,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20210524_c2fd.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640590199,
+    "timestamp": 1640592870,
     "zips": {}
 }
