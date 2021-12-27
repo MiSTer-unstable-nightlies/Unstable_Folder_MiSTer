@@ -50,8 +50,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20211201_8948.rbf"
         },
         "_Unstable/Gameboy_unstable_20211024_4807.rbf": {
-            "hash": "7220357aef13969b0e3dc1ef63679009",
-            "size": 3798876,
+            "hash": "e791276256572f776b0098fd1631e064",
+            "size": 4214284,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20211024_4807.rbf"
         },
         "_Unstable/Genesis_unstable_20211221_a42c.rbf": {
@@ -99,14 +99,9 @@
             "size": 4344584,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20211226_4f1f.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20211224_6050.rbf": {
-            "hash": "b2d5ec33dbe1b436f38605d76344dea2",
-            "size": 4230672,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20211224_6050.rbf"
-        },
         "_Unstable/X68000_unstable_20211209_400e.rbf": {
-            "hash": "9ed95afac37cd8c1b16ad414c614e3e1",
-            "size": 3621212,
+            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
+            "size": 2758268,
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
         "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
@@ -118,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640607281,
+    "timestamp": 1640614205,
     "zips": {}
 }
