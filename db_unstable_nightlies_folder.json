@@ -29,11 +29,6 @@
             "size": 3417396,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
-        "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
-            "hash": "bc803137a7f74f8147ec942848a6f5b4",
-            "size": 3130416,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
-        },
         "_Unstable/C64_unstable_20210701_e269.rbf": {
             "hash": "114ec4f1d13f3f51c94295da208a5e04",
             "size": 3665392,
@@ -118,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640597563,
+    "timestamp": 1640603415,
     "zips": {}
 }
