@@ -20,8 +20,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
-            "hash": "5cd2cb81d5fa82716e94134e4a7a8134",
-            "size": 3278684,
+            "hash": "70c7c504b22313543a81283bd77d4600",
+            "size": 3020072,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
         "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
@@ -69,6 +69,11 @@
             "size": 4191920,
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
         },
+        "_Unstable/Minimig_unstable_20210305_d536.rbf": {
+            "hash": "a8eb01d1892d22501ab7a879fca2285d",
+            "size": 3159732,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
+        },
         "_Unstable/NES_unstable_20211225_c9d5.rbf": {
             "hash": "81e6928e350f803839d84b0fd1e777bf",
             "size": 3197904,
@@ -105,14 +110,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
         "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
-            "hash": "58c6e48aa8a9e8d557b4be38cf0af5f7",
-            "size": 491,
+            "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
+            "size": 4210900,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20210524_c2fd.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640596341,
+    "timestamp": 1640597563,
     "zips": {}
 }
