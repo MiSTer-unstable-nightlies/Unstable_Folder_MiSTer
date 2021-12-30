@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20211229_2b52.rbf"
         },
         "_Unstable/GBA_unstable_20211201_8948.rbf": {
-            "hash": "fe69cbbc13b47321b0ff18d8ae1c364f",
-            "size": 489,
+            "hash": "e791276256572f776b0098fd1631e064",
+            "size": 4214284,
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20211201_8948.rbf"
         },
         "_Unstable/Gameboy_unstable_20211024_4807.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1640860494,
+    "timestamp": 1640861185,
     "zips": {}
 }
