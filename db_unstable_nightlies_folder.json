@@ -24,11 +24,6 @@
             "size": 3020072,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
-        "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
-            "hash": "1ef609b811e76812412292e60324db11",
-            "size": 3417396,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
-        },
         "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
             "hash": "bc803137a7f74f8147ec942848a6f5b4",
             "size": 3130416,
@@ -118,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1641561512,
+    "timestamp": 1641670961,
     "zips": {}
 }
