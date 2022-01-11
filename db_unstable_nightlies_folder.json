@@ -15,8 +15,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20211120_d409.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "6dc637be86edad41121b5023c395ddff",
+            "size": 448,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
@@ -39,10 +39,10 @@
             "size": 3721392,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20220107_3ee4.rbf"
         },
-        "_Unstable/CoCo3_unstable_20220110_97f9.rbf": {
-            "hash": "5780af1969986836f15e8d17ddec641e",
-            "size": 3533388,
-            "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220110_97f9.rbf"
+        "_Unstable/CoCo3_unstable_20220111_cef1.rbf": {
+            "hash": "49b166cbc06cfd02ab8d984017c84087",
+            "size": 3505508,
+            "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220111_cef1.rbf"
         },
         "_Unstable/GBA_unstable_20211201_8948.rbf": {
             "hash": "e791276256572f776b0098fd1631e064",
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1641792697,
+    "timestamp": 1641888702,
     "zips": {}
 }
