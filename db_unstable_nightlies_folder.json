@@ -9,6 +9,11 @@
             "size": 3070964,
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20220111_e2c0.rbf"
         },
+        "_Unstable/AliceMC10_unstable_20220111_eb36.rbf": {
+            "hash": "637194170b38c598e5ffc333cb2beef2",
+            "size": 2580320,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20220111_eb36.rbf"
+        },
         "_Unstable/Apple-II_unstable_20211120_d409.rbf": {
             "hash": "b0dfd6e79eb98b9b0ae0f936ce131328",
             "size": 3486412,
@@ -113,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1641929143,
+    "timestamp": 1641931740,
     "zips": {}
 }
