@@ -104,25 +104,25 @@
             "size": 2823688,
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220119_60ae.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20220107_6ae9.rbf": {
-            "hash": "51082b7057ce89982be5665b113df334",
+        "_Unstable/TurboGrafx16_unstable_20220124_73fd.rbf": {
+            "hash": "b322e85a0f9cc2501aae59a9f6aaaa9f",
             "size": 4227720,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220107_6ae9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220124_73fd.rbf"
         },
         "_Unstable/X68000_unstable_20211209_400e.rbf": {
             "hash": "9ed95afac37cd8c1b16ad414c614e3e1",
             "size": 3621212,
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
-        "_Unstable/ao486_unstable_20210524_c2fd.rbf": {
-            "hash": "9162c70c0e91e3e26a0394ef32dbee5d",
-            "size": 4210900,
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20210524_c2fd.rbf"
+        "_Unstable/ao486_unstable_20220124_7126.rbf": {
+            "hash": "7f2fff5ae9eb9d920c700bfc8965533e",
+            "size": 4183316,
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20220124_7126.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1642941915,
+    "timestamp": 1643011831,
     "zips": {}
 }
