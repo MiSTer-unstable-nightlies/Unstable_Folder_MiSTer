@@ -29,6 +29,31 @@
             "size": 2758268,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
+        "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
+        },
+        "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
+            "hash": "70c7c504b22313543a81283bd77d4600",
+            "size": 3020072,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
+        },
+        "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
+            "hash": "1ef609b811e76812412292e60324db11",
+            "size": 3417396,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
+        },
+        "_Unstable/Arcade-Tecmo_unstable_20210222_663a.rbf": {
+            "hash": "7b36d0de89605ca63a09a05e44f2b51f",
+            "size": 3167520,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20210222_663a.rbf"
+        },
+        "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
+            "hash": "bc803137a7f74f8147ec942848a6f5b4",
+            "size": 3130416,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
+        },
         "_Unstable/C64_unstable_20220120_b3ed.rbf": {
             "hash": "d2fc04ab5214e614d08c08892887fec7",
             "size": 3690988,
@@ -39,40 +64,15 @@
             "size": 3477216,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220125_273c.rbf"
         },
-        "_Unstable/GBA_unstable_20211201_8948.rbf": {
-            "hash": "e791276256572f776b0098fd1631e064",
-            "size": 4214284,
-            "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20211201_8948.rbf"
-        },
         "_Unstable/Gameboy_unstable_20220202_23244d.rbf": {
             "hash": "7697437f96210193fd3a84b950b2165c",
             "size": 3812768,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20220202_23244d.rbf"
         },
-        "_Unstable/Genesis_unstable_20211221_a42c.rbf": {
-            "hash": "27d1c5a54f6faf22efef415d15e0917c",
-            "size": 3738444,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211221_a42c.rbf"
-        },
         "_Unstable/MacPlus_unstable_20211226_34aa.rbf": {
             "hash": "b7a9d60fbd1e4fac1bb45665a56c1e44",
             "size": 2664652,
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20211226_34aa.rbf"
-        },
-        "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
-            "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
-            "size": 4191920,
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
-        },
-        "_Unstable/Minimig_unstable_20210305_d536.rbf": {
-            "hash": "a8eb01d1892d22501ab7a879fca2285d",
-            "size": 3159732,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
-        },
-        "_Unstable/NES_unstable_20220202_2302a9.rbf": {
-            "hash": "a22a7d017cb71c111697ec92ac7c1167",
-            "size": 3209648,
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220202_2302a9.rbf"
         },
         "_Unstable/NeoGeo_unstable_20220126_3e3e.rbf": {
             "hash": "cf48694232597d63690cd2733c7a39eb",
@@ -84,25 +84,10 @@
             "size": 3943000,
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20220204_17ef53.rbf"
         },
-        "_Unstable/SMS_unstable_20220128_e5d7.rbf": {
-            "hash": "2ee5367b69062800e925a5061091a509",
-            "size": 3316376,
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20220128_e5d7.rbf"
-        },
-        "_Unstable/SNES_unstable_20220112_3d98.rbf": {
-            "hash": "022901c426a2c52778abb35d9c4ba131",
-            "size": 4347788,
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20220112_3d98.rbf"
-        },
         "_Unstable/TatungEinstein_unstable_20220125_a7eb.rbf": {
             "hash": "5b3b2f511b79fc0deba042cf69841a02",
             "size": 2819696,
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
-        },
-        "_Unstable/TurboGrafx16_unstable_20220124_73fd.rbf": {
-            "hash": "b322e85a0f9cc2501aae59a9f6aaaa9f",
-            "size": 4227720,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220124_73fd.rbf"
         },
         "_Unstable/X68000_unstable_20211209_400e.rbf": {
             "hash": "9ed95afac37cd8c1b16ad414c614e3e1",
@@ -118,6 +103,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1644069976,
+    "timestamp": 1644070981,
     "zips": {}
 }
