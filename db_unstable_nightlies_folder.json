@@ -29,11 +29,6 @@
             "size": 2758268,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
-        "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
-            "hash": "bc803137a7f74f8147ec942848a6f5b4",
-            "size": 3130416,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
-        },
         "_Unstable/C64_unstable_20220120_b3ed.rbf": {
             "hash": "d2fc04ab5214e614d08c08892887fec7",
             "size": 3690988,
@@ -68,6 +63,11 @@
             "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
             "size": 4191920,
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
+        },
+        "_Unstable/Minimig_unstable_20210305_d536.rbf": {
+            "hash": "a8eb01d1892d22501ab7a879fca2285d",
+            "size": 3159732,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20220202_2302a9.rbf": {
             "hash": "a22a7d017cb71c111697ec92ac7c1167",
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1644001604,
+    "timestamp": 1644069976,
     "zips": {}
 }
