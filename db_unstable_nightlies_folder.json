@@ -79,10 +79,10 @@
             "size": 3209648,
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220202_2302a9.rbf"
         },
-        "_Unstable/PSX_unstable_20220209_17b372.rbf": {
-            "hash": "faa6aefed9a3ffce1c9136356011bc50",
-            "size": 3985360,
-            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20220209_17b372.rbf"
+        "_Unstable/PSX_unstable_20220210_1579cc.rbf": {
+            "hash": "23b8145d1be739e1bf6734040acdbb32",
+            "size": 3949520,
+            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20220210_1579cc.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20220125_a7eb.rbf": {
             "hash": "5b3b2f511b79fc0deba042cf69841a02",
@@ -103,6 +103,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1644435783,
+    "timestamp": 1644511535,
     "zips": {}
 }
