@@ -19,11 +19,6 @@
             "size": 2580320,
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20220111_eb36.rbf"
         },
-        "_Unstable/AtariLynx_unstable_20210326_e422.rbf": {
-            "hash": "bc803137a7f74f8147ec942848a6f5b4",
-            "size": 3130416,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20210326_e422.rbf"
-        },
         "_Unstable/C64_unstable_20220120_b3ed.rbf": {
             "hash": "d2fc04ab5214e614d08c08892887fec7",
             "size": 3690988,
@@ -118,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1644966534,
+    "timestamp": 1645031370,
     "zips": {}
 }
