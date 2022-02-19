@@ -49,10 +49,10 @@
             "size": 2664652,
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20211226_34aa.rbf"
         },
-        "_Unstable/MegaCD_unstable_20210715_30ca.rbf": {
-            "hash": "7fcbacda32ac7c1491baa8d36b950fb2",
-            "size": 4191920,
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20210715_30ca.rbf"
+        "_Unstable/MegaCD_unstable_20220219_18632b.rbf": {
+            "hash": "94efc7854fce31b38b297c7f484bb3c4",
+            "size": 4198156,
+            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20220219_18632b.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
             "hash": "a8eb01d1892d22501ab7a879fca2285d",
@@ -94,10 +94,10 @@
             "size": 2819696,
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20220124_73fd.rbf": {
-            "hash": "b322e85a0f9cc2501aae59a9f6aaaa9f",
-            "size": 4227720,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220124_73fd.rbf"
+        "_Unstable/TurboGrafx16_unstable_20220219_189c65.rbf": {
+            "hash": "146df6ccc44b51046d72ccc6eb983440",
+            "size": 4239184,
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220219_189c65.rbf"
         },
         "_Unstable/X68000_unstable_20211209_400e.rbf": {
             "hash": "9ed95afac37cd8c1b16ad414c614e3e1",
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1645294211,
+    "timestamp": 1645297633,
     "zips": {}
 }
