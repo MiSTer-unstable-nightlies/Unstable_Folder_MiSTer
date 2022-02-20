@@ -4,11 +4,6 @@
     "db_id": "unstable_nightlies_folder",
     "default_options": {},
     "files": {
-        "_Unstable/AcornAtom_unstable_20220114_310b.rbf": {
-            "hash": "4a3ff89be325020c9e8a38641edcb51d",
-            "size": 3087108,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20220114_310b.rbf"
-        },
         "_Unstable/AcornElectron_unstable_20220206_193a8a.rbf": {
             "hash": "d989117a9323ec1677aa7a1773b4cb74",
             "size": 3340140,
@@ -18,6 +13,11 @@
             "hash": "637194170b38c598e5ffc333cb2beef2",
             "size": 2580320,
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20220111_eb36.rbf"
+        },
+        "_Unstable/Apple-II_unstable_20211120_d409.rbf": {
+            "hash": "b0dfd6e79eb98b9b0ae0f936ce131328",
+            "size": 3486412,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20211120_d409.rbf"
         },
         "_Unstable/C64_unstable_20220120_b3ed.rbf": {
             "hash": "d2fc04ab5214e614d08c08892887fec7",
@@ -108,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1645392433,
+    "timestamp": 1645393370,
     "zips": {}
 }
