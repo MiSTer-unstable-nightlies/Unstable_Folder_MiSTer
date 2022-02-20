@@ -44,11 +44,6 @@
             "size": 3738444,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20211221_a42c.rbf"
         },
-        "_Unstable/MacPlus_unstable_20211226_34aa.rbf": {
-            "hash": "b7a9d60fbd1e4fac1bb45665a56c1e44",
-            "size": 2664652,
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20211226_34aa.rbf"
-        },
         "_Unstable/MegaCD_unstable_20220219_18632b.rbf": {
             "hash": "94efc7854fce31b38b297c7f484bb3c4",
             "size": 4198156,
@@ -113,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1645385046,
+    "timestamp": 1645392433,
     "zips": {}
 }
