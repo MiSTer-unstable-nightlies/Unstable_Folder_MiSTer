@@ -4,6 +4,16 @@
     "db_id": "unstable_nightlies_folder",
     "default_options": {},
     "files": {
+        "_Unstable/AcornAtom_unstable_20220114_310b.rbf": {
+            "hash": "4a3ff89be325020c9e8a38641edcb51d",
+            "size": 3087108,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20220114_310b.rbf"
+        },
+        "_Unstable/AcornElectron_unstable_20220206_193a8a.rbf": {
+            "hash": "d989117a9323ec1677aa7a1773b4cb74",
+            "size": 3340140,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20220206_193a8a.rbf"
+        },
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
             "hash": "658e5280d4fae1e881e0dd77626e13da",
             "size": 3508684,
@@ -64,11 +74,6 @@
             "size": 3686460,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20220212_14052d.rbf"
         },
-        "_Unstable/PC88_unstable_20220213_1854ff.rbf": {
-            "hash": "6dbafd77e96fa85f76d0710eefd8175e",
-            "size": 2931856,
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20220213_1854ff.rbf"
-        },
         "_Unstable/PSX_unstable_20220324_158632.rbf": {
             "hash": "2e31e08a1fcf6a5933dd6d415d59d588",
             "size": 4193376,
@@ -108,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1648315794,
+    "timestamp": 1648415348,
     "zips": {}
 }
