@@ -70,8 +70,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220316_238edf.rbf"
         },
         "_Unstable/NeoGeo_unstable_20220212_14052d.rbf": {
-            "hash": "a7b38ad9cfbba1047bbe664dce226301",
-            "size": 3686460,
+            "hash": "0c32aac3b2c8a4959a68cfae2b888b25",
+            "size": 489,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20220212_14052d.rbf"
         },
         "_Unstable/PSX_unstable_20220324_158632.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1648558495,
+    "timestamp": 1648625397,
     "zips": {}
 }
