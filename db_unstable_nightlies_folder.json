@@ -105,8 +105,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20211209_400e.rbf"
         },
         "_Unstable/ao486_unstable_20220326_16f043.rbf": {
-            "hash": "b06c985d49c242e7d9158ddddb2c6861",
-            "size": 4192268,
+            "hash": "06eb96491310bbee3d2ce97bbacddee9",
+            "size": 489,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20220326_16f043.rbf"
         },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1648996069,
+    "timestamp": 1649042696,
     "zips": {}
 }
