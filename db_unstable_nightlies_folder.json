@@ -35,8 +35,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20220120_b3ed.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
-            "hash": "ca993aa56ece5129de4847ac8735539c",
-            "size": 161256,
+            "hash": "da64e1eaf75ca4396ac7845272139bf2",
+            "size": 3600744,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220301_07cd7e.rbf"
         },
         "_Unstable/GBA_unstable_20220221_21f0eb.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1649341873,
+    "timestamp": 1649342596,
     "zips": {}
 }
