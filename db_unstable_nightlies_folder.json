@@ -24,11 +24,6 @@
             "size": 3144216,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
         },
-        "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
-            "hash": "7e42b4562cafe9d1b588518429efd1b2",
-            "size": 2797768,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
-        },
         "_Unstable/C64_unstable_20220120_b3ed.rbf": {
             "hash": "d2fc04ab5214e614d08c08892887fec7",
             "size": 3690988,
@@ -90,8 +85,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20220415_1442b1.rbf"
         },
         "_Unstable/SNES_unstable_20220525_1020f6.rbf": {
-            "hash": "8200145b6527650537fd10a71572bca5",
-            "size": 4333092,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20220525_1020f6.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20220219_189c65.rbf": {
@@ -113,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1653627719,
+    "timestamp": 1653637052,
     "zips": {}
 }
