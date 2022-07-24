@@ -50,8 +50,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20220502_116529.rbf"
         },
         "_Unstable/Gameboy_unstable_20220723_12e633.rbf": {
-            "hash": "61efd57471daf0b37feb77d76b222e18",
-            "size": 3838504,
+            "hash": "16f1e3a93dd58fc31513fd409136c820",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20220723_12e633.rbf"
         },
         "_Unstable/Genesis_unstable_20220625_21dd01.rbf": {
@@ -70,33 +70,33 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20220617_213071.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
-            "hash": "a8eb01d1892d22501ab7a879fca2285d",
-            "size": 3159732,
+            "hash": "6c253f4798c69426b53e4ea2c702df4c",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20220530_191ac6.rbf": {
-            "hash": "e638fd73a725be1edc152351a596a236",
-            "size": 3203848,
+            "hash": "5fd8212fb01ce2495a09efb0bad7ab0b",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220530_191ac6.rbf"
         },
         "_Unstable/NeoGeo_unstable_20220720_19b970.rbf": {
-            "hash": "3edc0cf95a13719b60004b34913ba0e2",
-            "size": 3690524,
+            "hash": "36987566b5af3e34b4448ffedeafd1f8",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20220720_19b970.rbf"
         },
         "_Unstable/PSX_unstable_20220723_155e7b.rbf": {
-            "hash": "f492166c802b003877380690fb68ce63",
-            "size": 4330868,
+            "hash": "eeb2290b236dd2b17f598475e02f612e",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20220723_155e7b.rbf"
         },
         "_Unstable/SMS_unstable_20220718_07aece.rbf": {
-            "hash": "3a036c96d9d8a876a4e7ebdda10605a7",
-            "size": 3305128,
+            "hash": "9e38ded2cda477982d26e3ded844ce96",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20220718_07aece.rbf"
         },
         "_Unstable/SNES_unstable_20220707_19bfc2.rbf": {
-            "hash": "ad46bc0d56b2bfc8d4043c87b9836b4e",
-            "size": 4354128,
+            "hash": "8248834707a92de5474e45b8f0afc99a",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20220707_19bfc2.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20220219_189c65.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1658612658,
+    "timestamp": 1658687930,
     "zips": {}
 }
