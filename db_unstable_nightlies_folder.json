@@ -70,8 +70,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20220725_14ddf4.rbf": {
-            "hash": "05518b462ee92368a51e65d77f23552c",
-            "size": 3230792,
+            "hash": "7f73acee7680c6c0aa3f3d3b8468f6df",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220725_14ddf4.rbf"
         },
         "_Unstable/NeoGeo_unstable_20220720_19b970.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1658938482,
+    "timestamp": 1658947097,
     "zips": {}
 }
