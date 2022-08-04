@@ -15,8 +15,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20220206_193a8a.rbf"
         },
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "658e5280d4fae1e881e0dd77626e13da",
-            "size": 3508684,
+            "hash": "44febd6ab76a0f48cb89942ae77e56e3",
+            "size": 489,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
@@ -113,6 +113,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1659542000,
+    "timestamp": 1659654601,
     "zips": {}
 }
