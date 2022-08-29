@@ -4,11 +4,6 @@
     "db_id": "unstable_nightlies_folder",
     "default_options": {},
     "files": {
-        "_Unstable/AcornElectron_unstable_20220206_193a8a.rbf": {
-            "hash": "d989117a9323ec1677aa7a1773b4cb74",
-            "size": 3340140,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20220206_193a8a.rbf"
-        },
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
             "hash": "658e5280d4fae1e881e0dd77626e13da",
             "size": 3508684,
@@ -94,6 +89,11 @@
             "size": 4239184,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220219_189c65.rbf"
         },
+        "_Unstable/X68000_unstable_20220829_126941.rbf": {
+            "hash": "aa57376283ff3c08b9af42e689509a10",
+            "size": 3692804,
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
+        },
         "_Unstable/ao486_unstable_20220627_133f22.rbf": {
             "hash": "724f2894aa3c0f1fbf7691f608bba19d",
             "size": 4215308,
@@ -108,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1661714801,
+    "timestamp": 1661779389,
     "zips": {}
 }
