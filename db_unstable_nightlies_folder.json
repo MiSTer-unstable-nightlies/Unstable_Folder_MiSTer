@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "658e5280d4fae1e881e0dd77626e13da",
-            "size": 3508684,
+            "hash": "35d65b2317430896ea0da62d758caffb",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
@@ -25,8 +25,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20220906_20271f.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
-            "hash": "da64e1eaf75ca4396ac7845272139bf2",
-            "size": 3600744,
+            "hash": "5ab52ed7cca6d73923e6221b6ae2fe2f",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220301_07cd7e.rbf"
         },
         "_Unstable/ColecoVision_unstable_20220527_18ac14.rbf": {
@@ -108,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1664025463,
+    "timestamp": 1664033837,
     "zips": {}
 }
