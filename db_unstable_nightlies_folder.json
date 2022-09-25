@@ -20,8 +20,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
         },
         "_Unstable/C64_unstable_20220906_20271f.rbf": {
-            "hash": "46347985cd763ca76ff3ef98e4d6a2b3",
-            "size": 3722032,
+            "hash": "96f6efea0c0973ac522a50f614634900",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20220906_20271f.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
@@ -35,8 +35,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20220527_18ac14.rbf"
         },
         "_Unstable/GBA_unstable_20220502_116529.rbf": {
-            "hash": "7cccce14b8d7f1a54c984c6d719826f1",
-            "size": 4238644,
+            "hash": "2b165188bf1aae66ed8a013faeb9c685",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20220502_116529.rbf"
         },
         "_Unstable/Gameboy_unstable_20220808_204a00.rbf": {
@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20220808_204a00.rbf"
         },
         "_Unstable/Genesis_unstable_20220829_17d6fd.rbf": {
-            "hash": "607c46a3de0363647cf7ae3e8fc6f880",
-            "size": 3723516,
+            "hash": "2379f3b26fbac2bb3377260c0b0e2f2f",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20220829_17d6fd.rbf"
         },
         "_Unstable/MegaCD_unstable_20220617_213071.rbf": {
@@ -65,8 +65,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20220725_14ddf4.rbf"
         },
         "_Unstable/NeoGeo_unstable_20220720_19b970.rbf": {
-            "hash": "3edc0cf95a13719b60004b34913ba0e2",
-            "size": 3690524,
+            "hash": "1e4d6cf93bc0b68ad1ea1aa2442c61c1",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20220720_19b970.rbf"
         },
         "_Unstable/PSX_unstable_20220925_074716.rbf": {
@@ -75,8 +75,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20220925_074716.rbf"
         },
         "_Unstable/SMS_unstable_20220825_229293.rbf": {
-            "hash": "fffec4f51ea87b8afa857f6e13927317",
-            "size": 3321168,
+            "hash": "ce0da21caea3607382a57003cb6947dd",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20220825_229293.rbf"
         },
         "_Unstable/SNES_unstable_20220903_16d615.rbf": {
@@ -90,13 +90,13 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20220913_11f9a9.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
-            "hash": "aa57376283ff3c08b9af42e689509a10",
-            "size": 3692804,
+            "hash": "bb24257131cd37269c65a6c7ab5bf5f8",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
         },
         "_Unstable/ao486_unstable_20220914_11c8bd.rbf": {
-            "hash": "2c606a70dd3e8d8231cc7ed18f511213",
-            "size": 4193740,
+            "hash": "b95706b0cbaaf3d214bddde5ba8da3f2",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20220914_11c8bd.rbf"
         },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
@@ -108,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1664098523,
+    "timestamp": 1664128303,
     "zips": {}
 }
