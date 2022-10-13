@@ -5,13 +5,13 @@
     "default_options": {},
     "files": {
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "b784d2a5e647dc9470586c55172181c1",
-            "size": 212,
+            "hash": "658e5280d4fae1e881e0dd77626e13da",
+            "size": 3508684,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
-            "hash": "603299f1d6ad99b0433a931bc219f9ac",
-            "size": 212,
+            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
+            "size": 3144216,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
@@ -25,8 +25,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20220906_20271f.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
-            "hash": "967fabcea26af0d98ddfc2a6b7d55d86",
-            "size": 212,
+            "hash": "da64e1eaf75ca4396ac7845272139bf2",
+            "size": 3600744,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220301_07cd7e.rbf"
         },
         "_Unstable/ColecoVision_unstable_20220527_18ac14.rbf": {
@@ -100,14 +100,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20220914_11c8bd.rbf"
         },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
-            "hash": "e19e012d9ba15a042d81912aa654c9f0",
-            "size": 212,
+            "hash": "2d5f6815a9ead93ae8b202af716124b3",
+            "size": 2413620,
             "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20220321_0670c5.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1665670396,
+    "timestamp": 1665672252,
     "zips": {}
 }
