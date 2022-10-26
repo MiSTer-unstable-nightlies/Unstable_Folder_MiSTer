@@ -10,8 +10,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
-            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
-            "size": 3144216,
+            "hash": "bcd582f22c644584da6565cde18ecaeb",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
@@ -108,6 +108,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1666634114,
+    "timestamp": 1666764923,
     "zips": {}
 }
