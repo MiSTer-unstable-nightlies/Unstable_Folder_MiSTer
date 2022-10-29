@@ -61,12 +61,14 @@ def gather_urls():
         if len(lines) == 0:
             print('rbf file not found')
 
+        lines.reverse()
         core_cache = set()
         for url in lines:
             cache_id = url.split('_unstable_')[0]
             if cache_id in core_cache:
                 continue
 
+            core_cache.add(cache_id)
             all_urls.append(url)
             print('URL: ' + url)
 
