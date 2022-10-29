@@ -55,9 +55,6 @@ def gather_urls():
     all_urls = []
     for name in proc.stdout.decode().splitlines():
         print(name)
-        if name in ['PlayStation_MiSTer']:
-            print('Discarded\n')
-            continue
 
         proc = subprocess.run(r'gh release view -R "MiSTer-unstable-nightlies/%s" unstable-builds --json "assets" 2> /tmp/stderr | jq -r ".assets[] | select(.name|test(\"^.*_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}[.]rbf$\")) | .url" | sort | tail -n 1' % name, shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
         url = proc.stdout.decode().strip()
