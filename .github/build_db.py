@@ -56,13 +56,19 @@ def gather_urls():
     for name in proc.stdout.decode().splitlines():
         print(name)
 
-        proc = subprocess.run(r'gh release view -R "MiSTer-unstable-nightlies/%s" unstable-builds --json "assets" 2> /tmp/stderr | jq -r ".assets[] | select(.name|test(\"^.*_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}[.]rbf$\")) | .url" | sort | tail -n 1' % name, shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
-        url = proc.stdout.decode().strip()
-        if url:
+        proc = subprocess.run(r'gh release view -R "MiSTer-unstable-nightlies/%s" unstable-builds --json "assets" 2> /tmp/stderr | jq -r ".assets[] | select(.name|test(\"^.*_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}[.]rbf$\")) | .url" | sort' % name, shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
+        lines = proc.stdout.decode().strip().splitlines()
+        if len(lines) == 0:
+            print('rbf file not found')
+
+        core_cache = set()
+        for url in lines:
+            cache_id = url.split('_unstable_')[0]
+            if cache_id in core_cache:
+                continue
+
             all_urls.append(url)
             print('URL: ' + url)
-        else:
-            print('rbf file not found')
 
         print()
     
