@@ -104,6 +104,11 @@
             "size": 3692804,
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
         },
+        "_Unstable/ZX-Spectrum_unstable_20221108_20fb16.rbf": {
+            "hash": "ec39bf09948b3e9ef2d295138617daf7",
+            "size": 3248444,
+            "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20221108_20fb16.rbf"
+        },
         "_Unstable/ao486_unstable_20220914_11c8bd.rbf": {
             "hash": "2c606a70dd3e8d8231cc7ed18f511213",
             "size": 4193740,
@@ -118,6 +123,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1667931240,
+    "timestamp": 1667943045,
     "zips": {}
 }
