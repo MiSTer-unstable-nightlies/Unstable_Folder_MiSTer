@@ -34,10 +34,10 @@
             "size": 2758216,
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
-        "_Unstable/GBA_unstable_20220502_116529.rbf": {
-            "hash": "7cccce14b8d7f1a54c984c6d719826f1",
-            "size": 4238644,
-            "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20220502_116529.rbf"
+        "_Unstable/GBA_unstable_20221114_17b8b3.rbf": {
+            "hash": "f518b4a07906d72bb48a77bab0c99959",
+            "size": 4246336,
+            "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20221114_17b8b3.rbf"
         },
         "_Unstable/Gameboy_unstable_20221114_12b304.rbf": {
             "hash": "30896ea2a1419b3e58156adb8dc22933",
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1668436527,
+    "timestamp": 1668452081,
     "zips": {}
 }
