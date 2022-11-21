@@ -20,8 +20,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
         },
         "_Unstable/C64_unstable_20221117_13df93.rbf": {
-            "hash": "96440424e9660968991a0d3caf0edd74",
-            "size": 3732304,
+            "hash": "08225b16150af38f054edf02b51c99c4",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20221117_13df93.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1668978525,
+    "timestamp": 1669028943,
     "zips": {}
 }
