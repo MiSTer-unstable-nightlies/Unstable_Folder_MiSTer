@@ -4,10 +4,10 @@
     "db_id": "unstable_nightlies_folder",
     "default_options": {},
     "files": {
-        "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "658e5280d4fae1e881e0dd77626e13da",
-            "size": 3508684,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
+        "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
             "hash": "fb62d779bb1d24893ae3bf3d1f593088",
@@ -19,10 +19,10 @@
             "size": 2797768,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
         },
-        "_Unstable/C64_unstable_20221117_13df93.rbf": {
-            "hash": "96440424e9660968991a0d3caf0edd74",
-            "size": 3732304,
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20221117_13df93.rbf"
+        "_Unstable/C64_unstable_20221125_233c27.rbf": {
+            "hash": "177c4257b0da8543d7620b7e32595354",
+            "size": 3707652,
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20221125_233c27.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
             "hash": "da64e1eaf75ca4396ac7845272139bf2",
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1669368529,
+    "timestamp": 1669423605,
     "zips": {}
 }
