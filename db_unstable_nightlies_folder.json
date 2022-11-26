@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
+            "hash": "da36d792a1459afe192b5ae310d47cef",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
@@ -20,8 +20,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
         },
         "_Unstable/C64_unstable_20221125_233c27.rbf": {
-            "hash": "177c4257b0da8543d7620b7e32595354",
-            "size": 3707652,
+            "hash": "40a1b709744cd9c5e8dc8fc76548de2b",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20221125_233c27.rbf"
         },
         "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
@@ -90,8 +90,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20221116_1638e2.rbf"
         },
         "_Unstable/Saturn_SingleSDRAM_unstable_20221116_1638e2.rbf": {
-            "hash": "a9d3b3d2d31c3da09d6739bb38bf0d68",
-            "size": 4540524,
+            "hash": "d98c5c0ed11151827909d064344dcfbe",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20221116_1638e2.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20220913_11f9a9.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1669423605,
+    "timestamp": 1669459375,
     "zips": {}
 }
