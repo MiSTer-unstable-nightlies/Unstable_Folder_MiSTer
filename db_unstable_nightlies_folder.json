@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
+            "hash": "04b698a8d497e928ff6e6263bb584c46",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1669721176,
+    "timestamp": 1669786975,
     "zips": {}
 }
