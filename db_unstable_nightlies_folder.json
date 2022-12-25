@@ -85,8 +85,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20221201_18d7f1.rbf"
         },
         "_Unstable/Saturn_SingleSDRAM_unstable_20221201_18d7f1.rbf": {
-            "hash": "ff1316191223a221773ee1c1379355ba",
-            "size": 4540588,
+            "hash": "50444beb78bf1b95547284d6eae28331",
+            "size": 489,
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20221201_18d7f1.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20220913_11f9a9.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1671901652,
+    "timestamp": 1671936392,
     "zips": {}
 }
