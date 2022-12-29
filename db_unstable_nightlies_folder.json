@@ -70,8 +70,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20221224_15c34e.rbf"
         },
         "_Unstable/SMS_unstable_20221106_13acc2.rbf": {
-            "hash": "439538761af200cb8a3aa4f5013e9a99",
-            "size": 212,
+            "hash": "aa5456eb41a6f5aa015b7ddbdb4f0dcf",
+            "size": 3311512,
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
         "_Unstable/SNES_unstable_20220903_16d615.rbf": {
@@ -118,6 +118,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1672297704,
+    "timestamp": 1672298642,
     "zips": {}
 }
