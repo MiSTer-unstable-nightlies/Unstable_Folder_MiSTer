@@ -4,10 +4,10 @@
     "db_id": "unstable_nightlies_folder",
     "default_options": {},
     "files": {
-        "_Unstable/AcornAtom_unstable_20220114_310b.rbf": {
-            "hash": "4a3ff89be325020c9e8a38641edcb51d",
-            "size": 3087108,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20220114_310b.rbf"
+        "_Unstable/AcornAtom_unstable_20230106_19fa5e.rbf": {
+            "hash": "6548e9cf32eaebaf7481db8c9afc7c90",
+            "size": 3062164,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230106_19fa5e.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230106_1988dd.rbf": {
             "hash": "97a30dde0daf8e024b7f8038704d85c8",
@@ -128,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1673034162,
+    "timestamp": 1673035786,
     "zips": {}
 }
