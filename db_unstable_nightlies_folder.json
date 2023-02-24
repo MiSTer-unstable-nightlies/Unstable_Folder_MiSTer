@@ -60,8 +60,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
-            "hash": "a8eb01d1892d22501ab7a879fca2285d",
-            "size": 3159732,
+            "hash": "bc1f7b0dc4f5eed9effb911918581e33",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20210305_d536.rbf"
         },
         "_Unstable/NES_unstable_20221224_0708d3.rbf": {
@@ -70,8 +70,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20221224_0708d3.rbf"
         },
         "_Unstable/NeoGeo_unstable_20230208_13d566.rbf": {
-            "hash": "41a47fb4709913e3c8113092ebf2b65b",
-            "size": 3696220,
+            "hash": "fe5883f9778db4505a4cd23dfc81c63c",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20230208_13d566.rbf"
         },
         "_Unstable/PSX_unstable_20230220_0787c2.rbf": {
@@ -85,8 +85,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
         "_Unstable/SNES_unstable_20230208_13cb15.rbf": {
-            "hash": "1b1699a55b25d93c56eb9ae9f7fb4b35",
-            "size": 4368468,
+            "hash": "22f124b6048691543e86ab5b9a2cefc3",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20230208_13cb15.rbf"
         },
         "_Unstable/Saturn_DualSDRAM_unstable_20221201_18d7f1.rbf": {
@@ -120,14 +120,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20221217_16b116.rbf"
         },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
-            "hash": "2d5f6815a9ead93ae8b202af716124b3",
-            "size": 2413620,
+            "hash": "6745433a316f4dbc06ef14c993b4f0aa",
+            "size": 212,
             "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20220321_0670c5.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1676995881,
+    "timestamp": 1677216509,
     "zips": {}
 }
