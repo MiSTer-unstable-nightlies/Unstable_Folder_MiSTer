@@ -34,6 +34,11 @@
             "size": 3707652,
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20221125_233c27.rbf"
         },
+        "_Unstable/CoCo3_unstable_20220301_07cd7e.rbf": {
+            "hash": "da64e1eaf75ca4396ac7845272139bf2",
+            "size": 3600744,
+            "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20220301_07cd7e.rbf"
+        },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
             "hash": "b4fa77e938718f245e3400c83d5e7099",
             "size": 2758216,
@@ -104,11 +109,6 @@
             "size": 4235820,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230129_19f6c7.rbf"
         },
-        "_Unstable/X68000_unstable_20220829_126941.rbf": {
-            "hash": "aa57376283ff3c08b9af42e689509a10",
-            "size": 3692804,
-            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
-        },
         "_Unstable/ZX-Spectrum_unstable_20221108_20fb16.rbf": {
             "hash": "ec39bf09948b3e9ef2d295138617daf7",
             "size": 3248444,
@@ -128,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677280176,
+    "timestamp": 1677281287,
     "zips": {}
 }
