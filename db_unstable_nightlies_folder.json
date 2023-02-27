@@ -24,6 +24,11 @@
             "size": 3020072,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
+        "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
+            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
+            "size": 3524848,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf"
+        },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
             "hash": "7e42b4562cafe9d1b588518429efd1b2",
             "size": 2797768,
@@ -128,6 +133,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677356873,
+    "timestamp": 1677464335,
     "zips": {}
 }
