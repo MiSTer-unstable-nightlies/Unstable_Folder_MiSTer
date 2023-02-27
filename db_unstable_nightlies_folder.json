@@ -10,13 +10,13 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230224_22e2d9.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230224_227dcf.rbf": {
-            "hash": "77dcf50726d72c73d83aadd8afdf9599",
-            "size": 212,
+            "hash": "9648b1b06f6f66e017c1199471bf33c2",
+            "size": 3360368,
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "5dba4d26f3f515bbe04b4fabdac4740b",
-            "size": 212,
+            "hash": "658e5280d4fae1e881e0dd77626e13da",
+            "size": 3508684,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
@@ -25,8 +25,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
-            "hash": "8ccabd96d5c0adcd77cefb6ef52cb94c",
-            "size": 212,
+            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
+            "size": 3524848,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20230224_23a308.rbf"
         },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "90ade3b9c44a1634afcfb829007a3000",
-            "size": 212,
+            "hash": "b4fa77e938718f245e3400c83d5e7099",
+            "size": 2758216,
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20221114_17b8b3.rbf": {
@@ -123,6 +123,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677517738,
+    "timestamp": 1677518966,
     "zips": {}
 }
