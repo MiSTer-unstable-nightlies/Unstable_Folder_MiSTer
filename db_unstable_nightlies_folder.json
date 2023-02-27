@@ -44,6 +44,11 @@
             "size": 3645788,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20230224_23a308.rbf"
         },
+        "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
+            "hash": "b4fa77e938718f245e3400c83d5e7099",
+            "size": 2758216,
+            "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
+        },
         "_Unstable/GBA_unstable_20221114_17b8b3.rbf": {
             "hash": "f518b4a07906d72bb48a77bab0c99959",
             "size": 4246336,
@@ -94,16 +99,6 @@
             "size": 4368468,
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20230208_13cb15.rbf"
         },
-        "_Unstable/Saturn_DualSDRAM_unstable_20221201_18d7f1.rbf": {
-            "hash": "077b09e78a8aaab362c23811a52d5be5",
-            "size": 4537956,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20221201_18d7f1.rbf"
-        },
-        "_Unstable/Saturn_SingleSDRAM_unstable_20221201_18d7f1.rbf": {
-            "hash": "ff1316191223a221773ee1c1379355ba",
-            "size": 4540588,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20221201_18d7f1.rbf"
-        },
         "_Unstable/TurboGrafx16_unstable_20230129_19f6c7.rbf": {
             "hash": "f7a0597a23c9c9d1b1a5d2c47d69c611",
             "size": 4235820,
@@ -128,6 +123,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677511813,
+    "timestamp": 1677514394,
     "zips": {}
 }
