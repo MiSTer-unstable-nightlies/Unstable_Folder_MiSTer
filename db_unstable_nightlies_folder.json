@@ -14,10 +14,10 @@
             "size": 3360368,
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
-        "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
+        "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
+            "hash": "658e5280d4fae1e881e0dd77626e13da",
+            "size": 3508684,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
             "hash": "70c7c504b22313543a81283bd77d4600",
@@ -43,11 +43,6 @@
             "hash": "3d848dd808a41c75abb84fc78123175e",
             "size": 3645788,
             "url": "https://github.com/MiSTer-unstable-nightlies/CoCo3_MiSTer/releases/download/unstable-builds/CoCo3_unstable_20230224_23a308.rbf"
-        },
-        "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "b4fa77e938718f245e3400c83d5e7099",
-            "size": 2758216,
-            "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20221114_17b8b3.rbf": {
             "hash": "f518b4a07906d72bb48a77bab0c99959",
@@ -133,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677508965,
+    "timestamp": 1677511813,
     "zips": {}
 }
