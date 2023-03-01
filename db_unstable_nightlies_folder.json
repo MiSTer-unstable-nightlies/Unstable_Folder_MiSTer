@@ -19,6 +19,11 @@
             "size": 3508684,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
+        "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
+        },
         "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
             "hash": "70c7c504b22313543a81283bd77d4600",
             "size": 3020072,
@@ -109,11 +114,6 @@
             "size": 3248444,
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20221108_20fb16.rbf"
         },
-        "_Unstable/ao486_unstable_20221217_16b116.rbf": {
-            "hash": "4668bb141c246704dd37f147aecfa3d7",
-            "size": 4235008,
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20221217_16b116.rbf"
-        },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
             "hash": "2d5f6815a9ead93ae8b202af716124b3",
             "size": 2413620,
@@ -123,6 +123,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677680995,
+    "timestamp": 1677684635,
     "zips": {}
 }
