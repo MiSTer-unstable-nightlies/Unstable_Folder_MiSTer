@@ -29,6 +29,11 @@
             "size": 3524848,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf"
         },
+        "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
+            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
+            "size": 3144216,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
+        },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
             "hash": "7e42b4562cafe9d1b588518429efd1b2",
             "size": 2797768,
@@ -123,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1677787852,
+    "timestamp": 1677956855,
     "zips": {}
 }
