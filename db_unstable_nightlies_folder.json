@@ -29,6 +29,11 @@
             "size": 2753280,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
+        "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
+            "hash": "1ef609b811e76812412292e60324db11",
+            "size": 3417396,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
+        },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
             "hash": "71eb3c90a82b44af9a567ce37a8878ca",
             "size": 3524848,
@@ -113,16 +118,11 @@
             "hash": "ec39bf09948b3e9ef2d295138617daf7",
             "size": 3248444,
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20221108_20fb16.rbf"
-        },
-        "_Unstable/menu_unstable_20220321_0670c5.rbf": {
-            "hash": "2d5f6815a9ead93ae8b202af716124b3",
-            "size": 2413620,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20220321_0670c5.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1679034682,
+    "timestamp": 1679038973,
     "zips": {}
 }
