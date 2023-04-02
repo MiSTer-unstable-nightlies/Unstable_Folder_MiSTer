@@ -109,10 +109,10 @@
             "size": 3311512,
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20230401_185fb8.rbf": {
-            "hash": "6980124b6af8be7c502ee1ace5d2ad9f",
-            "size": 4256812,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230401_185fb8.rbf"
+        "_Unstable/TurboGrafx16_unstable_20230402_16aad6.rbf": {
+            "hash": "f638178e9c0a99bb63b52053cbce3c50",
+            "size": 4257420,
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230402_16aad6.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20221108_20fb16.rbf": {
             "hash": "ec39bf09948b3e9ef2d295138617daf7",
@@ -123,6 +123,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1680376970,
+    "timestamp": 1680455198,
     "zips": {}
 }
