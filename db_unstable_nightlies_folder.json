@@ -84,15 +84,15 @@
             "size": 2698284,
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20220307_202856.rbf"
         },
-        "_Unstable/MegaCD_unstable_20220617_213071.rbf": {
-            "hash": "b28c6113e685a825ff9cb0267b3cb4d1",
-            "size": 4205304,
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20220617_213071.rbf"
-        },
         "_Unstable/NES_unstable_20230401_05ab42.rbf": {
             "hash": "44c4f52be522fdcc537bc98903ecfc84",
             "size": 3233692,
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20230401_05ab42.rbf"
+        },
+        "_Unstable/PC88_unstable_20220213_1854ff.rbf": {
+            "hash": "6dbafd77e96fa85f76d0710eefd8175e",
+            "size": 2931856,
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20220213_1854ff.rbf"
         },
         "_Unstable/PSX_unstable_20230330_170b11.rbf": {
             "hash": "aa5c5faa8015f15edc880ed8b161d247",
@@ -128,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1681115350,
+    "timestamp": 1681160873,
     "zips": {}
 }
