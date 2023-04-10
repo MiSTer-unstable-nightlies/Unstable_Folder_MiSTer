@@ -79,11 +79,6 @@
             "size": 3877068,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230225_10436c.rbf"
         },
-        "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
-            "size": 3773348,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
-        },
         "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
             "hash": "a0da84002d6c1ab4302623907572ce11",
             "size": 2698284,
@@ -109,6 +104,16 @@
             "size": 3311512,
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
+        "_Unstable/Saturn_DualSDRAM_unstable_20230409_12d7f1.rbf": {
+            "hash": "1ae22d847d846ac3ac94b2ef438121fe",
+            "size": 4524888,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20230409_12d7f1.rbf"
+        },
+        "_Unstable/Saturn_SingleSDRAM_unstable_20230409_12d7f1.rbf": {
+            "hash": "a96283337edc078c4260b745a15940a7",
+            "size": 4549752,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20230409_12d7f1.rbf"
+        },
         "_Unstable/TurboGrafx16_unstable_20230402_16aad6.rbf": {
             "hash": "f638178e9c0a99bb63b52053cbce3c50",
             "size": 4257420,
@@ -123,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1680801890,
+    "timestamp": 1681111362,
     "zips": {}
 }
