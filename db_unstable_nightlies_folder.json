@@ -94,6 +94,11 @@
             "size": 4373444,
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20230330_170b11.rbf"
         },
+        "_Unstable/S32X_unstable_20230411_21173b.rbf": {
+            "hash": "b0950a072ae74d0b2564a5f7355cc0fa",
+            "size": 4222412,
+            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20230411_21173b.rbf"
+        },
         "_Unstable/SMS_unstable_20221106_13acc2.rbf": {
             "hash": "aa5456eb41a6f5aa015b7ddbdb4f0dcf",
             "size": 3311512,
@@ -123,6 +128,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1681250872,
+    "timestamp": 1681252968,
     "zips": {}
 }
