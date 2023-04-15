@@ -74,10 +74,10 @@
             "size": 4246336,
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20221114_17b8b3.rbf"
         },
-        "_Unstable/Gameboy_unstable_20230415_054087.rbf": {
-            "hash": "2fb97dc1923a080515896a2744e532d3",
-            "size": 3851648,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230415_054087.rbf"
+        "_Unstable/Gameboy_unstable_20230415_13d5f3.rbf": {
+            "hash": "51abcc331f2481ce85bfc170f0e95813",
+            "size": 3828264,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230415_13d5f3.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
             "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
@@ -133,6 +133,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1681547274,
+    "timestamp": 1681566185,
     "zips": {}
 }
