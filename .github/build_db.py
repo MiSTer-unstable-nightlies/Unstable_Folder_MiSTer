@@ -51,7 +51,7 @@ def main():
     print('Done.')
 
 def gather_urls():
-    proc = subprocess.run('gh repo list MiSTer-unstable-nightlies --json "name" | jq -r ".[].name"', shell=True, stdout=subprocess.PIPE)
+    proc = subprocess.run('gh repo list -L 200 MiSTer-unstable-nightlies --json "name" | jq -r ".[].name"', shell=True, stdout=subprocess.PIPE)
     all_urls = []
     for name in proc.stdout.decode().splitlines():
         print(name)
