@@ -55,8 +55,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20230413_214d39.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
-            "hash": "1df325a75ca8fd1bc2d9a1556f6e7c74",
-            "size": 504,
+            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
+            "size": 3144216,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
@@ -160,8 +160,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20230402_16aad6.rbf": {
-            "hash": "e51dd78d2d02b6a1fe8595e435eaa66e",
-            "size": 9,
+            "hash": "f638178e9c0a99bb63b52053cbce3c50",
+            "size": 4257420,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230402_16aad6.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
@@ -188,6 +188,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1682933075,
+    "timestamp": 1682934174,
     "zips": {}
 }
