@@ -20,8 +20,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
         "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "d262eb5012599863756903a9a0b36e5d",
-            "size": 504,
+            "hash": "658e5280d4fae1e881e0dd77626e13da",
+            "size": 3508684,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
@@ -55,8 +55,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20230413_214d39.rbf"
         },
         "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
-            "hash": "e51dd78d2d02b6a1fe8595e435eaa66e",
-            "size": 9,
+            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
+            "size": 3144216,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
@@ -80,13 +80,13 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20221114_17b8b3.rbf": {
-            "hash": "54f2a8d063f2ec0d1ab800a85ef22600",
-            "size": 504,
+            "hash": "f518b4a07906d72bb48a77bab0c99959",
+            "size": 4246336,
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20221114_17b8b3.rbf"
         },
         "_Unstable/Gameboy_unstable_20230430_22ef88.rbf": {
-            "hash": "e60a88a60ae31746744d629d0a4bf06a",
-            "size": 504,
+            "hash": "7d717695283af8494ca36bc0da9750ad",
+            "size": 3868788,
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230430_22ef88.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
@@ -100,8 +100,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20220307_202856.rbf"
         },
         "_Unstable/MegaCD_unstable_20220617_213071.rbf": {
-            "hash": "f313f7e7476957956a2c8765caf26e97",
-            "size": 504,
+            "hash": "b28c6113e685a825ff9cb0267b3cb4d1",
+            "size": 4205304,
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20220617_213071.rbf"
         },
         "_Unstable/Minimig_unstable_20210305_d536.rbf": {
@@ -125,8 +125,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20230413_214910.rbf"
         },
         "_Unstable/PSX_unstable_20230330_170b11.rbf": {
-            "hash": "aa5c5faa8015f15edc880ed8b161d247",
-            "size": 4373444,
+            "hash": "e51dd78d2d02b6a1fe8595e435eaa66e",
+            "size": 9,
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20230330_170b11.rbf"
         },
         "_Unstable/S32X_unstable_20230417_167dc3.rbf": {
@@ -150,8 +150,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20230415_08758e.rbf"
         },
         "_Unstable/Saturn_SingleSDRAM_unstable_20230415_08758e.rbf": {
-            "hash": "e51dd78d2d02b6a1fe8595e435eaa66e",
-            "size": 9,
+            "hash": "a54942e65d34c974a26731c916ccda7b",
+            "size": 4578876,
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20230415_08758e.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20220125_a7eb.rbf": {
@@ -188,6 +188,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1682952193,
+    "timestamp": 1682953724,
     "zips": {}
 }
