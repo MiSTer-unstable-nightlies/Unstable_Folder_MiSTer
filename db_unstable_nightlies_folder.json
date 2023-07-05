@@ -19,10 +19,10 @@
             "size": 2595328,
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
-        "_Unstable/Apple-II_unstable_20220303_10fac4.rbf": {
-            "hash": "658e5280d4fae1e881e0dd77626e13da",
-            "size": 3508684,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20220303_10fac4.rbf"
+        "_Unstable/Apple-II_unstable_20230705_1665c6.rbf": {
+            "hash": "99fe231b939072a0dff1ceb0760df34f",
+            "size": 3556500,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20230705_1665c6.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
             "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
@@ -188,6 +188,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1688426873,
+    "timestamp": 1688575138,
     "zips": {}
 }
