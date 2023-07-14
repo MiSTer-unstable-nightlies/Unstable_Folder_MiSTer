@@ -90,8 +90,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230523_20291f.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
-            "size": 3773348,
+            "hash": "44c4f52be522fdcc537bc98903ecfc84",
+            "size": 3233692,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
         "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
@@ -188,6 +188,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1689192594,
+    "timestamp": 1689369913,
     "zips": {}
 }
