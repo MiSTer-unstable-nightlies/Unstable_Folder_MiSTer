@@ -19,6 +19,11 @@
             "size": 2595328,
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
+        "_Unstable/Amstrad_unstable_20230811_21ef39.rbf": {
+            "hash": "6b81dd02bcbb60c4673af3a6a87f7269",
+            "size": 2796160,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230811_21ef39.rbf"
+        },
         "_Unstable/Apple-II_unstable_20230716_07c73b.rbf": {
             "hash": "920237a2c06c9ba7daa5bfb156432208",
             "size": 3750956,
@@ -188,6 +193,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1691725374,
+    "timestamp": 1691791653,
     "zips": {}
 }
