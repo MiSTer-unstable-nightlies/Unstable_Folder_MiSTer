@@ -185,14 +185,14 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20221217_16b116.rbf"
         },
         "_Unstable/menu_unstable_20220321_0670c5.rbf": {
-            "hash": "2d5f6815a9ead93ae8b202af716124b3",
-            "size": 2413620,
+            "hash": "060639effc740fd9724f2d2abb8e9b4d",
+            "size": 489,
             "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20220321_0670c5.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1692008903,
+    "timestamp": 1692009768,
     "zips": {}
 }
