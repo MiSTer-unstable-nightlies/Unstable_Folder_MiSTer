@@ -15,8 +15,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
         "_Unstable/AliceMC10_unstable_20230413_214cb7.rbf": {
-            "hash": "919f3f41f851f57e3eb9aec18e8895e3",
-            "size": 212,
+            "hash": "9115406d31209a8c4dcfe72f38357992",
+            "size": 2595328,
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
         "_Unstable/Amstrad_unstable_20230811_21ef39.rbf": {
@@ -25,8 +25,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230811_21ef39.rbf"
         },
         "_Unstable/Apple-II_unstable_20230716_07c73b.rbf": {
-            "hash": "96ef3766daf1edcb8ecf1895343edd62",
-            "size": 212,
+            "hash": "920237a2c06c9ba7daa5bfb156432208",
+            "size": 3750956,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20230716_07c73b.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
@@ -95,8 +95,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230523_20291f.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "c1785db84c861e8601d3c881106c69cb",
-            "size": 212,
+            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
+            "size": 3773348,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
         "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
@@ -165,8 +165,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20230618_147417.rbf": {
-            "hash": "0d50c2ce95bb1a6d316bb010c59bef78",
-            "size": 212,
+            "hash": "c8590885c6111719b6c7ce4be7b58d5e",
+            "size": 4245976,
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230618_147417.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
@@ -193,6 +193,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1692375031,
+    "timestamp": 1692376205,
     "zips": {}
 }
