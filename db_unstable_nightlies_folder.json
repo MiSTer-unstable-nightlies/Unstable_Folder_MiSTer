@@ -10,8 +10,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230224_22e2d9.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230224_227dcf.rbf": {
-            "hash": "aa5456eb41a6f5aa015b7ddbdb4f0dcf",
-            "size": 3311512,
+            "hash": "9648b1b06f6f66e017c1199471bf33c2",
+            "size": 3360368,
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
         "_Unstable/AliceMC10_unstable_20230413_214cb7.rbf": {
@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
         "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "1ef609b811e76812412292e60324db11",
+            "size": 3417396,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
@@ -95,8 +95,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230523_20291f.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "70c7c504b22313543a81283bd77d4600",
-            "size": 3020072,
+            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
+            "size": 3773348,
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
         "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
@@ -175,8 +175,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230930_137f98.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
-            "hash": "2d5f6815a9ead93ae8b202af716124b3",
-            "size": 2413620,
+            "hash": "aa57376283ff3c08b9af42e689509a10",
+            "size": 3692804,
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20230911_137b25.rbf": {
@@ -198,6 +198,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1696347771,
+    "timestamp": 1696349461,
     "zips": {}
 }
