@@ -169,10 +169,10 @@
             "size": 2819696,
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20230930_137f98.rbf": {
-            "hash": "eb571ea3b01f3bb14e31952d08b958e0",
-            "size": 4251336,
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20230930_137f98.rbf"
+        "_Unstable/TurboGrafx16_unstable_20231015_080643.rbf": {
+            "hash": "6c2212b61561fb7aaccfad130bbcfbc5",
+            "size": 4251224,
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20231015_080643.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
             "hash": "aa57376283ff3c08b9af42e689509a10",
@@ -198,6 +198,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1696720053,
+    "timestamp": 1697360854,
     "zips": {}
 }
