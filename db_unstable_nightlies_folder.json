@@ -59,10 +59,10 @@
             "size": 3139172,
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20230413_214d39.rbf"
         },
-        "_Unstable/AtariLynx_unstable_20220222_0626ef.rbf": {
-            "hash": "fb62d779bb1d24893ae3bf3d1f593088",
-            "size": 3144216,
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20220222_0626ef.rbf"
+        "_Unstable/AtariLynx_unstable_20231204_044876.rbf": {
+            "hash": "08a9cca6a679c99389d014ea970684b6",
+            "size": 3115224,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20231204_044876.rbf"
         },
         "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
             "hash": "7e42b4562cafe9d1b588518429efd1b2",
@@ -208,6 +208,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1701587254,
+    "timestamp": 1701666551,
     "zips": {}
 }
