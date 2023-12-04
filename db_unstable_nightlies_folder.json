@@ -199,15 +199,15 @@
             "size": 4240968,
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20230920_077bd0.rbf"
         },
-        "_Unstable/menu_unstable_20220321_0670c5.rbf": {
-            "hash": "2d5f6815a9ead93ae8b202af716124b3",
-            "size": 2413620,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20220321_0670c5.rbf"
+        "_Unstable/menu_unstable_20231204_05f0db.rbf": {
+            "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
+            "size": 2482252,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20231204_05f0db.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1701666551,
+    "timestamp": 1701668576,
     "zips": {}
 }
