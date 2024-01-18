@@ -159,20 +159,20 @@
             "size": 4597944,
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTerOld/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20231004_09df08.rbf"
         },
-        "_Unstable/Saturn_DualSDRAM_unstable_20240116_14dc2e.rbf": {
-            "hash": "81c1f76657d5dc9b465ddfbb07cb65c4",
-            "size": 4608744,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20240116_14dc2e.rbf"
+        "_Unstable/Saturn_DualSDRAM_unstable_20240118_166d6e.rbf": {
+            "hash": "6ca3c93b4739d8e53110610e6fe0926a",
+            "size": 4608648,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20240118_166d6e.rbf"
         },
         "_Unstable/Saturn_SingleSDRAM_unstable_20231004_09df08.rbf": {
             "hash": "56352b31a444cb6f5724d0e7382001b9",
             "size": 4627124,
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTerOld/releases/download/unstable-builds/Saturn_SingleSDRAM_unstable_20231004_09df08.rbf"
         },
-        "_Unstable/Saturn_unstable_20240116_14dc2e.rbf": {
-            "hash": "48ce862b61a290236776706767614ab8",
-            "size": 4634108,
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20240116_14dc2e.rbf"
+        "_Unstable/Saturn_unstable_20240118_166d6e.rbf": {
+            "hash": "f2e84371013cf95522afc9b6de66533a",
+            "size": 4637424,
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20240118_166d6e.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20220125_a7eb.rbf": {
             "hash": "5b3b2f511b79fc0deba042cf69841a02",
@@ -208,6 +208,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1705417769,
+    "timestamp": 1705597716,
     "zips": {}
 }
