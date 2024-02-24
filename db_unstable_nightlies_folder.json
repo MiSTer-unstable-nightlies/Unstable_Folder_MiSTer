@@ -64,6 +64,11 @@
             "size": 3141200,
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20240101_139e93.rbf"
         },
+        "_Unstable/AtariST_unstable_20220520_17a2d5.rbf": {
+            "hash": "7e42b4562cafe9d1b588518429efd1b2",
+            "size": 2797768,
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20220520_17a2d5.rbf"
+        },
         "_Unstable/C64_unstable_20240127_131e40.rbf": {
             "hash": "1e70cbd8791817e260ea657bc9af6a02",
             "size": 3701796,
@@ -128,6 +133,11 @@
             "hash": "f8ec843e70d44021412638ebb5ad0499",
             "size": 2962380,
             "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20230413_214910.rbf"
+        },
+        "_Unstable/PSX_unstable_20231203_060c3e.rbf": {
+            "hash": "86ab078a5b12625c264f9fda95efb936",
+            "size": 4332792,
+            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20231203_060c3e.rbf"
         },
         "_Unstable/S32X_unstable_20231007_22e18b.rbf": {
             "hash": "51d6069bbe030820e4294ce498953d19",
@@ -198,6 +208,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1708758548,
+    "timestamp": 1708759358,
     "zips": {}
 }
