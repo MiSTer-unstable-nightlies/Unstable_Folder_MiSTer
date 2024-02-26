@@ -25,8 +25,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230909_1714ed.rbf"
         },
         "_Unstable/Apple-II_unstable_20230716_07c73b.rbf": {
-            "hash": "920237a2c06c9ba7daa5bfb156432208",
-            "size": 3750956,
+            "hash": "5f18cc92e51f2d9c989ddbd62f1d66a9",
+            "size": 445,
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20230716_07c73b.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
@@ -208,6 +208,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1708864630,
+    "timestamp": 1708982598,
     "zips": {}
 }
