@@ -110,11 +110,13 @@ def unlink(path):
         pass
 
 def describe_file(url, file):
+    name = Path(url).name.split('_unstable_')[0]
     try:
         return {
             "url": url,
             "size": size(file),
-            "hash": hash(file)
+            "hash": hash(file),
+            "tags": [name]
         }
     except Exception as e:
         print('Exception during ' + url)
