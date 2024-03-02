@@ -111,7 +111,7 @@ def unlink(path):
         pass
 
 def describe_file(url, file):
-    name = Path(url).name.split('_unstable_')[0]
+    name = Path(url).name.split('_unstable_')[0].lower()
     try:
         return {
             "url": url,
