@@ -25,6 +25,7 @@ import time
 import tempfile
 import os
 import sys
+import re
 
 _print = print
 def print(text=""):
@@ -116,7 +117,7 @@ def describe_file(url, file):
             "url": url,
             "size": size(file),
             "hash": hash(file),
-            "tags": [name]
+            "tags": [clean_tag(name)]
         }
     except Exception as e:
         print('Exception during ' + url)
@@ -172,6 +173,12 @@ def changes_detected_impl(db):
         db['timestamp'] = 0
 
         return json.dumps(existing, sort_keys=True) != json.dumps(db, sort_keys=True)
+
+term_regex = re.compile("[-_a-z0-9.]$", )
+
+def clean_tag(term: str) -> str:
+    result = ''.join(filter(lambda chr: term_regex.match(chr), term.replace(' ', '')))
+    return result.replace('-', '').replace('_', '')
 
 if __name__ == "__main__":
     main()
