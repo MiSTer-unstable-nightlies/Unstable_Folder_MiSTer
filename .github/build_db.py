@@ -198,7 +198,7 @@ def add_n64(db):
         download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
         with open(already_existing_file) as json_file:
             for file_path, file_description in json.load(json_file)['files'].items():
-                if 'tags' in file_description and 'n64' in file_description:
+                if 'tags' in file_description and 'n64' in file_description['tags']:
                     db['files'][file_path] = file_description
 
 if __name__ == "__main__":
