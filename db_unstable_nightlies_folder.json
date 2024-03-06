@@ -196,6 +196,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20240121_038b17.rbf"
         },
+        "_Unstable/N64_unstable_20240306_051044.rbf": {
+            "hash": "41bee5f57c7e5da86ac3a2cd0e1f7eb1",
+            "size": 3868776,
+            "tags": [
+                "n64"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/Mister64/releases/download/unstable-builds/N64_unstable_20240306_051044.rbf"
+        },
         "_Unstable/NES_unstable_20230728_193cb5.rbf": {
             "hash": "2cc2a58450a40a4d7055b783101d0025",
             "size": 3236244,
@@ -320,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1709599158,
+    "timestamp": 1709706578,
     "zips": {}
 }
