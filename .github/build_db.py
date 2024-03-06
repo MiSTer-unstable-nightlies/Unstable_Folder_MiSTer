@@ -183,12 +183,23 @@ def clean_tag(term: str) -> str:
     return result.replace('-', '').replace('_', '')
 
 def add_n64(db):
-    getlast_tmp = "/tmp/getlast.json"
-    download("https://vampier.net/N64/getlast.php", getlast_tmp)
-    with open(getlast_tmp) as getlast_db:
-        for file_path, file_description in json.load(getlast_db)['files'].items():
-            db['files'][file_path] = file_description
-            file_description['tags'] = ['n64', 'nintendo64']
+    try:
+        getlast_tmp = "/tmp/getlast.json"
+        download("https://vampier.net/N64/getlast.php", getlast_tmp)
+        with open(getlast_tmp) as getlast_db:
+            for file_path, file_description in json.load(getlast_db)['files'].items():
+                db['files'][file_path] = file_description
+                file_description['tags'] = ['n64', 'nintendo64']
+    except Exception as err:
+        print('Exception on add_n64!')
+        print(err)
+        print('Running fallback')
+        already_existing_file = "/tmp/existing.json"
+        download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
+        with open(already_existing_file) as json_file:
+            for file_path, file_description in json.load(json_file)['files'].items():
+                if 'tags' in file_description and 'n64' in file_description:
+                    db['files'][file_path] = file_description
 
 if __name__ == "__main__":
     main()
