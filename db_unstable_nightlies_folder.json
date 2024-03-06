@@ -93,8 +93,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20230413_214d39.rbf"
         },
         "_Unstable/AtariLynx_unstable_20240101_139e93.rbf": {
-            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
-            "size": 54890,
+            "hash": "f5eb4fcf17595c18123d19ace26a7150",
+            "size": 3141200,
             "tags": [
                 "atarilynx"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1709746013,
+    "timestamp": 1709746982,
     "zips": {}
 }
