@@ -186,7 +186,7 @@ def add_n64(db):
     getlast_tmp = "/tmp/getlast.json"
     download("https://vampier.net/N64/getlast.php", getlast_tmp)
     with open(getlast_tmp) as getlast_db:
-        for file_path, file_description in getlast_db['files'].items():
+        for file_path, file_description in json.load(getlast_db)['files'].items():
             db['files'][file_path] = file_description
             file_description['tags'] = ['n64', 'nintendo64']
 
