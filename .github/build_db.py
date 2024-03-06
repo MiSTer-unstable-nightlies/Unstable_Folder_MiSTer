@@ -42,6 +42,8 @@ def main():
         return
     
     db = create_db(all_urls)
+
+    add_n64(db)
     
     json_name = 'db_unstable_nightlies_folder.json'
     save_json(db, json_name)
@@ -179,6 +181,14 @@ term_regex = re.compile("[-_a-z0-9.]$", )
 def clean_tag(term: str) -> str:
     result = ''.join(filter(lambda chr: term_regex.match(chr), term.replace(' ', '')))
     return result.replace('-', '').replace('_', '')
+
+def add_n64(db):
+    getlast_tmp = "/tmp/getlast.json"
+    download("https://vampier.net/N64/getlast.php", getlast_tmp)
+    with open(getlast_tmp) as getlast_db:
+        for file_path, file_description in getlast_db['files'].items():
+            db['files'][file_path] = file_description
+            file_description['tags'] = ['n64', 'nintendo64']
 
 if __name__ == "__main__":
     main()
