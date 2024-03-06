@@ -132,6 +132,15 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
+        "_Unstable/DataBase_20240119032810.txt": {
+            "hash": "f31b285509c561bfc038f375a10eb775",
+            "size": 87425,
+            "tags": [
+                "n64",
+                "nintendo64"
+            ],
+            "url": "https://vampier.net/N64/Builds/DataBase_20240119032810.txt"
+        },
         "_Unstable/GBA_unstable_20231205_13464a.rbf": {
             "hash": "5f30ccacb711620af071339eb6cb9274",
             "size": 4277432,
@@ -155,14 +164,6 @@
                 "genesis"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
-        },
-        "_Unstable/M_unstable_20240304_23c73e.rbf": {
-            "hash": "326606a182ddad0fa9263d8469f67bc0",
-            "size": 3885664,
-            "tags": [
-                "m"
-            ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Mister64/releases/download/unstable-builds/M_unstable_20240304_23c73e.rbf"
         },
         "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
             "hash": "a0da84002d6c1ab4302623907572ce11",
@@ -196,13 +197,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20240121_038b17.rbf"
         },
-        "_Unstable/N64_unstable_20240306_051044.rbf": {
-            "hash": "41bee5f57c7e5da86ac3a2cd0e1f7eb1",
-            "size": 3868776,
+        "_Unstable/N64_20240303.rbf": {
+            "hash": "5446d3397ec59b17db2369566bb8617a",
+            "size": 3819880,
             "tags": [
-                "n64"
+                "n64",
+                "nintendo64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Mister64/releases/download/unstable-builds/N64_unstable_20240306_051044.rbf"
+            "url": "https://github.com/RobertPeip/Mister64/releases/download/testbuild_2024_03_03/N64_20240303.rbf"
         },
         "_Unstable/NES_unstable_20230728_193cb5.rbf": {
             "hash": "2cc2a58450a40a4d7055b783101d0025",
@@ -328,6 +330,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1709750576,
+    "timestamp": 1709762919,
     "zips": {}
 }
