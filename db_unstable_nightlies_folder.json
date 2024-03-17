@@ -13,8 +13,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230224_22e2d9.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230224_227dcf.rbf": {
-            "hash": "9648b1b06f6f66e017c1199471bf33c2",
-            "size": 3360368,
+            "hash": "a6f09fd97feb0d4af28ebbd04c0052cc",
+            "size": 160962,
             "tags": [
                 "acornelectron"
             ],
@@ -330,6 +330,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1710583722,
+    "timestamp": 1710671208,
     "zips": {}
 }
