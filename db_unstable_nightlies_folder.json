@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/AcornAtom_unstable_20230224_22e2d9.rbf": {
-            "hash": "1e0753ef25a2c22cdf065787469d35b6",
-            "size": 3098280,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "acornatom"
             ],
@@ -174,8 +174,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20231122_11f87b.rbf"
         },
         "_Unstable/MegaDrive_unstable_20240127_079b41.rbf": {
-            "hash": "a66b92cb048797cbe5deb6bb8f82eb7b",
-            "size": 4294024,
+            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
+            "size": 3524848,
             "tags": [
                 "megadrive"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1712007774,
+    "timestamp": 1712011362,
     "zips": {}
 }
