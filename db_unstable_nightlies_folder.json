@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/AcornAtom_unstable_20230224_22e2d9.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
+            "hash": "1e0753ef25a2c22cdf065787469d35b6",
+            "size": 3098280,
             "tags": [
                 "acornatom"
             ],
@@ -150,8 +150,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20230523_20291f.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
-            "size": 3773348,
+            "hash": "5b93633c481fa9436648f26d6fc14de9",
+            "size": 446,
             "tags": [
                 "genesis"
             ],
@@ -174,8 +174,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20231122_11f87b.rbf"
         },
         "_Unstable/MegaDrive_unstable_20240127_079b41.rbf": {
-            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
-            "size": 3524848,
+            "hash": "a66b92cb048797cbe5deb6bb8f82eb7b",
+            "size": 4294024,
             "tags": [
                 "megadrive"
             ],
@@ -231,8 +231,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20231203_060c3e.rbf"
         },
         "_Unstable/S32X_unstable_20231007_22e18b.rbf": {
-            "hash": "51d6069bbe030820e4294ce498953d19",
-            "size": 4223272,
+            "hash": "6fe958c127f0461d61e4c4ae1a85152e",
+            "size": 446,
             "tags": [
                 "s32x"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1712011362,
+    "timestamp": 1712013030,
     "zips": {}
 }
