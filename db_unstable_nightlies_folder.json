@@ -157,13 +157,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
-        "_Unstable/MacPlus_unstable_20220307_202856.rbf": {
-            "hash": "a0da84002d6c1ab4302623907572ce11",
-            "size": 2698284,
+        "_Unstable/MacPlus_unstable_20240406_125b0a.rbf": {
+            "hash": "46d4829ac739a410df4f596a548820f2",
+            "size": 2696772,
             "tags": [
                 "macplus"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20220307_202856.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20240406_125b0a.rbf"
         },
         "_Unstable/MegaCD_unstable_20231122_11f87b.rbf": {
             "hash": "78aa54068601d050c47b07adaac46fce",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1712155380,
+    "timestamp": 1712407089,
     "zips": {}
 }
