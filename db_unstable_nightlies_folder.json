@@ -36,13 +36,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230909_1714ed.rbf"
         },
-        "_Unstable/Apple-II_unstable_20240528_09d63c.rbf": {
-            "hash": "2af32b01ac0003faaf24282c3eb5c84f",
-            "size": 3583300,
+        "_Unstable/Apple-II_unstable_20240529_075db4.rbf": {
+            "hash": "bd71892363e73ebc17a7042d8c30b68d",
+            "size": 3606756,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240528_09d63c.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240529_075db4.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
             "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1716927024,
+    "timestamp": 1716968584,
     "zips": {}
 }
