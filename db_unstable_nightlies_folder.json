@@ -302,13 +302,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20231226_20cd4b.rbf"
         },
-        "_Unstable/ao486_unstable_20240606_062876.rbf": {
-            "hash": "cf7ba6a16985c16d1ed8d314496eaa9a",
-            "size": 4161472,
+        "_Unstable/ao486_unstable_20240607_163f56.rbf": {
+            "hash": "f418858a0866b472c677acb9369f01dd",
+            "size": 4097204,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20240606_062876.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20240607_163f56.rbf"
         },
         "_Unstable/menu_unstable_20231204_05f0db.rbf": {
             "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1717657829,
+    "timestamp": 1717781270,
     "zips": {}
 }
