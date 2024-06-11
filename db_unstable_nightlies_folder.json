@@ -199,8 +199,8 @@
             "url": "https://github.com/RobertPeip/Mister64/releases/download/testbuild_2024_03_03/N64_20240303.rbf"
         },
         "_Unstable/NES_unstable_20240520_065934.rbf": {
-            "hash": "48292b97b77ab7b1f408b73fa0f99be7",
-            "size": 3202156,
+            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
+            "size": 54890,
             "tags": [
                 "nes"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1717949454,
+    "timestamp": 1718142175,
     "zips": {}
 }
