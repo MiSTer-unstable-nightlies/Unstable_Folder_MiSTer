@@ -287,8 +287,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20240603_12a65b.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
-            "hash": "aa57376283ff3c08b9af42e689509a10",
-            "size": 3692804,
+            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
+            "size": 54890,
             "tags": [
                 "x68000"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1718552564,
+    "timestamp": 1718593940,
     "zips": {}
 }
