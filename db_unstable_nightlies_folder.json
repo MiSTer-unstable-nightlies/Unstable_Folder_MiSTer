@@ -165,14 +165,6 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20240406_125b0a.rbf"
         },
-        "_Unstable/MegaCD_unstable_20231122_11f87b.rbf": {
-            "hash": "78aa54068601d050c47b07adaac46fce",
-            "size": 4195244,
-            "tags": [
-                "megacd"
-            ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20231122_11f87b.rbf"
-        },
         "_Unstable/MegaDrive_unstable_20240708_123b76.rbf": {
             "hash": "fd7ca6127c4868f923332baa6a8d722c",
             "size": 4305484,
@@ -322,6 +314,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1720446164,
+    "timestamp": 1720496575,
     "zips": {}
 }
