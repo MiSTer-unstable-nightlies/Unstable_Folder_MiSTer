@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240603_07e661.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "ec2c47344c5689011af1d8c467ecf068",
+            "size": 54881,
             "tags": [
                 "arcadegalaga"
             ],
@@ -174,8 +174,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20231122_11f87b.rbf"
         },
         "_Unstable/MegaDrive_unstable_20240708_123b76.rbf": {
-            "hash": "fd7ca6127c4868f923332baa6a8d722c",
-            "size": 4305484,
+            "hash": "ec2c47344c5689011af1d8c467ecf068",
+            "size": 54881,
             "tags": [
                 "megadrive"
             ],
@@ -207,8 +207,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20240630_193b71.rbf"
         },
         "_Unstable/NeoGeo_unstable_20230802_20deee.rbf": {
-            "hash": "cbce4381343f7e820a643e42fef02267",
-            "size": 3742732,
+            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
+            "size": 54890,
             "tags": [
                 "neogeo"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1721043773,
+    "timestamp": 1721061936,
     "zips": {}
 }
