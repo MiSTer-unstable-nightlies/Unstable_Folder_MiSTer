@@ -117,8 +117,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20240225_12a798.rbf"
         },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "b4fa77e938718f245e3400c83d5e7099",
-            "size": 2758216,
+            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
+            "size": 54890,
             "tags": [
                 "colecovision"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1721479452,
+    "timestamp": 1721689804,
     "zips": {}
 }
