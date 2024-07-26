@@ -214,13 +214,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20230802_20deee.rbf"
         },
-        "_Unstable/PC88_unstable_20240720_12b6ee.rbf": {
-            "hash": "70e0551b0eb4aeacad4c41b7cbce8723",
-            "size": 2911932,
+        "_Unstable/PC88_unstable_20240726_16ce86.rbf": {
+            "hash": "c1e1a8684227df254a18909b3491ecfa",
+            "size": 2899964,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20240720_12b6ee.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20240726_16ce86.rbf"
         },
         "_Unstable/PSX_unstable_20240706_06d0f9.rbf": {
             "hash": "e8e22683f1c2ab87ce376a18a8aa6507",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1721690748,
+    "timestamp": 1722013782,
     "zips": {}
 }
