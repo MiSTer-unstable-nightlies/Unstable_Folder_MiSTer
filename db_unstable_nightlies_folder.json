@@ -36,13 +36,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230909_1714ed.rbf"
         },
-        "_Unstable/Apple-II_unstable_20240603_07e661.rbf": {
-            "hash": "9232cdc9c200ba8b779b0c756e56e8f2",
-            "size": 3569128,
+        "_Unstable/Apple-II_unstable_20240805_0638a6.rbf": {
+            "hash": "8bbf2f6bc61f25871080bee5f81c5821",
+            "size": 3606756,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240603_07e661.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240805_0638a6.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
             "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
@@ -278,13 +278,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20240603_12a65b.rbf": {
-            "hash": "87f7a836e8eb2c6ec5bbe1943dc748bb",
-            "size": 4207396,
+        "_Unstable/TurboGrafx16_unstable_20240805_06d049.rbf": {
+            "hash": "d7f8a0e746c842a4ebd66204645d46b5",
+            "size": 4220700,
             "tags": [
                 "turbografx16"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20240603_12a65b.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20240805_06d049.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
             "hash": "aa57376283ff3c08b9af42e689509a10",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1722447019,
+    "timestamp": 1722841837,
     "zips": {}
 }
