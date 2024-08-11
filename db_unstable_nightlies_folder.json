@@ -198,13 +198,13 @@
             ],
             "url": "https://github.com/RobertPeip/Mister64/releases/download/testbuild_2024_03_03/N64_20240303.rbf"
         },
-        "_Unstable/NES_unstable_20240808_15ed1b.rbf": {
-            "hash": "160fbd82ffd4b1a0819164a6daa687f7",
-            "size": 3244540,
+        "_Unstable/NES_unstable_20240811_0511b9.rbf": {
+            "hash": "c588d9eb8879d38c9f6009d8b719db87",
+            "size": 3219364,
             "tags": [
                 "nes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20240808_15ed1b.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20240811_0511b9.rbf"
         },
         "_Unstable/NeoGeo_unstable_20230802_20deee.rbf": {
             "hash": "cbce4381343f7e820a643e42fef02267",
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1723300101,
+    "timestamp": 1723354967,
     "zips": {}
 }
