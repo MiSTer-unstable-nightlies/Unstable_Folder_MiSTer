@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240805_0638a6.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "93edcd9ecb0dbc386b08d3df587632b1",
+            "size": 54890,
             "tags": [
                 "arcadegalaga"
             ],
@@ -322,6 +322,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1725304153,
+    "timestamp": 1725308986,
     "zips": {}
 }
