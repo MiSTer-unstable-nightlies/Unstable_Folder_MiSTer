@@ -309,11 +309,19 @@
                 "ao486"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20240703_1167ca.rbf"
+        },
+        "_Unstable/menu_unstable_20231204_05f0db.rbf": {
+            "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
+            "size": 2482252,
+            "tags": [
+                "menu"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20231204_05f0db.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1726217133,
+    "timestamp": 1726218689,
     "zips": {}
 }
