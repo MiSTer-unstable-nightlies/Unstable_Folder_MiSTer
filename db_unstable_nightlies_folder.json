@@ -124,15 +124,6 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
-        "_Unstable/DataBase_20240119032810.txt": {
-            "hash": "f31b285509c561bfc038f375a10eb775",
-            "size": 87425,
-            "tags": [
-                "n64",
-                "nintendo64"
-            ],
-            "url": "https://vampier.net/N64/Builds/DataBase_20240119032810.txt"
-        },
         "_Unstable/GBA_unstable_20231205_13464a.rbf": {
             "hash": "5f30ccacb711620af071339eb6cb9274",
             "size": 4277432,
@@ -188,15 +179,6 @@
                 "minimig"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20240820_092409.rbf"
-        },
-        "_Unstable/N64_20240303.rbf": {
-            "hash": "5446d3397ec59b17db2369566bb8617a",
-            "size": 3819880,
-            "tags": [
-                "n64",
-                "nintendo64"
-            ],
-            "url": "https://github.com/RobertPeip/Mister64/releases/download/testbuild_2024_03_03/N64_20240303.rbf"
         },
         "_Unstable/NES_unstable_20241002_06ecb2.rbf": {
             "hash": "88b4a68c6ae00cb5d3833d21654d13ab",
@@ -322,6 +304,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1728379837,
+    "timestamp": 1728520283,
     "zips": {}
 }
