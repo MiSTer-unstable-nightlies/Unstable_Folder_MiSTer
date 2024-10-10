@@ -77,8 +77,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
-            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
-            "size": 3524848,
+            "hash": "e0a76b30066025deefa9f84c3b667800",
+            "size": 544,
             "tags": [
                 "arcadespaceinvaders"
             ],
@@ -304,6 +304,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1728557101,
+    "timestamp": 1728565317,
     "zips": {}
 }
