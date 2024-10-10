@@ -183,6 +183,7 @@ def clean_tag(term: str) -> str:
     return result.replace('-', '').replace('_', '')
 
 def add_n64(db):
+    return
     try:
         getlast_tmp = "/tmp/getlast.json"
         download("https://vampier.net/N64/getlast.php", getlast_tmp)
