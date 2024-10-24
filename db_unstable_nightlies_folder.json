@@ -69,8 +69,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20210522_9381.rbf"
         },
         "_Unstable/Arcade-SEGASYS1_unstable_20210405_acb9.rbf": {
-            "hash": "c646136660cafd918e61f20531e61c0c",
-            "size": 544,
+            "hash": "1ef609b811e76812412292e60324db11",
+            "size": 3417396,
             "tags": [
                 "arcadesegasys1"
             ],
@@ -304,6 +304,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1729736021,
+    "timestamp": 1729738670,
     "zips": {}
 }
