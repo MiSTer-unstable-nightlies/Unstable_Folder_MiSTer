@@ -173,8 +173,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20241028_15bb93.rbf"
         },
         "_Unstable/Minimig_unstable_20240820_092409.rbf": {
-            "hash": "f2fc2ba25906a40a69adba1f58cb487c",
-            "size": 3320788,
+            "hash": "3068968a2fd3e8b424fd6cd86112777a",
+            "size": 544,
             "tags": [
                 "minimig"
             ],
@@ -304,6 +304,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1733868703,
+    "timestamp": 1733922408,
     "zips": {}
 }
