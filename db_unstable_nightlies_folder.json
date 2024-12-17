@@ -45,24 +45,24 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240805_0638a6.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
+            "size": 2758268,
             "tags": [
                 "arcadegalaga"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "arcadegalaxian"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/Arcade-QBert_unstable_20210522_9381.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "70c7c504b22313543a81283bd77d4600",
+            "size": 3020072,
             "tags": [
                 "arcadeqbert"
             ],
@@ -117,8 +117,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20240225_12a798.rbf"
         },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "b4fa77e938718f245e3400c83d5e7099",
+            "size": 2758216,
             "tags": [
                 "colecovision"
             ],
@@ -133,16 +133,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20241105_05f8c7.rbf"
         },
         "_Unstable/Gameboy_unstable_20240905_056dfd.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "e721da8e557c452d617de5fcd63549b3",
+            "size": 3842568,
             "tags": [
                 "gameboy"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20240905_056dfd.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
+            "size": 3773348,
             "tags": [
                 "genesis"
             ],
@@ -189,8 +189,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20241012_05d484.rbf"
         },
         "_Unstable/NeoGeo_unstable_20240826_05bf4c.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "a8cf11e8afb22f750a61c0a9237bdd09",
+            "size": 3703388,
             "tags": [
                 "neogeo"
             ],
@@ -229,8 +229,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
         "_Unstable/SNES_unstable_20241030_15c1e8.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "a597160406ce233888ebf297d4cb23fa",
+            "size": 4350168,
             "tags": [
                 "snes"
             ],
@@ -269,8 +269,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20241202_145d49.rbf"
         },
         "_Unstable/X68000_unstable_20220829_126941.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "aa57376283ff3c08b9af42e689509a10",
+            "size": 3692804,
             "tags": [
                 "x68000"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1734446749,
+    "timestamp": 1734448372,
     "zips": {}
 }
