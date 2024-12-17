@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/AcornAtom_unstable_20230224_22e2d9.rbf": {
-            "hash": "1e0753ef25a2c22cdf065787469d35b6",
-            "size": 3098280,
+            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
+            "size": 92,
             "tags": [
                 "acornatom"
             ],
@@ -21,8 +21,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
         "_Unstable/AliceMC10_unstable_20230413_214cb7.rbf": {
-            "hash": "9115406d31209a8c4dcfe72f38357992",
-            "size": 2595328,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "alicemc10"
             ],
@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20240805_0638a6.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20210221_6027.rbf": {
-            "hash": "306ecbf0fad10a1fba59f64383fe2b5c",
-            "size": 2758268,
+            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
+            "size": 92,
             "tags": [
                 "arcadegalaga"
             ],
@@ -77,16 +77,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
-            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
-            "size": 3524848,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "arcadespaceinvaders"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf"
         },
         "_Unstable/Arcade-Tecmo_unstable_20230413_214d39.rbf": {
-            "hash": "383243bf4da0474f0384144580ce2780",
-            "size": 3139172,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "arcadetecmo"
             ],
@@ -133,8 +133,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20241105_05f8c7.rbf"
         },
         "_Unstable/Gameboy_unstable_20240905_056dfd.rbf": {
-            "hash": "e721da8e557c452d617de5fcd63549b3",
-            "size": 3842568,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "gameboy"
             ],
@@ -213,8 +213,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20240830_18a2d7.rbf"
         },
         "_Unstable/S32X_unstable_20241121_18ca83.rbf": {
-            "hash": "428b660bea34344e53eb541df8290c25",
-            "size": 4195464,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "s32x"
             ],
@@ -277,8 +277,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20220829_126941.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20231226_20cd4b.rbf": {
-            "hash": "a880c8ade4a2123a606655af8307e49b",
-            "size": 3287000,
+            "hash": "0d6914c3c6451e2634b14635a6d229b3",
+            "size": 54894,
             "tags": [
                 "zxspectrum"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1734385380,
+    "timestamp": 1734446124,
     "zips": {}
 }
