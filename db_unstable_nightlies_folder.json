@@ -157,8 +157,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20240920_135829.rbf"
         },
         "_Unstable/MegaCD_unstable_20231122_11f87b.rbf": {
-            "hash": "78aa54068601d050c47b07adaac46fce",
-            "size": 4195244,
+            "hash": "1de3dc486ddc83e52a400d68dec289e8",
+            "size": 544,
             "tags": [
                 "megacd"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1734589030,
+    "timestamp": 1734597446,
     "zips": {}
 }
