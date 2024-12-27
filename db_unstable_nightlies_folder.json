@@ -292,13 +292,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20241227_053390.rbf"
         },
-        "_Unstable/ao486_unstable_20241226_104e55.rbf": {
-            "hash": "9742a92e4dc675f381d5b49ea907ce83",
-            "size": 4147020,
+        "_Unstable/ao486_unstable_20241227_052ec8.rbf": {
+            "hash": "ff44ce8710d2374a69eaa4a2279bd788",
+            "size": 4173872,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20241226_104e55.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20241227_052ec8.rbf"
         },
         "_Unstable/menu_unstable_20231204_05f0db.rbf": {
             "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1735277475,
+    "timestamp": 1735280160,
     "zips": {}
 }
