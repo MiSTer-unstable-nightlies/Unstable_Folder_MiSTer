@@ -85,8 +85,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf"
         },
         "_Unstable/Arcade-Tecmo_unstable_20230413_214d39.rbf": {
-            "hash": "b9daf37e934f8f98f89edc30de9daa70",
-            "size": 544,
+            "hash": "383243bf4da0474f0384144580ce2780",
+            "size": 3139172,
             "tags": [
                 "arcadetecmo"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1738239667,
+    "timestamp": 1738241972,
     "zips": {}
 }
