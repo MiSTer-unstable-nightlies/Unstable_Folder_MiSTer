@@ -277,8 +277,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20250210_130c65.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20231226_20cd4b.rbf": {
-            "hash": "9e07cbd0880844c58b7a530d97ea5ca3",
-            "size": 544,
+            "hash": "a880c8ade4a2123a606655af8307e49b",
+            "size": 3287000,
             "tags": [
                 "zxspectrum"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1739239993,
+    "timestamp": 1739242590,
     "zips": {}
 }
