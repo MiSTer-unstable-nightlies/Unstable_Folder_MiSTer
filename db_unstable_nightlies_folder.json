@@ -13,8 +13,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230224_22e2d9.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230224_227dcf.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "9648b1b06f6f66e017c1199471bf33c2",
+            "size": 3360368,
             "tags": [
                 "acornelectron"
             ],
@@ -269,8 +269,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20241202_145d49.rbf"
         },
         "_Unstable/X68000_unstable_20250210_130c65.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "b31fa9c43e95beb07cdd72e02ba32477",
+            "size": 3677812,
             "tags": [
                 "x68000"
             ],
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1739499126,
+    "timestamp": 1739501743,
     "zips": {}
 }
