@@ -180,13 +180,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20250203_1156b5.rbf"
         },
-        "_Unstable/NES_unstable_20250131_136d93.rbf": {
-            "hash": "63ce9ff4b094146b4662fcb98760fd27",
-            "size": 3251116,
+        "_Unstable/NES_unstable_20250216_09532b.rbf": {
+            "hash": "5ed46344ec9528f6342e149d57ce23bc",
+            "size": 3252116,
             "tags": [
                 "nes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20250131_136d93.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20250216_09532b.rbf"
         },
         "_Unstable/NeoGeo_unstable_20250206_22ab55.rbf": {
             "hash": "9afe06295ca602636ecd103731efd1a3",
@@ -196,13 +196,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20250206_22ab55.rbf"
         },
-        "_Unstable/PC88_unstable_20250126_10067f.rbf": {
-            "hash": "dd588412ac5427be1b39489a16d72489",
-            "size": 2983832,
+        "_Unstable/PC88_unstable_20250216_098d09.rbf": {
+            "hash": "c2d40747fdde91f9ae641c3aac7621cf",
+            "size": 2981900,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20250126_10067f.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20250216_098d09.rbf"
         },
         "_Unstable/PSX_unstable_20250102_0488fa.rbf": {
             "hash": "25c12571df65f2e46d46a609140bb08a",
@@ -312,6 +312,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1739698006,
+    "timestamp": 1739698962,
     "zips": {}
 }
