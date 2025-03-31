@@ -221,8 +221,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20250212_14aa9d.rbf"
         },
         "_Unstable/SMS_unstable_20221106_13acc2.rbf": {
-            "hash": "aa5456eb41a6f5aa015b7ddbdb4f0dcf",
-            "size": 3311512,
+            "hash": "7183d9252e338485e463c24d09fe5ecc",
+            "size": 544,
             "tags": [
                 "sms"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1743190966,
+    "timestamp": 1743460426,
     "zips": {}
 }
