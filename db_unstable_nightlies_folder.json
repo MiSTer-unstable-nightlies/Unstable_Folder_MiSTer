@@ -237,8 +237,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20250305_19571c.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20250327_161a0f.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "805ec4d6509edafd4e54dccc2dfa7449",
+            "size": 4605772,
             "tags": [
                 "stvdualsdram"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1743500002,
+    "timestamp": 1743500682,
     "zips": {}
 }
