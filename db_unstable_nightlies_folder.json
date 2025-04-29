@@ -21,8 +21,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornElectron_MiSTer/releases/download/unstable-builds/AcornElectron_unstable_20230224_227dcf.rbf"
         },
         "_Unstable/AliceMC10_unstable_20230413_214cb7.rbf": {
-            "hash": "d41d8cd98f00b204e9800998ecf8427e",
-            "size": 0,
+            "hash": "9115406d31209a8c4dcfe72f38357992",
+            "size": 2595328,
             "tags": [
                 "alicemc10"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1745961098,
+    "timestamp": 1745962186,
     "zips": {}
 }
