@@ -117,8 +117,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20250429_065f0d.rbf"
         },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "0a4f26a8ecb86e359109c2c7b9f7d98a",
-            "size": 458,
+            "hash": "b4fa77e938718f245e3400c83d5e7099",
+            "size": 2758216,
             "tags": [
                 "colecovision"
             ],
@@ -133,8 +133,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20250219_15db1c.rbf"
         },
         "_Unstable/Gameboy_unstable_20250108_13d708.rbf": {
-            "hash": "25f7c0bf432fb1fc8331638c9d3d85ce",
-            "size": 3819784,
+            "hash": "6fe23d090e4477512f8c014d68c3d11f",
+            "size": 458,
             "tags": [
                 "gameboy"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1745925057,
+    "timestamp": 1745926080,
     "zips": {}
 }
