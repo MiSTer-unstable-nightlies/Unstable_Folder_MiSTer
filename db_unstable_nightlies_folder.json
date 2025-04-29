@@ -133,8 +133,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20250219_15db1c.rbf"
         },
         "_Unstable/Gameboy_unstable_20250108_13d708.rbf": {
-            "hash": "6fe23d090e4477512f8c014d68c3d11f",
-            "size": 458,
+            "hash": "25f7c0bf432fb1fc8331638c9d3d85ce",
+            "size": 3819784,
             "tags": [
                 "gameboy"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1745926080,
+    "timestamp": 1745926994,
     "zips": {}
 }
