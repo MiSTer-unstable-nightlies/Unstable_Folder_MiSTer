@@ -261,8 +261,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20250424_135631.rbf"
         },
         "_Unstable/Saturn_unstable_20250424_135631.rbf": {
-            "hash": "a6f09fd97feb0d4af28ebbd04c0052cc",
-            "size": 160962,
+            "hash": "344a08d62e7cede23fd79301ae392662",
+            "size": 4576780,
             "tags": [
                 "saturn"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1747380656,
+    "timestamp": 1747381409,
     "zips": {}
 }
