@@ -228,6 +228,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
+        "_Unstable/SNES_unstable_20250405_07a6ab.rbf": {
+            "hash": "309e823fb6ff6165e7bfbaa3cc951848",
+            "size": 4349728,
+            "tags": [
+                "snes"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20250405_07a6ab.rbf"
+        },
         "_Unstable/ST-V_DualSDRAM_unstable_20250519_168bd5.rbf": {
             "hash": "136a6c452c7edfe7f9dc739be6e467f3",
             "size": 4588524,
@@ -267,6 +275,14 @@
                 "tatungeinstein"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
+        },
+        "_Unstable/TurboGrafx16_unstable_20250526_056080.rbf": {
+            "hash": "6552c9ff535358b1072fb892ccfb1360",
+            "size": 4224356,
+            "tags": [
+                "turbografx16"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20250526_056080.rbf"
         },
         "_Unstable/X68000_unstable_20250325_093d22.rbf": {
             "hash": "4c553153b21592aa5739233c0c7cf943",
@@ -312,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1748251943,
+    "timestamp": 1748253621,
     "zips": {}
 }
