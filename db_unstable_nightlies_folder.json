@@ -37,8 +37,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230909_1714ed.rbf"
         },
         "_Unstable/Apple-II_unstable_20241227_08a7f3.rbf": {
-            "hash": "444fb536c5dc35e3d79dda33e96f10cc",
-            "size": 3574460,
+            "hash": "3b76369291a2a2649cd928307596116e",
+            "size": 544,
             "tags": [
                 "appleii"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1748253621,
+    "timestamp": 1748335339,
     "zips": {}
 }
