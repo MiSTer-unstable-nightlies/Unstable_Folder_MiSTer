@@ -28,13 +28,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
-        "_Unstable/Amstrad_unstable_20230909_1714ed.rbf": {
-            "hash": "fa75cd324b8de4b68d8a356370824b79",
-            "size": 2787036,
+        "_Unstable/Amstrad_unstable_20250527_15004c.rbf": {
+            "hash": "533255ed9394470f6ea4927a26bd6600",
+            "size": 2766884,
             "tags": [
                 "amstrad"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20230909_1714ed.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20250527_15004c.rbf"
         },
         "_Unstable/Apple-II_unstable_20241227_08a7f3.rbf": {
             "hash": "444fb536c5dc35e3d79dda33e96f10cc",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1748337212,
+    "timestamp": 1748360085,
     "zips": {}
 }
