@@ -229,8 +229,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
         "_Unstable/SNES_unstable_20250405_07a6ab.rbf": {
-            "hash": "309e823fb6ff6165e7bfbaa3cc951848",
-            "size": 4349728,
+            "hash": "ec2c47344c5689011af1d8c467ecf068",
+            "size": 54881,
             "tags": [
                 "snes"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1748374966,
+    "timestamp": 1748646747,
     "zips": {}
 }
