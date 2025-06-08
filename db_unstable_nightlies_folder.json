@@ -29,8 +29,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20230413_214cb7.rbf"
         },
         "_Unstable/Amstrad_unstable_20250527_15004c.rbf": {
-            "hash": "533255ed9394470f6ea4927a26bd6600",
-            "size": 2766884,
+            "hash": "a6f09fd97feb0d4af28ebbd04c0052cc",
+            "size": 160962,
             "tags": [
                 "amstrad"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1749147360,
+    "timestamp": 1749368593,
     "zips": {}
 }
