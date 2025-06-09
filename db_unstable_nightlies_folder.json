@@ -172,13 +172,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20250210_136348.rbf"
         },
-        "_Unstable/Minimig_unstable_20250429_0512eb.rbf": {
-            "hash": "8caa13814af796334440b4dd9c6e760c",
-            "size": 3390484,
+        "_Unstable/Minimig_unstable_20250609_183303.rbf": {
+            "hash": "98a53ca587a57a4136ae2eb42724e957",
+            "size": 3480208,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20250429_0512eb.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20250609_183303.rbf"
         },
         "_Unstable/NES_unstable_20250216_09532b.rbf": {
             "hash": "5ed46344ec9528f6342e149d57ce23bc",
@@ -308,13 +308,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20241227_053390.rbf"
         },
-        "_Unstable/ao486_unstable_20250224_205134.rbf": {
-            "hash": "c192564f74bdc51d317c88e0b0167763",
-            "size": 4138764,
+        "_Unstable/ao486_unstable_20250609_18222a.rbf": {
+            "hash": "9aa361f943ab3380dd6f19092ca0a947",
+            "size": 4137652,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20250224_205134.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20250609_18222a.rbf"
         },
         "_Unstable/menu_unstable_20231204_05f0db.rbf": {
             "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1749370534,
+    "timestamp": 1749496217,
     "zips": {}
 }
