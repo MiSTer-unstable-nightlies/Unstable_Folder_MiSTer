@@ -245,8 +245,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20250605_17c4f6.rbf"
         },
         "_Unstable/ST-V_unstable_20250605_17c4f6.rbf": {
-            "hash": "8487a793cfa196ec52acc7302b73aa53",
-            "size": 4613036,
+            "hash": "62d8d65b11888a7f37b1a643966d1c2f",
+            "size": 544,
             "tags": [
                 "stv"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1749569639,
+    "timestamp": 1749570424,
     "zips": {}
 }
