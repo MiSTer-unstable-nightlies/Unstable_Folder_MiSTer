@@ -309,8 +309,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20241227_053390.rbf"
         },
         "_Unstable/ao486_unstable_20250610_06ce8c.rbf": {
-            "hash": "796540b6d9399aee1d2c24a40c7e140c",
-            "size": 4162700,
+            "hash": "a6f09fd97feb0d4af28ebbd04c0052cc",
+            "size": 160962,
             "tags": [
                 "ao486"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1749561495,
+    "timestamp": 1749568445,
     "zips": {}
 }
