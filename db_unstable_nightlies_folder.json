@@ -276,13 +276,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
-        "_Unstable/TurboGrafx16_unstable_20250526_056080.rbf": {
-            "hash": "6552c9ff535358b1072fb892ccfb1360",
-            "size": 4224356,
+        "_Unstable/TurboGrafx16_unstable_20250610_06e3ff.rbf": {
+            "hash": "dde2a007522354dd1aaa5d2421951200",
+            "size": 4213756,
             "tags": [
                 "turbografx16"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20250526_056080.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20250610_06e3ff.rbf"
         },
         "_Unstable/X68000_unstable_20250325_093d22.rbf": {
             "hash": "4c553153b21592aa5739233c0c7cf943",
@@ -308,13 +308,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20241227_053390.rbf"
         },
-        "_Unstable/ao486_unstable_20250609_18222a.rbf": {
-            "hash": "9aa361f943ab3380dd6f19092ca0a947",
-            "size": 4137652,
+        "_Unstable/ao486_unstable_20250610_06ce8c.rbf": {
+            "hash": "796540b6d9399aee1d2c24a40c7e140c",
+            "size": 4162700,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20250609_18222a.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20250610_06ce8c.rbf"
         },
         "_Unstable/menu_unstable_20231204_05f0db.rbf": {
             "hash": "b1ef2c3a7491e4e0186348bc19c34c29",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1749496217,
+    "timestamp": 1749540693,
     "zips": {}
 }
