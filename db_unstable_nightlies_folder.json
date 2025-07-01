@@ -165,8 +165,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20231122_11f87b.rbf"
         },
         "_Unstable/MegaDrive_unstable_20250629_14dd6f.rbf": {
-            "hash": "9159d9a003304a87da4cac7c5784e125",
-            "size": 4276480,
+            "hash": "d8aa6d8743b908960f35298682df2183",
+            "size": 190,
             "tags": [
                 "megadrive"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1751209926,
+    "timestamp": 1751405472,
     "zips": {}
 }
