@@ -164,13 +164,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20250703_077d86.rbf"
         },
-        "_Unstable/MegaDrive_unstable_20250707_07ad9d.rbf": {
-            "hash": "8c783df65bfa5fed050dccba7f2459aa",
-            "size": 4292796,
+        "_Unstable/MegaDrive_unstable_20250707_14e5af.rbf": {
+            "hash": "891d169129938c0c68d48061f27e678a",
+            "size": 4287348,
             "tags": [
                 "megadrive"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20250707_07ad9d.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20250707_14e5af.rbf"
         },
         "_Unstable/Minimig_unstable_20250621_035462.rbf": {
             "hash": "bb521c9f1eacfee002b86af2290da33b",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1751897631,
+    "timestamp": 1751902448,
     "zips": {}
 }
