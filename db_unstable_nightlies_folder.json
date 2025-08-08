@@ -212,13 +212,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20250102_0488fa.rbf"
         },
-        "_Unstable/S32X_unstable_20250623_1691e9.rbf": {
-            "hash": "d7cd52befa1392d4a73ad9f4cf720690",
-            "size": 4201216,
+        "_Unstable/S32X_unstable_20250808_11fc2d.rbf": {
+            "hash": "d5b95feef197353e8fbf2bcf96e76ddd",
+            "size": 4207764,
             "tags": [
                 "s32x"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20250623_1691e9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20250808_11fc2d.rbf"
         },
         "_Unstable/SMS_unstable_20221106_13acc2.rbf": {
             "hash": "aa5456eb41a6f5aa015b7ddbdb4f0dcf",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1754573113,
+    "timestamp": 1754656125,
     "zips": {}
 }
