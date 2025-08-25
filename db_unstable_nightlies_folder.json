@@ -13,8 +13,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20230224_22e2d9.rbf"
         },
         "_Unstable/AcornElectron_unstable_20230224_227dcf.rbf": {
-            "hash": "1e0753ef25a2c22cdf065787469d35b6",
-            "size": 3098280,
+            "hash": "9648b1b06f6f66e017c1199471bf33c2",
+            "size": 3360368,
             "tags": [
                 "acornelectron"
             ],
@@ -53,8 +53,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "c3950ecfbcbbccf27fe11c6552d48a39",
-            "size": 3691796,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "arcadegalaxian"
             ],
@@ -133,8 +133,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20250618_23b661.rbf"
         },
         "_Unstable/Gameboy_unstable_20250616_062e15.rbf": {
-            "hash": "5ed46344ec9528f6342e149d57ce23bc",
-            "size": 3252116,
+            "hash": "c687aaf14ce35ba6c40a3d0e33cd808b",
+            "size": 3869544,
             "tags": [
                 "gameboy"
             ],
@@ -165,16 +165,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20250703_077d86.rbf"
         },
         "_Unstable/MegaDrive_unstable_20250707_14e5af.rbf": {
-            "hash": "25c12571df65f2e46d46a609140bb08a",
-            "size": 4392396,
+            "hash": "891d169129938c0c68d48061f27e678a",
+            "size": 4287348,
             "tags": [
                 "megadrive"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20250707_14e5af.rbf"
         },
         "_Unstable/Minimig_unstable_20250721_048a0e.rbf": {
-            "hash": "383243bf4da0474f0384144580ce2780",
-            "size": 3139172,
+            "hash": "06010de68d5b119eb465fc96adb4e869",
+            "size": 3440344,
             "tags": [
                 "minimig"
             ],
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1756141822,
+    "timestamp": 1756143056,
     "zips": {}
 }
