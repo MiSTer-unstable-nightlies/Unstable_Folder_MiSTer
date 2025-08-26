@@ -236,13 +236,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20250818_07d5b8.rbf"
         },
-        "_Unstable/ST-V_DualSDRAM_unstable_20250826_1431ff.rbf": {
+        "_Unstable/ST-V_DualSDRAM_unstable_20250826_206b47.rbf": {
             "hash": "2c6a8f287932370a2aba6107f84f62a0",
             "size": 4610740,
             "tags": [
                 "stvdualsdram"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20250826_1431ff.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20250826_206b47.rbf"
         },
         "_Unstable/ST-V_unstable_20250826_1431ff.rbf": {
             "hash": "00bbc1c386044bab594334bf11926c77",
@@ -328,6 +328,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1756221197,
+    "timestamp": 1756242675,
     "zips": {}
 }
