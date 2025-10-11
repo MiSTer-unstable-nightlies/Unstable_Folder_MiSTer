@@ -244,37 +244,37 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20251009_17fdc5.rbf"
         },
-        "_Unstable/ST-V_DualSDRAM_unstable_20250927_139ea0.rbf": {
-            "hash": "1981268f07df971daafeb49fd68298d2",
-            "size": 4632512,
+        "_Unstable/ST-V_DualSDRAM_unstable_20251011_15ee2b.rbf": {
+            "hash": "874ddb1f4ecff52612d2d4603e540b8d",
+            "size": 4625268,
             "tags": [
                 "stvdualsdram"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20250927_139ea0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20251011_15ee2b.rbf"
         },
-        "_Unstable/ST-V_unstable_20250927_139ea0.rbf": {
-            "hash": "702d1b3dd842fb4189f36cb3a7c9ccf0",
-            "size": 4633796,
+        "_Unstable/ST-V_unstable_20251011_15ee2b.rbf": {
+            "hash": "58136cca1c2d764ba0dab55caeab07e4",
+            "size": 4626756,
             "tags": [
                 "stv"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20250927_139ea0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20251011_15ee2b.rbf"
         },
-        "_Unstable/Saturn_DualSDRAM_unstable_20250927_139ea0.rbf": {
-            "hash": "fbc628a990d9806e156ebac620826253",
-            "size": 4634168,
+        "_Unstable/Saturn_DualSDRAM_unstable_20251011_15ee2b.rbf": {
+            "hash": "131c47a98ccadbdf45cdbbbbfed1af0c",
+            "size": 4633900,
             "tags": [
                 "saturndualsdram"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20250927_139ea0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20251011_15ee2b.rbf"
         },
-        "_Unstable/Saturn_unstable_20250927_139ea0.rbf": {
-            "hash": "d1de6aa5c41b2e3d3d7a252055a6a514",
-            "size": 4620532,
+        "_Unstable/Saturn_unstable_20251011_15ee2b.rbf": {
+            "hash": "8540d092f92d2f99bec5ab54a6335082",
+            "size": 4631696,
             "tags": [
                 "saturn"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20250927_139ea0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20251011_15ee2b.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20220125_a7eb.rbf": {
             "hash": "5b3b2f511b79fc0deba042cf69841a02",
@@ -336,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1760082170,
+    "timestamp": 1760200370,
     "zips": {}
 }
