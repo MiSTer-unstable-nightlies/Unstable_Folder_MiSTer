@@ -157,6 +157,10 @@ def push(db, json_name):
     subprocess.run(['git', 'commit', '-m', str(timestamp)], stderr=subprocess.STDOUT)
     subprocess.run(['git', 'pull'], stderr=subprocess.STDOUT)
     subprocess.run(['git', 'push'], stderr=subprocess.STDOUT)
+    github_output = os.environ.get("GITHUB_OUTPUT")
+    if github_output:
+        with open(github_output, "a") as f:
+            f.write("new_db=true\n")
 
 def changes_detected(db):
     try:
