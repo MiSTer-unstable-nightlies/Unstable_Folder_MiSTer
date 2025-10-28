@@ -236,13 +236,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
-        "_Unstable/SNES_unstable_20251027_199748.rbf": {
-            "hash": "f8249320068ca071cf4c6a282d49aeb2",
-            "size": 4425568,
+        "_Unstable/SNES_unstable_20251028_1498c2.rbf": {
+            "hash": "7bfe687273b674b519b4c1c8bfd1e977",
+            "size": 4428924,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20251027_199748.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20251028_1498c2.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20251025_09a02c.rbf": {
             "hash": "f942ac23a045834e735a2aaea6f0e18b",
@@ -336,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1761595897,
+    "timestamp": 1761665724,
     "zips": {}
 }
