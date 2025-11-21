@@ -53,8 +53,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20210221_6027.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "arcadegalaxian"
             ],
@@ -165,8 +165,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20240920_135829.rbf"
         },
         "_Unstable/MegaCD_unstable_20250703_077d86.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "67875a7707c7a8dff9b90d3ddcf4888b",
+            "size": 4164768,
             "tags": [
                 "megacd"
             ],
@@ -336,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1763682405,
+    "timestamp": 1763686926,
     "zips": {}
 }
