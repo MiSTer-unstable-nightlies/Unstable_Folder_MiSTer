@@ -5,8 +5,8 @@
     "default_options": {},
     "files": {
         "_Unstable/AcornAtom_unstable_20230224_22e2d9.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "1e0753ef25a2c22cdf065787469d35b6",
+            "size": 3098280,
             "tags": [
                 "acornatom"
             ],
@@ -29,8 +29,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20250722_1335ef.rbf"
         },
         "_Unstable/Amstrad_unstable_20251017_070276.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "a3fbdf89d83a4848abf49f185d8bb705",
+            "size": 2796560,
             "tags": [
                 "amstrad"
             ],
@@ -77,8 +77,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20230227_00793b.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "71eb3c90a82b44af9a567ce37a8878ca",
+            "size": 3524848,
             "tags": [
                 "arcadespaceinvaders"
             ],
@@ -237,8 +237,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20221106_13acc2.rbf"
         },
         "_Unstable/SNES_unstable_20251118_186987.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "468aa527996d3416efb774edddeb6092",
+            "size": 4428356,
             "tags": [
                 "snes"
             ],
@@ -261,8 +261,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20251106_17135c.rbf"
         },
         "_Unstable/Saturn_DualSDRAM_unstable_20251106_17135c.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "2c01664eb71b514613265395766a4774",
+            "size": 4643108,
             "tags": [
                 "saturndualsdram"
             ],
@@ -336,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1764000902,
+    "timestamp": 1764002251,
     "zips": {}
 }
