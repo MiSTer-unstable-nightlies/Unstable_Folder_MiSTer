@@ -140,13 +140,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20250618_23b661.rbf"
         },
-        "_Unstable/Gameboy_unstable_20250616_062e15.rbf": {
-            "hash": "c687aaf14ce35ba6c40a3d0e33cd808b",
-            "size": 3869544,
+        "_Unstable/Gameboy_unstable_20251124_1456b6.rbf": {
+            "hash": "c78f9f70a8d56fc923977931976c3bfe",
+            "size": 3848632,
             "tags": [
                 "gameboy"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20250616_062e15.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20251124_1456b6.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
             "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
@@ -189,16 +189,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20250721_048a0e.rbf"
         },
         "_Unstable/NES_unstable_20251111_15dd88.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "c6bd06cfd82bcb92ef987355e7695d01",
+            "size": 3270052,
             "tags": [
                 "nes"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20251111_15dd88.rbf"
         },
         "_Unstable/NeoGeo_unstable_20250206_22ab55.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "9afe06295ca602636ecd103731efd1a3",
+            "size": 3737052,
             "tags": [
                 "neogeo"
             ],
@@ -336,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1763995873,
+    "timestamp": 1763997320,
     "zips": {}
 }
