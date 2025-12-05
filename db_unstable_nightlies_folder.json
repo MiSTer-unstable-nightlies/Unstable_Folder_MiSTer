@@ -220,13 +220,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20251130_1616dd.rbf"
         },
-        "_Unstable/S32X_unstable_20251103_11a9d8.rbf": {
-            "hash": "4ed8d3167707fb3b046de7bc764b0a2f",
-            "size": 4231480,
+        "_Unstable/S32X_unstable_20251205_16aade.rbf": {
+            "hash": "e7bdf73722c350c628f4f1afa69a5815",
+            "size": 4240296,
             "tags": [
                 "s32x"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20251103_11a9d8.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20251205_16aade.rbf"
         },
         "_Unstable/SMS_unstable_20251205_16980b.rbf": {
             "hash": "b11e32451c85f90cf826b279649592f9",
@@ -284,6 +284,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20220125_a7eb.rbf"
         },
+        "_Unstable/Ti994a_unstable_20251205_17bd54.rbf": {
+            "hash": "16363c7d7ae98aee7f6d8d0a5175801a",
+            "size": 2850948,
+            "tags": [
+                "ti994a"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/TI-99_4A_MiSTer/releases/download/unstable-builds/Ti994a_unstable_20251205_17bd54.rbf"
+        },
         "_Unstable/TurboGrafx16_unstable_20251205_16a64a.rbf": {
             "hash": "d5f6cae023dcc024bd944a403b9417b4",
             "size": 4232716,
@@ -336,6 +344,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1764954791,
+    "timestamp": 1764956018,
     "zips": {}
 }
