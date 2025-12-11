@@ -37,8 +37,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20251210_008451.rbf"
         },
         "_Unstable/Apple-II_unstable_20250707_061af8.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "88dbcd6e7f0436f5f408db2c3a280013",
+            "size": 3664684,
             "tags": [
                 "appleii"
             ],
@@ -61,8 +61,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
         "_Unstable/Arcade-QBert_unstable_20251210_009e06.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "2d5168a729c88c2ea540ba69152451d9",
+            "size": 3024140,
             "tags": [
                 "arcadeqbert"
             ],
@@ -85,8 +85,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20251210_00aa4c.rbf"
         },
         "_Unstable/Arcade-Tecmo_unstable_20251210_000321.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "616b80af85825a0cfb87c8b8e269488d",
+            "size": 3219876,
             "tags": [
                 "arcadetecmo"
             ],
@@ -125,8 +125,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20251210_00f2b6.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
-            "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
-            "size": 2531400,
+            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
+            "size": 92,
             "tags": [
                 "chip8"
             ],
@@ -173,8 +173,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20251210_0065fe.rbf"
         },
         "_Unstable/MacPlus_unstable_20251210_0094fe.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "a3469402da928035a9d96869356b29bd",
+            "size": 2702936,
             "tags": [
                 "macplus"
             ],
@@ -189,8 +189,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20250703_077d86.rbf"
         },
         "_Unstable/MegaDrive_unstable_20251205_161db8.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "8df7cc9c03c0796d3f7c13a0ad60e4b3",
+            "size": 4310608,
             "tags": [
                 "megadrive"
             ],
@@ -221,8 +221,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20251210_001eb3.rbf"
         },
         "_Unstable/PC88_unstable_20251210_009dad.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "e35e23e3c91f25e538a6b5532d38e368",
+            "size": 2974944,
             "tags": [
                 "pc88"
             ],
@@ -341,16 +341,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
         "_Unstable/ao486_unstable_20251210_00c2ef.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "9f1c84addb5d544c1a220d42dacc4660",
+            "size": 4201084,
             "tags": [
                 "ao486"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20251210_00c2ef.rbf"
         },
         "_Unstable/menu_unstable_20251203_06d498.rbf": {
-            "hash": "0d6914c3c6451e2634b14635a6d229b3",
-            "size": 54894,
+            "hash": "34e04a8284238081d3193bbaf54de389",
+            "size": 2477840,
             "tags": [
                 "menu"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1765472343,
+    "timestamp": 1765474043,
     "zips": {}
 }
