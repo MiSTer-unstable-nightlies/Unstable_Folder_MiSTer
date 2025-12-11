@@ -29,8 +29,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20251210_00f2e0.rbf"
         },
         "_Unstable/Amstrad_unstable_20251210_008451.rbf": {
-            "hash": "94e6afb1fa64058d22de6ac1c41383b3",
-            "size": 2830628,
+            "hash": "ec2c47344c5689011af1d8c467ecf068",
+            "size": 54881,
             "tags": [
                 "amstrad"
             ],
@@ -101,8 +101,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20240101_139e93.rbf"
         },
         "_Unstable/AtariST_unstable_20251210_008182.rbf": {
-            "hash": "1fcb5efc05bc5d00a55d7e54642cde1d",
-            "size": 2802396,
+            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
+            "size": 92,
             "tags": [
                 "atarist"
             ],
@@ -125,8 +125,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20251210_00f2b6.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
+            "size": 2531400,
             "tags": [
                 "chip8"
             ],
@@ -341,8 +341,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
         "_Unstable/ao486_unstable_20251210_00c2ef.rbf": {
-            "hash": "9f1c84addb5d544c1a220d42dacc4660",
-            "size": 4201084,
+            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
+            "size": 92,
             "tags": [
                 "ao486"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1765474043,
+    "timestamp": 1765475754,
     "zips": {}
 }
