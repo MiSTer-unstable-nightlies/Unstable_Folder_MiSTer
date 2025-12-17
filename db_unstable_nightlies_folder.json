@@ -340,18 +340,18 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20251210_00c2ef.rbf"
         },
-        "_Unstable/menu_unstable_20251203_06d498.rbf": {
-            "hash": "34e04a8284238081d3193bbaf54de389",
-            "size": 2477840,
+        "_Unstable/menu_unstable_20251217_064ec9.rbf": {
+            "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
+            "size": 2486132,
             "tags": [
                 "menu"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20251203_06d498.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20251217_064ec9.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1765792535,
+    "timestamp": 1765954652,
     "zips": {}
 }
