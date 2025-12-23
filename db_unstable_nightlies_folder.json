@@ -124,14 +124,6 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20251218_127499.rbf"
         },
-        "_Unstable/Chip8_unstable_20251210_178509.rbf": {
-            "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
-            "size": 2531400,
-            "tags": [
-                "chip8"
-            ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Chip8_MiSTer/releases/download/unstable-builds/Chip8_unstable_20251210_178509.rbf"
-        },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
             "hash": "b4fa77e938718f245e3400c83d5e7099",
             "size": 2758216,
@@ -204,14 +196,6 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20251210_00e2d4.rbf"
         },
-        "_Unstable/NES_unstable_20251223_106293.rbf": {
-            "hash": "c067891117876b4166c0235daeb51542",
-            "size": 3270628,
-            "tags": [
-                "nes"
-            ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20251223_106293.rbf"
-        },
         "_Unstable/NeoGeo_unstable_20251210_001eb3.rbf": {
             "hash": "213363f379857c5836e146a2e09e885c",
             "size": 3729060,
@@ -235,14 +219,6 @@
                 "psx"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20251213_13b5d1.rbf"
-        },
-        "_Unstable/S32X_unstable_20251222_198732.rbf": {
-            "hash": "43e6ca1231b427bd9451896659d3a305",
-            "size": 4242288,
-            "tags": [
-                "s32x"
-            ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20251222_198732.rbf"
         },
         "_Unstable/SMS_unstable_20251205_16980b.rbf": {
             "hash": "b11e32451c85f90cf826b279649592f9",
@@ -360,6 +336,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1766504167,
+    "timestamp": 1766532701,
     "zips": {}
 }
