@@ -301,8 +301,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20251210_00e04e.rbf"
         },
         "_Unstable/Ti994a_unstable_20251210_0003b0.rbf": {
-            "hash": "b6d880387714233aa2038f84c2b6e9de",
-            "size": 2715176,
+            "hash": "a0d129ed31971404195796c4e4af43ea",
+            "size": 2885360,
             "tags": [
                 "ti994a"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1766479634,
+    "timestamp": 1766481503,
     "zips": {}
 }
