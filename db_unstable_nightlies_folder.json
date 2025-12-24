@@ -13,8 +13,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20251210_002a5e.rbf"
         },
         "_Unstable/AcornElectron_unstable_20251210_00ec07.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "66c9795418d453aaf29c1e24361ca65c",
+            "size": 3336336,
             "tags": [
                 "acornelectron"
             ],
@@ -29,8 +29,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AliceMC10_MiSTer/releases/download/unstable-builds/AliceMC10_unstable_20251210_00f2e0.rbf"
         },
         "_Unstable/Amstrad_unstable_20251210_008451.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "94e6afb1fa64058d22de6ac1c41383b3",
+            "size": 2830628,
             "tags": [
                 "amstrad"
             ],
@@ -77,16 +77,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20210405_acb9.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20251210_00aa4c.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "8f24b128d0f362b72de1b2fe139eece6",
+            "size": 3657456,
             "tags": [
                 "arcadespaceinvaders"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20251210_00aa4c.rbf"
         },
         "_Unstable/Arcade-Tecmo_unstable_20251210_000321.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "616b80af85825a0cfb87c8b8e269488d",
+            "size": 3219876,
             "tags": [
                 "arcadetecmo"
             ],
@@ -101,8 +101,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20240101_139e93.rbf"
         },
         "_Unstable/AtariST_unstable_20251210_008182.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "1fcb5efc05bc5d00a55d7e54642cde1d",
+            "size": 2802396,
             "tags": [
                 "atarist"
             ],
@@ -141,8 +141,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20251210_146281.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "f8fc05ee6f87c0848d5a60bdaf1913c4",
+            "size": 4252056,
             "tags": [
                 "gba"
             ],
@@ -173,8 +173,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20251210_0065fe.rbf"
         },
         "_Unstable/MacPlus_unstable_20251212_052a5f.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "d613a6c560225bb87fbd9e8beb736c98",
+            "size": 2691756,
             "tags": [
                 "macplus"
             ],
@@ -205,16 +205,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20251210_00e2d4.rbf"
         },
         "_Unstable/NES_unstable_20251223_106293.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "c067891117876b4166c0235daeb51542",
+            "size": 3270628,
             "tags": [
                 "nes"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20251223_106293.rbf"
         },
         "_Unstable/NeoGeo_unstable_20251210_001eb3.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "213363f379857c5836e146a2e09e885c",
+            "size": 3729060,
             "tags": [
                 "neogeo"
             ],
@@ -301,8 +301,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20251210_00e04e.rbf"
         },
         "_Unstable/Ti994a_unstable_20251210_0003b0.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "a0d129ed31971404195796c4e4af43ea",
+            "size": 2885360,
             "tags": [
                 "ti994a"
             ],
@@ -325,24 +325,24 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20251210_00c689.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20251210_002557.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "4919928113b6a0dac17bc9c73b107727",
+            "size": 3290244,
             "tags": [
                 "zxspectrum"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20251210_002557.rbf"
         },
         "_Unstable/ZXNext_unstable_20251210_000fe1.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "b96d5b943b1da25b2b24330d04ef012b",
+            "size": 3051308,
             "tags": [
                 "zxnext"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
         "_Unstable/ao486_unstable_20251210_00c2ef.rbf": {
-            "hash": "dda6a9bf091d412cbdc2226ce3eb1059",
-            "size": 92,
+            "hash": "9f1c84addb5d544c1a220d42dacc4660",
+            "size": 4201084,
             "tags": [
                 "ao486"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1766587739,
+    "timestamp": 1766589280,
     "zips": {}
 }
