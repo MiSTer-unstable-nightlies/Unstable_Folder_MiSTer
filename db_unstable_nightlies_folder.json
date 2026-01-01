@@ -196,13 +196,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20251205_161db8.rbf"
         },
-        "_Unstable/Minimig_unstable_20251210_00e2d4.rbf": {
-            "hash": "ecf74bc0c33d44f6b1e9f9369fd1d85a",
-            "size": 3513572,
+        "_Unstable/Minimig_unstable_20260101_06ef2c.rbf": {
+            "hash": "3886832ee2b0ad6d4384eaaa6b62d133",
+            "size": 3493352,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20251210_00e2d4.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260101_06ef2c.rbf"
         },
         "_Unstable/NES_unstable_20251223_106293.rbf": {
             "hash": "c067891117876b4166c0235daeb51542",
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1767014563,
+    "timestamp": 1767250693,
     "zips": {}
 }
