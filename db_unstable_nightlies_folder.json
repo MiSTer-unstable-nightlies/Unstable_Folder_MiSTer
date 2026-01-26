@@ -228,13 +228,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20251210_009dad.rbf"
         },
-        "_Unstable/PSX_unstable_20260102_1851ef.rbf": {
-            "hash": "cf0d1de356dac72b1f435ce54c45506a",
-            "size": 4321848,
+        "_Unstable/PSX_unstable_20260126_18b39d.rbf": {
+            "hash": "5df0d656066e7d28e1bec19c8cfcecce",
+            "size": 4348492,
             "tags": [
                 "psx"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20260102_1851ef.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20260126_18b39d.rbf"
         },
         "_Unstable/S32X_unstable_20260109_0512f1.rbf": {
             "hash": "1e29556db31db3de04182858829f3bc2",
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1769409122,
+    "timestamp": 1769456167,
     "zips": {}
 }
