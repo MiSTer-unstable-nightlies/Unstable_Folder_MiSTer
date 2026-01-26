@@ -164,13 +164,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
-        "_Unstable/MSX_unstable_20251210_0065fe.rbf": {
-            "hash": "b6d880387714233aa2038f84c2b6e9de",
-            "size": 2715176,
+        "_Unstable/MSX_unstable_20260126_05e861.rbf": {
+            "hash": "df70c357868cc8d0e14892f1aec6062f",
+            "size": 2683836,
             "tags": [
                 "msx"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20251210_0065fe.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20260126_05e861.rbf"
         },
         "_Unstable/MacPlus_unstable_20251212_052a5f.rbf": {
             "hash": "d613a6c560225bb87fbd9e8beb736c98",
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1769189276,
+    "timestamp": 1769409122,
     "zips": {}
 }
