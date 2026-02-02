@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20250707_061af8.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
-            "hash": "d8aa6d8743b908960f35298682df2183",
-            "size": 190,
+            "hash": "a6db608d547008de6aae134f0a2c4db8",
+            "size": 2994884,
             "tags": [
                 "arcadegalaga"
             ],
@@ -245,8 +245,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
         "_Unstable/SMS_unstable_20251205_16980b.rbf": {
-            "hash": "d8aa6d8743b908960f35298682df2183",
-            "size": 190,
+            "hash": "b11e32451c85f90cf826b279649592f9",
+            "size": 3345856,
             "tags": [
                 "sms"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1769989324,
+    "timestamp": 1769995469,
     "zips": {}
 }
