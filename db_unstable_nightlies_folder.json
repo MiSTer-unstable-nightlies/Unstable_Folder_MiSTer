@@ -101,8 +101,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20240101_139e93.rbf"
         },
         "_Unstable/AtariST_unstable_20251210_008182.rbf": {
-            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
-            "size": 55124,
+            "hash": "1fcb5efc05bc5d00a55d7e54642cde1d",
+            "size": 2802396,
             "tags": [
                 "atarist"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1770456824,
+    "timestamp": 1770458126,
     "zips": {}
 }
