@@ -125,8 +125,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260131_14f583.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
-            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
-            "size": 55124,
+            "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
+            "size": 2531400,
             "tags": [
                 "chip8"
             ],
@@ -141,8 +141,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20251210_146281.rbf": {
-            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
-            "size": 55124,
+            "hash": "f8fc05ee6f87c0848d5a60bdaf1913c4",
+            "size": 4252056,
             "tags": [
                 "gba"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1770518818,
+    "timestamp": 1770526620,
     "zips": {}
 }
