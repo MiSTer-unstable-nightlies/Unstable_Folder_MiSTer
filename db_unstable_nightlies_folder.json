@@ -228,6 +228,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20251210_009dad.rbf"
         },
+        "_Unstable/PSX_unstable_20260213_21dc6b.rbf": {
+            "hash": "888820a0592eb9a27a8baf4971ac2127",
+            "size": 4372788,
+            "tags": [
+                "psx"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20260213_21dc6b.rbf"
+        },
         "_Unstable/S32X_unstable_20260109_0512f1.rbf": {
             "hash": "1e29556db31db3de04182858829f3bc2",
             "size": 4268508,
@@ -308,6 +316,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20251205_16a64a.rbf"
         },
+        "_Unstable/X68000_unstable_20260212_09ad2e.rbf": {
+            "hash": "0d189449fce6a2b4722cd7fdb37dd7a4",
+            "size": 3736576,
+            "tags": [
+                "x68000"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260212_09ad2e.rbf"
+        },
         "_Unstable/ZX-Spectrum_unstable_20251210_002557.rbf": {
             "hash": "4919928113b6a0dac17bc9c73b107727",
             "size": 3290244,
@@ -344,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1771344641,
+    "timestamp": 1771348675,
     "zips": {}
 }
