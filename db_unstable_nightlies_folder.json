@@ -349,8 +349,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20251210_00c2ef.rbf"
         },
         "_Unstable/menu_unstable_20251217_064ec9.rbf": {
-            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
-            "size": 55124,
+            "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
+            "size": 2486132,
             "tags": [
                 "menu"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1771763560,
+    "timestamp": 1771766903,
     "zips": {}
 }
