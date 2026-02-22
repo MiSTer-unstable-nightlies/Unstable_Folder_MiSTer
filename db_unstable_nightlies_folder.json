@@ -45,8 +45,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20250707_061af8.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
-            "hash": "a6db608d547008de6aae134f0a2c4db8",
-            "size": 2994884,
+            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
+            "size": 55124,
             "tags": [
                 "arcadegalaga"
             ],
@@ -109,8 +109,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
         "_Unstable/C64_unstable_20251210_00f1d7.rbf": {
-            "hash": "498669c8bcba666e4b6a80662d6b4930",
-            "size": 3758504,
+            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
+            "size": 55124,
             "tags": [
                 "c64"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1771685721,
+    "timestamp": 1771750781,
     "zips": {}
 }
