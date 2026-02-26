@@ -309,8 +309,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TI-99_4A_MiSTer/releases/download/unstable-builds/Ti994a_unstable_20251210_0003b0.rbf"
         },
         "_Unstable/TurboGrafx16_unstable_20251205_16a64a.rbf": {
-            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
-            "size": 55124,
+            "hash": "d5f6cae023dcc024bd944a403b9417b4",
+            "size": 4232716,
             "tags": [
                 "turbografx16"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1772093229,
+    "timestamp": 1772096781,
     "zips": {}
 }
