@@ -149,8 +149,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20251210_146281.rbf"
         },
         "_Unstable/Gameboy_unstable_20260218_05716b.rbf": {
-            "hash": "a4d06f77043bf69c196dc7956ae42a23",
-            "size": 3893740,
+            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
+            "size": 55124,
             "tags": [
                 "gameboy"
             ],
@@ -197,8 +197,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260216_05be80.rbf"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
-            "hash": "d94d515cb706b5617091e217e0e9ff6f",
-            "size": 3505132,
+            "hash": "5f10092a0c9ccce1e47b0fcda8030f05",
+            "size": 55124,
             "tags": [
                 "minimig"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1772289651,
+    "timestamp": 1772291703,
     "zips": {}
 }
