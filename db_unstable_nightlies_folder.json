@@ -84,6 +84,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20251210_00aa4c.rbf"
         },
+        "_Unstable/Arcade-Tecmo_unstable_20251210_000321.rbf": {
+            "hash": "616b80af85825a0cfb87c8b8e269488d",
+            "size": 3219876,
+            "tags": [
+                "arcadetecmo"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20251210_000321.rbf"
+        },
         "_Unstable/AtariLynx_unstable_20240101_139e93.rbf": {
             "hash": "f5eb4fcf17595c18123d19ace26a7150",
             "size": 3141200,
@@ -352,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1772645583,
+    "timestamp": 1772647545,
     "zips": {}
 }
