@@ -60,13 +60,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaxian_MiSTer/releases/download/unstable-builds/Arcade-Galaxian_unstable_20210218_9093.rbf"
         },
-        "_Unstable/Arcade-QBert_unstable_20260306_11e000.rbf": {
-            "hash": "0dbc37267d61b66e3825e656327a3f55",
-            "size": 3133040,
+        "_Unstable/Arcade-QBert_unstable_20260307_17a56d.rbf": {
+            "hash": "94df9ce4844c041d0e930b481a634cf8",
+            "size": 3153336,
             "tags": [
                 "arcadeqbert"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20260306_11e000.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20260307_17a56d.rbf"
         },
         "_Unstable/Arcade-SEGASYS1_unstable_20260216_05edb3.rbf": {
             "hash": "0b5aa8bc9916a117ed100fb7a6ad7186",
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1772798080,
+    "timestamp": 1772905914,
     "zips": {}
 }
