@@ -13,8 +13,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20251210_002a5e.rbf"
         },
         "_Unstable/AcornElectron_unstable_20251210_00ec07.rbf": {
-            "hash": "66c9795418d453aaf29c1e24361ca65c",
-            "size": 3336336,
+            "hash": "235d81060583f3128e25d81daacef00a",
+            "size": 160949,
             "tags": [
                 "acornelectron"
             ],
@@ -53,8 +53,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20251210_0029d8.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
+            "hash": "235d81060583f3128e25d81daacef00a",
+            "size": 160949,
             "tags": [
                 "arcadegalaxian"
             ],
@@ -245,8 +245,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
         "_Unstable/SMS_unstable_20251205_16980b.rbf": {
-            "hash": "b11e32451c85f90cf826b279649592f9",
-            "size": 3345856,
+            "hash": "235d81060583f3128e25d81daacef00a",
+            "size": 160949,
             "tags": [
                 "sms"
             ],
@@ -360,6 +360,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1773733790,
+    "timestamp": 1773884736,
     "zips": {}
 }
