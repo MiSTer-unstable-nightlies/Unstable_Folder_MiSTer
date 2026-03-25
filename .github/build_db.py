@@ -40,11 +40,11 @@ def main():
     if len(all_urls) == 0:
         print('Nothing to do.')
         return
-    
+
     db = create_db(all_urls)
 
     add_n64(db)
-    
+
     json_name = 'db_unstable_nightlies_folder.json'
     save_json(db, json_name)
 
@@ -59,7 +59,7 @@ def gather_urls():
     for name in proc.stdout.decode().splitlines():
         print(name)
 
-        proc = subprocess.run(r'gh release view -R "MiSTer-unstable-nightlies/%s" unstable-builds --json "assets" 2> /tmp/stderr | jq -r ".assets[] | select(.name|test(\"^.*_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}[.]rbf$\")) | .url" | sort' % name, shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
+        proc = subprocess.run(r'gh release view -R "MiSTer-unstable-nightlies/%s" unstable-builds --json "assets" 2> /tmp/stderr | jq -r ".assets[] | select(.name|test(\"^.*_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}[.]rbf$|^MiSTer_unstable_[0-9]{8}_([0-9]{2})?[0-9a-z]{4}\$\")) | .url" | sort' % name, shell=True, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
         lines = proc.stdout.decode().strip().splitlines()
         if len(lines) == 0:
             print('rbf file not found')
@@ -76,9 +76,9 @@ def gather_urls():
             print('URL: ' + url)
 
         print()
-    
+
     return all_urls
-    
+
 def create_db(all_urls):
 
     db = {
@@ -171,7 +171,7 @@ def changes_detected(db):
 
 def changes_detected_impl(db):
     already_existing_file = "/tmp/existing.json"
-    
+
     download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
     with open(already_existing_file) as json_file:
         existing = json.load(json_file)
