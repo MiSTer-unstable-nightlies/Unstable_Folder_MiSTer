@@ -204,13 +204,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260216_05be80.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260325_10e39f": {
-            "hash": "51d6c8b3c283001c17acacfc22e4f17a",
-            "size": 1014144,
+        "_Unstable/MiSTer_unstable_20260330_1050d2": {
+            "hash": "6fdf55374d1ce16929ea5d34950652e4",
+            "size": 1014152,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260325_10e39f"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260330_1050d2"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -356,13 +356,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
-        "_Unstable/ao486_unstable_20260317_06003f.rbf": {
-            "hash": "30d4813f06d5f760dda8cb9ef7162711",
-            "size": 4144712,
+        "_Unstable/ao486_unstable_20260330_109ee0.rbf": {
+            "hash": "c6d9bb8162c24682d9a9db28a3e0c72e",
+            "size": 4210396,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260317_06003f.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260330_109ee0.rbf"
         },
         "_Unstable/menu_unstable_20251217_064ec9.rbf": {
             "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
@@ -376,6 +376,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1774769332,
+    "timestamp": 1774871464,
     "zips": {}
 }
