@@ -1,8 +1,5 @@
 {
-    "base_files_url": "",
-    "db_files": [],
     "db_id": "unstable_nightlies_folder",
-    "default_options": {},
     "files": {
         "_Unstable/AcornAtom_unstable_20251210_002a5e.rbf": {
             "hash": "efa91ea8fa0db71d30df727f01acd317",
@@ -376,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1774967191,
-    "zips": {}
+    "timestamp": 1774969537,
+    "v": 1
 }
