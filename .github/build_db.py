@@ -43,8 +43,6 @@ def main():
 
     db = create_db(all_urls)
 
-    add_n64(db)
-
     json_name = 'db_unstable_nightlies_folder.json'
     save_json(db, json_name)
 
@@ -82,13 +80,10 @@ def gather_urls():
 def create_db(all_urls):
 
     db = {
+        "v": 1,
         "db_id": 'unstable_nightlies_folder',
-        "db_files": [],
         "files": {},
         "folders": {'_Unstable': {}},
-        "zips": {},
-        "base_files_url": "",
-        "default_options": {},
         "timestamp":  int(time.time())
     }
 
@@ -185,26 +180,6 @@ term_regex = re.compile("[-_a-z0-9.]$", )
 def clean_tag(term: str) -> str:
     result = ''.join(filter(lambda chr: term_regex.match(chr), term.replace(' ', '')))
     return result.replace('-', '').replace('_', '')
-
-def add_n64(db):
-    return
-    try:
-        getlast_tmp = "/tmp/getlast.json"
-        download("https://vampier.net/N64/getlast.php", getlast_tmp)
-        with open(getlast_tmp) as getlast_db:
-            for file_path, file_description in json.load(getlast_db)['files'].items():
-                db['files'][file_path] = file_description
-                file_description['tags'] = ['n64', 'nintendo64']
-    except Exception as err:
-        print('Exception on add_n64!')
-        print(err)
-        print('Running fallback')
-        already_existing_file = "/tmp/existing.json"
-        download("https://raw.githubusercontent.com/MiSTer-unstable-nightlies/Unstable_Folder_MiSTer/main/db_unstable_nightlies_folder.json", already_existing_file)
-        with open(already_existing_file) as json_file:
-            for file_path, file_description in json.load(json_file)['files'].items():
-                if 'tags' in file_description and 'n64' in file_description['tags']:
-                    db['files'][file_path] = file_description
 
 if __name__ == "__main__":
     main()
