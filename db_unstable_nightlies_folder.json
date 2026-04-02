@@ -153,13 +153,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20251210_146281.rbf"
         },
-        "_Unstable/Gameboy_unstable_20260322_14c910.rbf": {
-            "hash": "01221aa08bbef02ee87d79024816c8ad",
-            "size": 3841360,
+        "_Unstable/Gameboy_unstable_20260402_08210f.rbf": {
+            "hash": "d7d586893470f4f473f0d2904f797c01",
+            "size": 3926736,
             "tags": [
                 "gameboy"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260322_14c910.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260402_08210f.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
             "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
@@ -329,13 +329,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20251205_16a64a.rbf"
         },
-        "_Unstable/X68000_unstable_20260212_09ad2e.rbf": {
-            "hash": "0d189449fce6a2b4722cd7fdb37dd7a4",
-            "size": 3736576,
+        "_Unstable/X68000_unstable_20260402_081306.rbf": {
+            "hash": "2f6d18cf0ba80c76c41f5f229f9dd4fc",
+            "size": 4026048,
             "tags": [
                 "x68000"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260212_09ad2e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260402_081306.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20251210_002557.rbf": {
             "hash": "4919928113b6a0dac17bc9c73b107727",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1774969537,
+    "timestamp": 1775119683,
     "v": 1
 }
