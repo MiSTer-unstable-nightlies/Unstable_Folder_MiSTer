@@ -73,13 +73,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20260216_05edb3.rbf"
         },
-        "_Unstable/Arcade-SpaceInvaders_unstable_20260331_14601e.rbf": {
-            "hash": "e18497587052c61693b21f82954d6412",
-            "size": 3679896,
+        "_Unstable/Arcade-SpaceInvaders_unstable_20260402_21f456.rbf": {
+            "hash": "c43c819d0d7325f1e4d43aaee091017b",
+            "size": 3628804,
             "tags": [
                 "arcadespaceinvaders"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20260331_14601e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SpaceInvaders_MiSTer/releases/download/unstable-builds/Arcade-SpaceInvaders_unstable_20260402_21f456.rbf"
         },
         "_Unstable/Arcade-Tecmo_unstable_20251210_000321.rbf": {
             "hash": "616b80af85825a0cfb87c8b8e269488d",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1775119683,
+    "timestamp": 1775166778,
     "v": 1
 }
