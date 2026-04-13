@@ -153,13 +153,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20251210_146281.rbf"
         },
-        "_Unstable/Gameboy_unstable_20260402_08210f.rbf": {
-            "hash": "d7d586893470f4f473f0d2904f797c01",
-            "size": 3926736,
+        "_Unstable/Gameboy_unstable_20260413_0802a0.rbf": {
+            "hash": "ddc8be9ecbe37a16219b6dbdd2254ed4",
+            "size": 3804980,
             "tags": [
                 "gameboy"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260402_08210f.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260413_0802a0.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
             "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
@@ -201,13 +201,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260331_0678c6.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260412_13ad9e": {
-            "hash": "13b11da13fae35e7ff16a21f7877b337",
+        "_Unstable/MiSTer_unstable_20260413_08de57": {
+            "hash": "d051f9d4f133ed6d8cb2e07856e67410",
             "size": 1018256,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260412_13ad9e"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260413_08de57"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1776018985,
+    "timestamp": 1776075495,
     "v": 1
 }
