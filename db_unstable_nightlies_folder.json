@@ -113,13 +113,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
-        "_Unstable/C64_unstable_20260412_1468f4.rbf": {
-            "hash": "92c4e900c065af2cd72abb5ae75b0ad4",
-            "size": 3774924,
+        "_Unstable/C64_unstable_20260415_1578dc.rbf": {
+            "hash": "1cfe5ceb61a1f8d5a2aae713966b42ca",
+            "size": 3799068,
             "tags": [
                 "c64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260412_1468f4.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260415_1578dc.rbf"
         },
         "_Unstable/CDi_unstable_20260222_1329c1.rbf": {
             "hash": "485a539925543eb790f1a97cea57d21e",
@@ -257,13 +257,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
-        "_Unstable/SMS_unstable_20260411_226a76.rbf": {
-            "hash": "10a3ceaaeac81bd05cf2b6b449f3b94e",
-            "size": 3929720,
+        "_Unstable/SMS_unstable_20260415_15eb5f.rbf": {
+            "hash": "99eb84ed685d71db4cd38a1df2969d8e",
+            "size": 3934460,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260411_226a76.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260415_15eb5f.rbf"
         },
         "_Unstable/SNES_unstable_20260331_111f84.rbf": {
             "hash": "b4c7cbf0cb6389d07a7b0318b69b284e",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1776233539,
+    "timestamp": 1776273051,
     "v": 1
 }
