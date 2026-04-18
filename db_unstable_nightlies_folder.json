@@ -177,13 +177,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20260216_05862c.rbf"
         },
-        "_Unstable/MacPlus_unstable_20251212_052a5f.rbf": {
-            "hash": "d613a6c560225bb87fbd9e8beb736c98",
-            "size": 2691756,
+        "_Unstable/MacPlus_unstable_20260418_0636dc.rbf": {
+            "hash": "e8ce656d9e51c55d9e6b15d931fbe1b6",
+            "size": 2698960,
             "tags": [
                 "macplus"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20251212_052a5f.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20260418_0636dc.rbf"
         },
         "_Unstable/MegaCD_unstable_20260324_09461b.rbf": {
             "hash": "b7d5dd64feff72b7c3359695393b9fab",
@@ -265,13 +265,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260415_15eb5f.rbf"
         },
-        "_Unstable/SNES_unstable_20260331_111f84.rbf": {
-            "hash": "b4c7cbf0cb6389d07a7b0318b69b284e",
-            "size": 4429844,
+        "_Unstable/SNES_unstable_20260418_068790.rbf": {
+            "hash": "da9da33833a75fb4871b5b42ed758d3c",
+            "size": 4437040,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260331_111f84.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260418_068790.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260403_1486d9.rbf": {
             "hash": "d0fccd47824f1b36a7e4a5a59e7a383b",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1776273051,
+    "timestamp": 1776497719,
     "v": 1
 }
