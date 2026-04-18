@@ -266,8 +266,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260415_15eb5f.rbf"
         },
         "_Unstable/SNES_unstable_20260418_068790.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "da9da33833a75fb4871b5b42ed758d3c",
+            "size": 4437040,
             "tags": [
                 "snes"
             ],
@@ -314,8 +314,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20251210_00e04e.rbf"
         },
         "_Unstable/Ti994a_unstable_20251210_0003b0.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "a0d129ed31971404195796c4e4af43ea",
+            "size": 2885360,
             "tags": [
                 "ti994a"
             ],
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1776528315,
+    "timestamp": 1776531520,
     "v": 1
 }
