@@ -257,13 +257,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
-        "_Unstable/SMS_unstable_20260421_078c02.rbf": {
-            "hash": "b08a3ebab8420f97df41ae8708c249c1",
-            "size": 3908248,
+        "_Unstable/SMS_unstable_20260425_070b1e.rbf": {
+            "hash": "4fdcda444a1152330ba58a1786a412fb",
+            "size": 3887128,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260421_078c02.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260425_070b1e.rbf"
         },
         "_Unstable/SNES_unstable_20260418_068790.rbf": {
             "hash": "da9da33833a75fb4871b5b42ed758d3c",
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1776852227,
+    "timestamp": 1777108307,
     "v": 1
 }
