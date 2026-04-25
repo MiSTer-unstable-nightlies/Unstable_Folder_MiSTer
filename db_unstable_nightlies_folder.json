@@ -274,8 +274,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260418_068790.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260403_1486d9.rbf": {
-            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
-            "size": 55118,
+            "hash": "d0fccd47824f1b36a7e4a5a59e7a383b",
+            "size": 4642356,
             "tags": [
                 "stvdualsdram"
             ],
@@ -290,8 +290,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20260403_1486d9.rbf"
         },
         "_Unstable/Saturn_DualSDRAM_unstable_20260409_13bd16.rbf": {
-            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
-            "size": 55118,
+            "hash": "00301c3150c539b3fe760408330c814d",
+            "size": 4649032,
             "tags": [
                 "saturndualsdram"
             ],
@@ -346,8 +346,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20251210_002557.rbf"
         },
         "_Unstable/ZXNext_unstable_20251210_000fe1.rbf": {
-            "hash": "b96d5b943b1da25b2b24330d04ef012b",
-            "size": 3051308,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "zxnext"
             ],
@@ -373,6 +373,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777121191,
+    "timestamp": 1777125529,
     "v": 1
 }
