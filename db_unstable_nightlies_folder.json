@@ -146,8 +146,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Chip8_MiSTer/releases/download/unstable-builds/Chip8_unstable_20251210_178509.rbf"
         },
         "_Unstable/ColecoVision_unstable_20221108_21ba8c.rbf": {
-            "hash": "b4fa77e938718f245e3400c83d5e7099",
-            "size": 2758216,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "colecovision"
             ],
@@ -170,8 +170,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260413_0802a0.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
-            "size": 3773348,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "genesis"
             ],
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777217127,
+    "timestamp": 1777242604,
     "v": 1
 }
