@@ -1,13 +1,13 @@
 {
     "db_id": "unstable_nightlies_folder",
     "files": {
-        "_Unstable/3DO_unstable_20260425_16fd38.rbf": {
-            "hash": "b266a50c2ae8a9a491ec54c2a4e23922",
-            "size": 4280484,
+        "_Unstable/3DO_unstable_20260426_0869bf.rbf": {
+            "hash": "f8a96beb6e1d38fd6b10fbebfbf12b61",
+            "size": 4278452,
             "tags": [
                 "3do"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/3DO_MiSTer/releases/download/unstable-builds/3DO_unstable_20260425_16fd38.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/3DO_MiSTer/releases/download/unstable-builds/3DO_unstable_20260426_0869bf.rbf"
         },
         "_Unstable/AcornAtom_unstable_20251210_002a5e.rbf": {
             "hash": "efa91ea8fa0db71d30df727f01acd317",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777136495,
+    "timestamp": 1777196759,
     "v": 1
 }
