@@ -105,13 +105,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260325_23e7d0.rbf"
         },
-        "_Unstable/AtariLynx_unstable_20240101_139e93.rbf": {
-            "hash": "f5eb4fcf17595c18123d19ace26a7150",
-            "size": 3141200,
+        "_Unstable/AtariLynx_unstable_20260430_053350.rbf": {
+            "hash": "dd5c18de58e1cbb4e8ce858dc8243071",
+            "size": 3141580,
             "tags": [
                 "atarilynx"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20240101_139e93.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20260430_053350.rbf"
         },
         "_Unstable/AtariST_unstable_20251210_008182.rbf": {
             "hash": "1fcb5efc05bc5d00a55d7e54642cde1d",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777494920,
+    "timestamp": 1777535529,
     "v": 1
 }
