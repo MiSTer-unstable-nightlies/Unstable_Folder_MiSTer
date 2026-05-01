@@ -265,13 +265,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
-        "_Unstable/SMS_unstable_20260429_19282e.rbf": {
-            "hash": "09fd34479b21aeee85b31c66d5ca3437",
-            "size": 3927704,
+        "_Unstable/SMS_unstable_20260501_07d94f.rbf": {
+            "hash": "b4183ba5b567cc42a779b6f5eb659a89",
+            "size": 3968868,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260429_19282e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260501_07d94f.rbf"
         },
         "_Unstable/SNES_unstable_20260418_068790.rbf": {
             "hash": "da9da33833a75fb4871b5b42ed758d3c",
@@ -361,13 +361,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
-        "_Unstable/ao486_unstable_20260330_109ee0.rbf": {
-            "hash": "c6d9bb8162c24682d9a9db28a3e0c72e",
-            "size": 4210396,
+        "_Unstable/ao486_unstable_20260501_079190.rbf": {
+            "hash": "1a8c852b81869812835dd1f08cd2ae44",
+            "size": 4245460,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260330_109ee0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260501_079190.rbf"
         },
         "_Unstable/menu_unstable_20251217_064ec9.rbf": {
             "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777583738,
+    "timestamp": 1777625677,
     "v": 1
 }
