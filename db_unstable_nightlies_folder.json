@@ -138,8 +138,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260502_17b891.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
-            "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
-            "size": 2531400,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "chip8"
             ],
@@ -170,8 +170,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Gameboy_MiSTer/releases/download/unstable-builds/Gameboy_unstable_20260413_0802a0.rbf"
         },
         "_Unstable/Genesis_unstable_20221101_20c65f.rbf": {
-            "hash": "811f0f5bb3fe684ddfa5555ff711c9d3",
-            "size": 3773348,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "genesis"
             ],
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777836515,
+    "timestamp": 1777853064,
     "v": 1
 }
