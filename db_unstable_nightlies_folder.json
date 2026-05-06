@@ -233,13 +233,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260308_1995cb.rbf"
         },
-        "_Unstable/NeoGeo_unstable_20260503_18c3fd.rbf": {
-            "hash": "60faf5751c90e535e013d680a4632c95",
-            "size": 3716852,
+        "_Unstable/NeoGeo_unstable_20260506_09a7aa.rbf": {
+            "hash": "d25f5feb84c1e444d55d8d1fbf578a65",
+            "size": 3679100,
             "tags": [
                 "neogeo"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260503_18c3fd.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260506_09a7aa.rbf"
         },
         "_Unstable/PC88_unstable_20260321_071531.rbf": {
             "hash": "d774d6c7444727c8ffdf9a0081d37c78",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1777930279,
+    "timestamp": 1778066456,
     "v": 1
 }
