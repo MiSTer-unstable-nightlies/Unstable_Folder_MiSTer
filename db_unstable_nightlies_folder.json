@@ -250,8 +250,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20260321_071531.rbf"
         },
         "_Unstable/PSX_unstable_20260411_08979f.rbf": {
-            "hash": "71313c5ff2526128c7623c1076c943db",
-            "size": 4337480,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "psx"
             ],
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1778230240,
+    "timestamp": 1778334841,
     "v": 1
 }
