@@ -121,13 +121,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
-        "_Unstable/C64_unstable_20260415_1578dc.rbf": {
-            "hash": "1cfe5ceb61a1f8d5a2aae713966b42ca",
-            "size": 3799068,
+        "_Unstable/C64_unstable_20260511_09b285.rbf": {
+            "hash": "d2ff53858c37121216f418760afe6411",
+            "size": 3933308,
             "tags": [
                 "c64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260415_1578dc.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260511_09b285.rbf"
         },
         "_Unstable/CDi_unstable_20260502_17b891.rbf": {
             "hash": "d61b1a3e35723efba184e8ceff963630",
@@ -209,13 +209,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260331_0678c6.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260509_15c767": {
-            "hash": "e0376d98bc6a2e7aef905dc5b93c6744",
+        "_Unstable/MiSTer_unstable_20260511_09fa36": {
+            "hash": "b674b7205ba869fa5b31e58f6fb3c5d3",
             "size": 1022488,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260509_15c767"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260511_09fa36"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -233,13 +233,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260509_14bf92.rbf"
         },
-        "_Unstable/NeoGeo_unstable_20260506_09a7aa.rbf": {
-            "hash": "d25f5feb84c1e444d55d8d1fbf578a65",
-            "size": 3679100,
+        "_Unstable/NeoGeo_unstable_20260511_095a13.rbf": {
+            "hash": "98030ccd563dacd44df6bda9f0ce46e9",
+            "size": 3717028,
             "tags": [
                 "neogeo"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260506_09a7aa.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260511_095a13.rbf"
         },
         "_Unstable/PC88_unstable_20260321_071531.rbf": {
             "hash": "d774d6c7444727c8ffdf9a0081d37c78",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1778341368,
+    "timestamp": 1778502582,
     "v": 1
 }
