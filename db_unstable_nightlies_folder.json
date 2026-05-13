@@ -209,13 +209,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260331_0678c6.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260511_09fa36": {
-            "hash": "b674b7205ba869fa5b31e58f6fb3c5d3",
+        "_Unstable/MiSTer_unstable_20260513_1539d0": {
+            "hash": "8f894d332ce516c49da0eacf93d4cc4d",
             "size": 1022488,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260511_09fa36"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260513_1539d0"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -233,13 +233,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260509_14bf92.rbf"
         },
-        "_Unstable/NeoGeo_unstable_20260511_095a13.rbf": {
-            "hash": "98030ccd563dacd44df6bda9f0ce46e9",
-            "size": 3717028,
+        "_Unstable/NeoGeo_unstable_20260513_15d68d.rbf": {
+            "hash": "f764d6c8c389df16561ac0b2249ae45a",
+            "size": 3715368,
             "tags": [
                 "neogeo"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260511_095a13.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260513_15d68d.rbf"
         },
         "_Unstable/PC88_unstable_20260321_071531.rbf": {
             "hash": "d774d6c7444727c8ffdf9a0081d37c78",
@@ -381,6 +381,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1778663994,
+    "timestamp": 1778688435,
     "v": 1
 }
