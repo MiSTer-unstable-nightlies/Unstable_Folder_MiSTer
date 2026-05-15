@@ -161,13 +161,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20251210_146281.rbf"
         },
-        "_Unstable/GameAndWatch_unstable_20260514_237697.rbf": {
-            "hash": "c5c1005ad9376145f01de74061d1ca10",
-            "size": 3178944,
+        "_Unstable/GameAndWatch_unstable_20260515_2283dc.rbf": {
+            "hash": "b9e184c9dd51210c17adc1a18b60f9cc",
+            "size": 3185680,
             "tags": [
                 "gameandwatch"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/GameAndWatch_MiSTer/releases/download/unstable-builds/GameAndWatch_unstable_20260514_237697.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/GameAndWatch_MiSTer/releases/download/unstable-builds/GameAndWatch_unstable_20260515_2283dc.rbf"
         },
         "_Unstable/Gameboy_unstable_20260413_0802a0.rbf": {
             "hash": "ddc8be9ecbe37a16219b6dbdd2254ed4",
@@ -241,13 +241,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260509_14bf92.rbf"
         },
-        "_Unstable/NeoGeo_unstable_20260513_15d68d.rbf": {
-            "hash": "f764d6c8c389df16561ac0b2249ae45a",
-            "size": 3715368,
+        "_Unstable/NeoGeo_unstable_20260515_22e212.rbf": {
+            "hash": "443b506a72b86cc0ed2a52147489629d",
+            "size": 3697184,
             "tags": [
                 "neogeo"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260513_15d68d.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260515_22e212.rbf"
         },
         "_Unstable/PC88_unstable_20260321_071531.rbf": {
             "hash": "d774d6c7444727c8ffdf9a0081d37c78",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1778808335,
+    "timestamp": 1778886782,
     "v": 1
 }
