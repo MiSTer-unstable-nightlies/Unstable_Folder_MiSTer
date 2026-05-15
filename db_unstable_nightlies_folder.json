@@ -161,6 +161,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/GBA_MiSTer/releases/download/unstable-builds/GBA_unstable_20251210_146281.rbf"
         },
+        "_Unstable/GameAndWatch_unstable_20260514_237697.rbf": {
+            "hash": "c5c1005ad9376145f01de74061d1ca10",
+            "size": 3178944,
+            "tags": [
+                "gameandwatch"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/GameAndWatch_MiSTer/releases/download/unstable-builds/GameAndWatch_unstable_20260514_237697.rbf"
+        },
         "_Unstable/Gameboy_unstable_20260413_0802a0.rbf": {
             "hash": "ddc8be9ecbe37a16219b6dbdd2254ed4",
             "size": 3804980,
@@ -209,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260331_0678c6.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260513_1539d0": {
-            "hash": "8f894d332ce516c49da0eacf93d4cc4d",
+        "_Unstable/MiSTer_unstable_20260514_23fbbf": {
+            "hash": "19bcce2206b95f7c4bfbc00865640a6f",
             "size": 1022488,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260513_1539d0"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260514_23fbbf"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -381,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1778774763,
+    "timestamp": 1778808335,
     "v": 1
 }
