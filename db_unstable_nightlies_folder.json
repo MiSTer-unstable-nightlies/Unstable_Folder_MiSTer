@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260526_0965fc.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260523_09f37a": {
-            "hash": "caa529617614206aa08dea73f02035cd",
+        "_Unstable/MiSTer_unstable_20260526_197fa9": {
+            "hash": "8f6372f469d4d1c937b16780715a717d",
             "size": 1034832,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260523_09f37a"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260526_197fa9"
         },
         "_Unstable/Minimig_unstable_20260220_16f537.rbf": {
             "hash": "d94d515cb706b5617091e217e0e9ff6f",
@@ -273,13 +273,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260109_0512f1.rbf"
         },
-        "_Unstable/SMS_unstable_20260517_07c29c.rbf": {
-            "hash": "ce3889fa4a702d558af4483efe523fb0",
-            "size": 3927924,
+        "_Unstable/SMS_unstable_20260526_1933b3.rbf": {
+            "hash": "58b01d8c9c028f516190edbf8cca1ee1",
+            "size": 3935420,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260517_07c29c.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260526_1933b3.rbf"
         },
         "_Unstable/SNES_unstable_20260418_068790.rbf": {
             "hash": "da9da33833a75fb4871b5b42ed758d3c",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1779812897,
+    "timestamp": 1779829258,
     "v": 1
 }
