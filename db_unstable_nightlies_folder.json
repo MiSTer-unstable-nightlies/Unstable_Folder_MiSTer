@@ -250,8 +250,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
         "_Unstable/PC88_unstable_20260321_071531.rbf": {
-            "hash": "d774d6c7444727c8ffdf9a0081d37c78",
-            "size": 2987800,
+            "hash": "1ef493aab622defdf165d35ca8a0bfe9",
+            "size": 55118,
             "tags": [
                 "pc88"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1779961783,
+    "timestamp": 1780047553,
     "v": 1
 }
