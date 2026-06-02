@@ -281,13 +281,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260528_05b0dc.rbf"
         },
-        "_Unstable/SNES_unstable_20260601_10bebe.rbf": {
-            "hash": "49aafc3fdb16bf828e5a1d305d525432",
-            "size": 4433620,
+        "_Unstable/SNES_unstable_20260602_09b9bc.rbf": {
+            "hash": "dc234b4c56912e4ebe4fd17e3d7f4e2c",
+            "size": 4427320,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260601_10bebe.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260602_09b9bc.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260507_17eed8.rbf": {
             "hash": "7bf9fa0939bb689a9615597b50a05ac2",
@@ -345,13 +345,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20251205_16a64a.rbf"
         },
-        "_Unstable/X68000_unstable_20260531_187358.rbf": {
-            "hash": "75732c391e6fd918cdcb18f67587f0a1",
-            "size": 4508480,
+        "_Unstable/X68000_unstable_20260602_09b17e.rbf": {
+            "hash": "9d5ec4afee34a7a1032b2d7476bec3b5",
+            "size": 4506244,
             "tags": [
                 "x68000"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260531_187358.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260602_09b17e.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20251210_002557.rbf": {
             "hash": "4919928113b6a0dac17bc9c73b107727",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1780346187,
+    "timestamp": 1780404740,
     "v": 1
 }
