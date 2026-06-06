@@ -129,13 +129,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260605_14ed06.rbf"
         },
-        "_Unstable/CDi_unstable_20260605_14f9f4.rbf": {
-            "hash": "6526718ebfce24804d09f6febee81828",
-            "size": 3905920,
+        "_Unstable/CDi_unstable_20260606_19b156.rbf": {
+            "hash": "e55f40837d1c140ceaa6929e3396d341",
+            "size": 3870344,
             "tags": [
                 "cdi"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260605_14f9f4.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260606_19b156.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
             "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1780692338,
+    "timestamp": 1780778120,
     "v": 1
 }
