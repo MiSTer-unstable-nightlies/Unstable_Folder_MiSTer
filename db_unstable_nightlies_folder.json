@@ -121,13 +121,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
-        "_Unstable/C64_unstable_20260608_092a3b.rbf": {
-            "hash": "126769342507ae6256a0afa280de1615",
-            "size": 3863676,
+        "_Unstable/C64_unstable_20260617_11c82b.rbf": {
+            "hash": "b07084ae2783a56b9b37180cf8eabce3",
+            "size": 3934832,
             "tags": [
                 "c64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260608_092a3b.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260617_11c82b.rbf"
         },
         "_Unstable/CDi_unstable_20260606_19b156.rbf": {
             "hash": "e55f40837d1c140ceaa6929e3396d341",
@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260615_0982c1": {
-            "hash": "e62cf7864abb1753543bc9f24eedf4c9",
-            "size": 1059552,
+        "_Unstable/MiSTer_unstable_20260617_11cc46": {
+            "hash": "a3629d870f666d184fad7167fc96c6d1",
+            "size": 1063648,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260615_0982c1"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260617_11cc46"
         },
         "_Unstable/Minimig_unstable_20260604_13c3fe.rbf": {
             "hash": "07a6f1272e10a05a3c28ebe7f7efa708",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1781530628,
+    "timestamp": 1781704900,
     "v": 1
 }
