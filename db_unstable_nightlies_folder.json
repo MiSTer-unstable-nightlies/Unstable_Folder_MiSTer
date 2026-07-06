@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260704_07de8b": {
-            "hash": "5d49ece7ed53e0733e26a914150a1367",
+        "_Unstable/MiSTer_unstable_20260706_085732": {
+            "hash": "10e2eb5673b400ef484355fcb4a07c27",
             "size": 1059552,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260704_07de8b"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260706_085732"
         },
         "_Unstable/Minimig_unstable_20260604_13c3fe.rbf": {
             "hash": "07a6f1272e10a05a3c28ebe7f7efa708",
@@ -233,13 +233,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260604_13c3fe.rbf"
         },
-        "_Unstable/NES_unstable_20260509_14bf92.rbf": {
-            "hash": "415cb6939fc1fce3344bc0bd8d1c88d6",
-            "size": 3264708,
+        "_Unstable/NES_unstable_20260706_081375.rbf": {
+            "hash": "1acf9eba05ca995176c5516c6b67df32",
+            "size": 3245072,
             "tags": [
                 "nes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260509_14bf92.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260706_081375.rbf"
         },
         "_Unstable/NeoGeo_unstable_20260519_061364.rbf": {
             "hash": "ed8374882e13084ce063e7bcb6c74c6e",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1783274731,
+    "timestamp": 1783341529,
     "v": 1
 }
