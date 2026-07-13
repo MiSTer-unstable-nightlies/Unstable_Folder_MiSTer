@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260711_19136a": {
-            "hash": "5cbc73eea3df1811ece4688b48c2bcde",
+        "_Unstable/MiSTer_unstable_20260713_07f401": {
+            "hash": "abde5bbf9f961158ede487ef7adcb548",
             "size": 1059552,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260711_19136a"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260713_07f401"
         },
         "_Unstable/Minimig_unstable_20260604_13c3fe.rbf": {
             "hash": "07a6f1272e10a05a3c28ebe7f7efa708",
@@ -353,13 +353,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260615_09f0dd.rbf"
         },
-        "_Unstable/ZX-Spectrum_unstable_20251210_002557.rbf": {
-            "hash": "4919928113b6a0dac17bc9c73b107727",
-            "size": 3290244,
+        "_Unstable/ZX-Spectrum_unstable_20260713_0746f6.rbf": {
+            "hash": "6a48e8600e8ffebcd602344c6988ef2c",
+            "size": 3336372,
             "tags": [
                 "zxspectrum"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20251210_002557.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20260713_0746f6.rbf"
         },
         "_Unstable/ZXNext_unstable_20251210_000fe1.rbf": {
             "hash": "b96d5b943b1da25b2b24330d04ef012b",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1783802380,
+    "timestamp": 1783930248,
     "v": 1
 }
