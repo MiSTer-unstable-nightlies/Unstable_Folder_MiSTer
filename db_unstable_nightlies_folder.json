@@ -314,8 +314,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20260703_1240d0.rbf"
         },
         "_Unstable/Saturn_unstable_20260628_1455a3.rbf": {
-            "hash": "39cfc2cf04483a1033539225acc7a5d2",
-            "size": 4628564,
+            "hash": "855486af248ff8198d44c3dba303417c",
+            "size": 4076388,
             "tags": [
                 "saturn"
             ],
@@ -354,8 +354,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260615_09f0dd.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20260713_0746f6.rbf": {
-            "hash": "6a48e8600e8ffebcd602344c6988ef2c",
-            "size": 3336372,
+            "hash": "abde5bbf9f961158ede487ef7adcb548",
+            "size": 1059552,
             "tags": [
                 "zxspectrum"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1783930248,
+    "timestamp": 1783975889,
     "v": 1
 }
