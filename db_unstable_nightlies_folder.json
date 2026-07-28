@@ -186,8 +186,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Genesis_MiSTer/releases/download/unstable-builds/Genesis_unstable_20221101_20c65f.rbf"
         },
         "_Unstable/MSX_unstable_20260216_05862c.rbf": {
-            "hash": "cfdd6702de24fc3d0aeb8bdbd459ca87",
-            "size": 2703736,
+            "hash": "ddc07eb486ac6f13af251fb0891d694f",
+            "size": 2823876,
             "tags": [
                 "msx"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1785088560,
+    "timestamp": 1785269443,
     "v": 1
 }
