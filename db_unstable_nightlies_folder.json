@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260726_16b762": {
-            "hash": "308dd6690b6853b1a355cc1eef65eea1",
+        "_Unstable/MiSTer_unstable_20260729_19b5db": {
+            "hash": "7b0a2641b4da4ef8f11b7ef70d8e0e91",
             "size": 1096480,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260726_16b762"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260729_19b5db"
         },
         "_Unstable/Minimig_unstable_20260726_164d1d.rbf": {
             "hash": "b5c1e34c92b8dc215995927619ed39a0",
@@ -281,13 +281,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260715_114d50.rbf"
         },
-        "_Unstable/SNES_unstable_20260724_19dbfd.rbf": {
-            "hash": "593cb663c5df08d2925ccbb4b9364f35",
-            "size": 4447964,
+        "_Unstable/SNES_unstable_20260729_199a39.rbf": {
+            "hash": "c77d638ec4ee72c35710bbf13ef05a56",
+            "size": 4443124,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260724_19dbfd.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260729_199a39.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260720_176386.rbf": {
             "hash": "f6756253c5c8247aa0d3b0f693d8e2a7",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1785274341,
+    "timestamp": 1785355032,
     "v": 1
 }
