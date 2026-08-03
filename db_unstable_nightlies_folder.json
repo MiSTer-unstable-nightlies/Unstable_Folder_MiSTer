@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260802_078bb3": {
-            "hash": "3065a81eb63f3238e36c2310633202da",
-            "size": 1121072,
+        "_Unstable/MiSTer_unstable_20260803_084fce": {
+            "hash": "e357f563eace7f9510aeb79716aa7fb9",
+            "size": 1145712,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260802_078bb3"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260803_084fce"
         },
         "_Unstable/Minimig_unstable_20260726_164d1d.rbf": {
             "hash": "b5c1e34c92b8dc215995927619ed39a0",
@@ -281,13 +281,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260715_114d50.rbf"
         },
-        "_Unstable/SNES_unstable_20260802_078093.rbf": {
-            "hash": "2e9332a56db5518ca3bea4097b216789",
-            "size": 4445000,
+        "_Unstable/SNES_unstable_20260803_080871.rbf": {
+            "hash": "4b98c801b740099ddbb0cfeb9c46f828",
+            "size": 4444112,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260802_078093.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260803_080871.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260720_176386.rbf": {
             "hash": "f6756253c5c8247aa0d3b0f693d8e2a7",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1785661018,
+    "timestamp": 1785753245,
     "v": 1
 }
