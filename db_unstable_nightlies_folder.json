@@ -18,8 +18,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20251210_002a5e.rbf"
         },
         "_Unstable/AcornElectron_unstable_20251210_00ec07.rbf": {
-            "hash": "66c9795418d453aaf29c1e24361ca65c",
-            "size": 3336336,
+            "hash": "122533f2c18926481846b9089a7cf4b0",
+            "size": 2612748,
             "tags": [
                 "acornelectron"
             ],
@@ -50,8 +50,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20250707_061af8.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
-            "hash": "a6db608d547008de6aae134f0a2c4db8",
-            "size": 2994884,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "arcadegalaga"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1785837696,
+    "timestamp": 1785891761,
     "v": 1
 }
