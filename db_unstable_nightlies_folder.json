@@ -129,13 +129,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260723_099ab9.rbf"
         },
-        "_Unstable/CDi_unstable_20260723_11a2c9.rbf": {
-            "hash": "745a9412d67dce9f13c9f369a189c6de",
-            "size": 3868020,
+        "_Unstable/CDi_unstable_20260810_12d904.rbf": {
+            "hash": "398bca5b2c14cdebf578d52a4a84fa50",
+            "size": 3901168,
             "tags": [
                 "cdi"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260723_11a2c9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260810_12d904.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
             "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
@@ -233,13 +233,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260726_164d1d.rbf"
         },
-        "_Unstable/NES_unstable_20260724_11cf14.rbf": {
-            "hash": "0349cd47db0f5f5b78ed7ef31962b18f",
-            "size": 3256192,
+        "_Unstable/NES_unstable_20260810_137d52.rbf": {
+            "hash": "53867f66611196496719b1ea1b381a49",
+            "size": 3300404,
             "tags": [
                 "nes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260724_11cf14.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/NES_MiSTer/releases/download/unstable-builds/NES_unstable_20260810_137d52.rbf"
         },
         "_Unstable/NeoGeo_unstable_20260519_061364.rbf": {
             "hash": "ed8374882e13084ce063e7bcb6c74c6e",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1786314073,
+    "timestamp": 1786371312,
     "v": 1
 }
