@@ -74,8 +74,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-QBert_MiSTer/releases/download/unstable-builds/Arcade-QBert_unstable_20260323_1139f8.rbf"
         },
         "_Unstable/Arcade-SEGASYS1_unstable_20260608_09f24e.rbf": {
-            "hash": "d49cd9af26eeeda58aef9bce92ba827a",
-            "size": 4262080,
+            "hash": "68f8af6593a65e2ef989621e2464fb5a",
+            "size": 3409900,
             "tags": [
                 "arcadesegasys1"
             ],
@@ -330,8 +330,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/TatungEinstein_MiSTer/releases/download/unstable-builds/TatungEinstein_unstable_20251210_00e04e.rbf"
         },
         "_Unstable/Ti994a_unstable_20251210_0003b0.rbf": {
-            "hash": "d774d6c7444727c8ffdf9a0081d37c78",
-            "size": 2987800,
+            "hash": "a0d129ed31971404195796c4e4af43ea",
+            "size": 2885360,
             "tags": [
                 "ti994a"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1786514852,
+    "timestamp": 1786521205,
     "v": 1
 }
