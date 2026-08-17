@@ -82,8 +82,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-SEGASYS1_MiSTer/releases/download/unstable-builds/Arcade-SEGASYS1_unstable_20260608_09f24e.rbf"
         },
         "_Unstable/Arcade-SpaceInvaders_unstable_20260402_21f456.rbf": {
-            "hash": "9ee6995c5616b24321c388728f73fbfb",
-            "size": 4218904,
+            "hash": "c43c819d0d7325f1e4d43aaee091017b",
+            "size": 3628804,
             "tags": [
                 "arcadespaceinvaders"
             ],
@@ -314,8 +314,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20260817_13ea1a.rbf"
         },
         "_Unstable/Saturn_unstable_20260628_1455a3.rbf": {
-            "hash": "d41d8cd98f00b204e9800998ecf8427e",
-            "size": 0,
+            "hash": "39cfc2cf04483a1033539225acc7a5d2",
+            "size": 4628564,
             "tags": [
                 "saturn"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1786977992,
+    "timestamp": 1786979922,
     "v": 1
 }
