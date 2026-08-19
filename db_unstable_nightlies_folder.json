@@ -154,8 +154,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/ColecoVision_MiSTer/releases/download/unstable-builds/ColecoVision_unstable_20221108_21ba8c.rbf"
         },
         "_Unstable/GBA_unstable_20260722_05f3cb.rbf": {
-            "hash": "b3041ef8a467773bba59796e57b105a5",
-            "size": 3951696,
+            "hash": "339821a9e4277f4fe29c1e2293d59ab8",
+            "size": 4235164,
             "tags": [
                 "gba"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787122055,
+    "timestamp": 1787124668,
     "v": 1
 }
