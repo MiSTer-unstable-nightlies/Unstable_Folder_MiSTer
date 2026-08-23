@@ -2,8 +2,8 @@
     "db_id": "unstable_nightlies_folder",
     "files": {
         "_Unstable/3DO_unstable_20260715_0995eb.rbf": {
-            "hash": "3e6f2b0562af41b6924ca06806c5459b",
-            "size": 4269112,
+            "hash": "502d10d0c8bf5232d26107be5d0fc285",
+            "size": 3134952,
             "tags": [
                 "3do"
             ],
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787475144,
+    "timestamp": 1787481771,
     "v": 1
 }
