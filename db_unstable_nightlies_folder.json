@@ -97,13 +97,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20251210_000321.rbf"
         },
-        "_Unstable/Atari7800_unstable_20260823_141764.rbf": {
-            "hash": "6ade15bd1a65030f73055523d321f77f",
-            "size": 3563668,
+        "_Unstable/Atari7800_unstable_20260824_15b349.rbf": {
+            "hash": "dc28cd14494fe8fe495432b0a7c47bf1",
+            "size": 3543204,
             "tags": [
                 "atari7800"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260823_141764.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260824_15b349.rbf"
         },
         "_Unstable/AtariLynx_unstable_20260714_0467ec.rbf": {
             "hash": "71212a6a32151de4034320f4db5db96f",
@@ -281,13 +281,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260824_1288c7.rbf"
         },
-        "_Unstable/SNES_unstable_20260824_004825.rbf": {
-            "hash": "8cb3bc2726d1ca6b7b35fa701a11d461",
-            "size": 4444620,
+        "_Unstable/SNES_unstable_20260824_15fda3.rbf": {
+            "hash": "325db76e247301c85fe0db66839511a5",
+            "size": 4444080,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260824_004825.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260824_15fda3.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260817_13ea1a.rbf": {
             "hash": "b11d47dc62a1180bef4def2bd93b1fcc",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787578979,
+    "timestamp": 1787587127,
     "v": 1
 }
