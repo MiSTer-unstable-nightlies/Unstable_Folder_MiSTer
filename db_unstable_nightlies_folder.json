@@ -97,13 +97,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20251210_000321.rbf"
         },
-        "_Unstable/Atari7800_unstable_20260824_15b349.rbf": {
-            "hash": "dc28cd14494fe8fe495432b0a7c47bf1",
-            "size": 3543204,
+        "_Unstable/Atari7800_unstable_20260824_23b48e.rbf": {
+            "hash": "31b572d2d6f95dc5c5fc348fa64ad399",
+            "size": 3720240,
             "tags": [
                 "atari7800"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260824_15b349.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260824_23b48e.rbf"
         },
         "_Unstable/AtariLynx_unstable_20260714_0467ec.rbf": {
             "hash": "71212a6a32151de4034320f4db5db96f",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787600757,
+    "timestamp": 1787615742,
     "v": 1
 }
