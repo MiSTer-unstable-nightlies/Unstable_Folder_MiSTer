@@ -225,13 +225,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260823_215ac9"
         },
-        "_Unstable/Minimig_unstable_20260823_142d54.rbf": {
-            "hash": "c2e020446378a7854da96828b310636e",
-            "size": 3547396,
+        "_Unstable/Minimig_unstable_20260827_144635.rbf": {
+            "hash": "f86948f8ac07565f4282aa5f76c8ceb0",
+            "size": 3597892,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260823_142d54.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260827_144635.rbf"
         },
         "_Unstable/NES_unstable_20260810_137d52.rbf": {
             "hash": "53867f66611196496719b1ea1b381a49",
@@ -345,13 +345,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20260709_1748dd.rbf"
         },
-        "_Unstable/X68000_unstable_20260826_073737.rbf": {
-            "hash": "271cb60eeed547668329108ce92377fa",
-            "size": 4446692,
+        "_Unstable/X68000_unstable_20260827_145fab.rbf": {
+            "hash": "c460c9637b40eec0577451c8bc6420c8",
+            "size": 4342100,
             "tags": [
                 "x68000"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260826_073737.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/X68000_MiSTer/releases/download/unstable-builds/X68000_unstable_20260827_145fab.rbf"
         },
         "_Unstable/ZX-Spectrum_unstable_20260808_08a30e.rbf": {
             "hash": "8893f947881a65429d273bc38673d3f7",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787731262,
+    "timestamp": 1787875022,
     "v": 1
 }
