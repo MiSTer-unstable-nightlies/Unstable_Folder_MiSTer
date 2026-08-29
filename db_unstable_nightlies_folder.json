@@ -217,21 +217,21 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260604_13e958.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260828_093cac": {
-            "hash": "e8dc46f9cb8bf843772a641362c8e67f",
+        "_Unstable/MiSTer_unstable_20260828_21dcb2": {
+            "hash": "be7697e6278a955a494ae4b8a1f70f13",
             "size": 1162128,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260828_093cac"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260828_21dcb2"
         },
-        "_Unstable/Minimig_unstable_20260828_09106b.rbf": {
-            "hash": "daa542dc9ef3075576c8060f97b0a02d",
-            "size": 3542748,
+        "_Unstable/Minimig_unstable_20260828_21546f.rbf": {
+            "hash": "23d5dd336b925eb2e4a3c05262a9776c",
+            "size": 3570172,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260828_09106b.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260828_21546f.rbf"
         },
         "_Unstable/NES_unstable_20260810_137d52.rbf": {
             "hash": "53867f66611196496719b1ea1b381a49",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1787949733,
+    "timestamp": 1787972309,
     "v": 1
 }
