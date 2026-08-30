@@ -41,13 +41,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20260509_149f20.rbf"
         },
-        "_Unstable/Apple-II_unstable_20260822_11eb92.rbf": {
-            "hash": "61ca12a51dde71bf8238a2ebeba618ab",
-            "size": 3692196,
+        "_Unstable/Apple-II_unstable_20260830_134817.rbf": {
+            "hash": "50e898bbca675cc29b2516bdcc88114b",
+            "size": 3776772,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260822_11eb92.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260830_134817.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
             "hash": "a6db608d547008de6aae134f0a2c4db8",
@@ -369,13 +369,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
         },
-        "_Unstable/ao486_unstable_20260815_14b3c6.rbf": {
-            "hash": "4b75075eaf7446a4f09acc25ea99d740",
-            "size": 4194680,
+        "_Unstable/ao486_unstable_20260830_132e6c.rbf": {
+            "hash": "2261f86251c0f40ebe96b05553d83559",
+            "size": 4226292,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260815_14b3c6.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260830_132e6c.rbf"
         },
         "_Unstable/menu_unstable_20251217_064ec9.rbf": {
             "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
@@ -389,6 +389,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1788044322,
+    "timestamp": 1788108970,
     "v": 1
 }
