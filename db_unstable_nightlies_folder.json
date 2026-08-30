@@ -97,13 +97,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20251210_000321.rbf"
         },
-        "_Unstable/Atari7800_unstable_20260826_022f50.rbf": {
-            "hash": "4519311bda4909b0945500651b181f55",
-            "size": 3788652,
+        "_Unstable/Atari7800_unstable_20260830_202d4a.rbf": {
+            "hash": "70d3613c94164a5150c2d9fbe42464d9",
+            "size": 4166268,
             "tags": [
                 "atari7800"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260826_022f50.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260830_202d4a.rbf"
         },
         "_Unstable/AtariLynx_unstable_20260714_0467ec.rbf": {
             "hash": "71212a6a32151de4034320f4db5db96f",
@@ -321,6 +321,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20260628_1455a3.rbf"
         },
+        "_Unstable/Studio-II_unstable_20260830_2016fd.rbf": {
+            "hash": "e0615ab31f329a5c7ac25593440033f2",
+            "size": 2723632,
+            "tags": [
+                "studioii"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260830_2016fd.rbf"
+        },
         "_Unstable/TatungEinstein_unstable_20251210_00e04e.rbf": {
             "hash": "239657c7b9b07000725b046579e0cfb9",
             "size": 3292392,
@@ -389,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1788118564,
+    "timestamp": 1788127319,
     "v": 1
 }
