@@ -58,8 +58,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20251210_0029d8.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "9d2fe53541e267f6e8a5abaa0ba05103",
-            "size": 4343036,
+            "hash": "8de43e51d86346e772e43455870fc6ef",
+            "size": 2753280,
             "tags": [
                 "arcadegalaxian"
             ],
@@ -225,13 +225,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260828_21dcb2"
         },
-        "_Unstable/Minimig_unstable_20260901_187563.rbf": {
-            "hash": "b8f4067c77f19abfd237ecfd3d2bb6ab",
-            "size": 3613800,
+        "_Unstable/Minimig_unstable_20260906_186516.rbf": {
+            "hash": "dd2022eb812d6fa63ecc3217d970dc5c",
+            "size": 3531868,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260901_187563.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20260906_186516.rbf"
         },
         "_Unstable/NES_unstable_20260810_137d52.rbf": {
             "hash": "53867f66611196496719b1ea1b381a49",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1788715179,
+    "timestamp": 1788722228,
     "v": 1
 }
