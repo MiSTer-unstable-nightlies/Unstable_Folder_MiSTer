@@ -41,13 +41,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20260509_149f20.rbf"
         },
-        "_Unstable/Apple-II_unstable_20260830_134817.rbf": {
-            "hash": "50e898bbca675cc29b2516bdcc88114b",
-            "size": 3776772,
+        "_Unstable/Apple-II_unstable_20260906_15d603.rbf": {
+            "hash": "f0a6d1f03ea3743122043760bc650b61",
+            "size": 3804064,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260830_134817.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260906_15d603.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
             "hash": "a6db608d547008de6aae134f0a2c4db8",
@@ -58,8 +58,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Galaga_MiSTer/releases/download/unstable-builds/Arcade-Galaga_unstable_20251210_0029d8.rbf"
         },
         "_Unstable/Arcade-Galaxian_unstable_20210218_9093.rbf": {
-            "hash": "8de43e51d86346e772e43455870fc6ef",
-            "size": 2753280,
+            "hash": "9d2fe53541e267f6e8a5abaa0ba05103",
+            "size": 4343036,
             "tags": [
                 "arcadegalaxian"
             ],
@@ -121,13 +121,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
-        "_Unstable/C64_unstable_20260723_099ab9.rbf": {
-            "hash": "b3041ef8a467773bba59796e57b105a5",
-            "size": 3951696,
+        "_Unstable/C64_unstable_20260906_15a61b.rbf": {
+            "hash": "14ddc5d93aaa3c2d671e3b742fab9fee",
+            "size": 3955416,
             "tags": [
                 "c64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260723_099ab9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260906_15a61b.rbf"
         },
         "_Unstable/CDi_unstable_20260829_202c5d.rbf": {
             "hash": "c1e0dd07b226563faa6e5e5ae3c03b3e",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1788530058,
+    "timestamp": 1788715179,
     "v": 1
 }
