@@ -321,13 +321,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20260628_1455a3.rbf"
         },
-        "_Unstable/Studio-II_unstable_20260906_20baae.rbf": {
-            "hash": "ced01410bbd1e8b2f96fd8957ba60f60",
-            "size": 2782888,
+        "_Unstable/Studio-II_unstable_20260908_0743f1.rbf": {
+            "hash": "7170e4226c840ae828e47dfdf26ed759",
+            "size": 2784756,
             "tags": [
                 "studioii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260906_20baae.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260908_0743f1.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20251210_00e04e.rbf": {
             "hash": "239657c7b9b07000725b046579e0cfb9",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1788784728,
+    "timestamp": 1788864892,
     "v": 1
 }
