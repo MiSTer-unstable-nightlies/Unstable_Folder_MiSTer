@@ -18,8 +18,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/AcornAtom_MiSTer/releases/download/unstable-builds/AcornAtom_unstable_20251210_002a5e.rbf"
         },
         "_Unstable/AcornElectron_unstable_20251210_00ec07.rbf": {
-            "hash": "66c9795418d453aaf29c1e24361ca65c",
-            "size": 3336336,
+            "hash": "122533f2c18926481846b9089a7cf4b0",
+            "size": 2612748,
             "tags": [
                 "acornelectron"
             ],
@@ -97,17 +97,17 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Arcade-Tecmo_MiSTer/releases/download/unstable-builds/Arcade-Tecmo_unstable_20251210_000321.rbf"
         },
-        "_Unstable/Atari7800_unstable_20260830_202d4a.rbf": {
-            "hash": "70d3613c94164a5150c2d9fbe42464d9",
-            "size": 4166268,
+        "_Unstable/Atari7800_unstable_20260912_00ffc4.rbf": {
+            "hash": "618c9a6184c1f9626bd1a4330e818e7c",
+            "size": 4360692,
             "tags": [
                 "atari7800"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260830_202d4a.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Atari7800_MiSTer/releases/download/unstable-builds/Atari7800_unstable_20260912_00ffc4.rbf"
         },
         "_Unstable/AtariLynx_unstable_20260714_0467ec.rbf": {
-            "hash": "71212a6a32151de4034320f4db5db96f",
-            "size": 3143808,
+            "hash": "68f8af6593a65e2ef989621e2464fb5a",
+            "size": 3409900,
             "tags": [
                 "atarilynx"
             ],
@@ -266,16 +266,16 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/PSX_MiSTer/releases/download/unstable-builds/PSX_unstable_20260821_19f225.rbf"
         },
         "_Unstable/S32X_unstable_20260621_082182.rbf": {
-            "hash": "9ee6995c5616b24321c388728f73fbfb",
-            "size": 4218904,
+            "hash": "d4b6b5d617c6d9fbd194ed1a3ad8571b",
+            "size": 4234784,
             "tags": [
                 "s32x"
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260621_082182.rbf"
         },
         "_Unstable/SMS_unstable_20260831_15a82a.rbf": {
-            "hash": "3687857139ad30d82883e23f5ae464ef",
-            "size": 4085852,
+            "hash": "ed8374882e13084ce063e7bcb6c74c6e",
+            "size": 3721532,
             "tags": [
                 "sms"
             ],
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1789125957,
+    "timestamp": 1789192205,
     "v": 1
 }
