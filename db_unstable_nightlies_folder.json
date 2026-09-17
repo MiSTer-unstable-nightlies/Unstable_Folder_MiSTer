@@ -193,13 +193,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20260216_05862c.rbf"
         },
-        "_Unstable/MacPlus_unstable_20260911_05eb77.rbf": {
-            "hash": "67ef2ef9abfd364d0678ca30b85005d3",
-            "size": 3063476,
+        "_Unstable/MacPlus_unstable_20260917_16f452.rbf": {
+            "hash": "1858ac43973fb82a5b02cf9f7a542af5",
+            "size": 3032240,
             "tags": [
                 "macplus"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20260911_05eb77.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20260917_16f452.rbf"
         },
         "_Unstable/MegaCD_unstable_20260730_15c9a5.rbf": {
             "hash": "1f55672a1135259430d7d6c7ba465da7",
@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260902_116918.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260915_1279a2": {
-            "hash": "f87702b851fc5c00eca88bad0299ff49",
+        "_Unstable/MiSTer_unstable_20260917_1673ef": {
+            "hash": "d96c76d310ce5b7ad16485d14a02eb8b",
             "size": 1166232,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260915_1279a2"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260917_1673ef"
         },
         "_Unstable/Minimig_unstable_20260908_12bc03.rbf": {
             "hash": "01cf3436e34827232c751a0cf2c61ac0",
@@ -273,21 +273,21 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260621_082182.rbf"
         },
-        "_Unstable/SMS_unstable_20260915_23cce2.rbf": {
-            "hash": "1e4cb0fefa13dd2852e805780196cefd",
-            "size": 4062908,
+        "_Unstable/SMS_unstable_20260917_169bb0.rbf": {
+            "hash": "ae85bb5fcbb24f0a531b1c84b5b2553c",
+            "size": 4088628,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260915_23cce2.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260917_169bb0.rbf"
         },
-        "_Unstable/SNES_unstable_20260824_1919a7.rbf": {
-            "hash": "d2cccd3c9d9daf94a85f07f1ca11281a",
-            "size": 4440528,
+        "_Unstable/SNES_unstable_20260917_168ad3.rbf": {
+            "hash": "3274a822fb6bb0266ed67844132c7b0d",
+            "size": 4446908,
             "tags": [
                 "snes"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260824_1919a7.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20260917_168ad3.rbf"
         },
         "_Unstable/ST-V_DualSDRAM_unstable_20260916_17d5b5.rbf": {
             "hash": "6b526c9f395b374e6c38acad512c9131",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1789645550,
+    "timestamp": 1789673674,
     "v": 1
 }
