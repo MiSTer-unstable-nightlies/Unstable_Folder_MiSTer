@@ -130,8 +130,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260906_15a61b.rbf"
         },
         "_Unstable/CDi_unstable_20260829_202c5d.rbf": {
-            "hash": "ed8374882e13084ce063e7bcb6c74c6e",
-            "size": 3721532,
+            "hash": "c1e0dd07b226563faa6e5e5ae3c03b3e",
+            "size": 3867472,
             "tags": [
                 "cdi"
             ],
@@ -321,13 +321,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20260916_17d5b5.rbf"
         },
-        "_Unstable/Studio-II_unstable_20260908_0743f1.rbf": {
-            "hash": "7170e4226c840ae828e47dfdf26ed759",
-            "size": 2784756,
+        "_Unstable/Studio-II_unstable_20260920_018eb1.rbf": {
+            "hash": "e835f40ad00b7981473e25a31de53e4f",
+            "size": 2797364,
             "tags": [
                 "studioii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260908_0743f1.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260920_018eb1.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20251210_00e04e.rbf": {
             "hash": "239657c7b9b07000725b046579e0cfb9",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1789866740,
+    "timestamp": 1789885226,
     "v": 1
 }
