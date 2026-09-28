@@ -41,13 +41,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20260509_149f20.rbf"
         },
-        "_Unstable/Apple-II_unstable_20260915_233bd2.rbf": {
-            "hash": "d281b6753a6c4c17b4b3b0d4ff3ace92",
-            "size": 4056100,
+        "_Unstable/Apple-II_unstable_20260928_1433f9.rbf": {
+            "hash": "56cc604aacf9f7940c906dac4e6f262f",
+            "size": 4085252,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260915_233bd2.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260928_1433f9.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
             "hash": "a6db608d547008de6aae134f0a2c4db8",
@@ -273,13 +273,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260621_082182.rbf"
         },
-        "_Unstable/SMS_unstable_20260926_06a2d0.rbf": {
-            "hash": "2eae80ac6c173999e2e5431509c11a43",
-            "size": 4103168,
+        "_Unstable/SMS_unstable_20260928_14cfe7.rbf": {
+            "hash": "e3f58687181d1779acd20d72b64d6a62",
+            "size": 4097168,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260926_06a2d0.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260928_14cfe7.rbf"
         },
         "_Unstable/SNES_unstable_20260917_168ad3.rbf": {
             "hash": "3274a822fb6bb0266ed67844132c7b0d",
@@ -369,13 +369,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZX-Spectrum_MISTer/releases/download/unstable-builds/ZX-Spectrum_unstable_20260921_229e9a.rbf"
         },
-        "_Unstable/ZXNext_unstable_20251210_000fe1.rbf": {
-            "hash": "b96d5b943b1da25b2b24330d04ef012b",
-            "size": 3051308,
+        "_Unstable/ZXNext_unstable_20260928_14d6e3.rbf": {
+            "hash": "2e1cbcb57133e5470632429d1dae09df",
+            "size": 3042664,
             "tags": [
                 "zxnext"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20251210_000fe1.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20260928_14d6e3.rbf"
         },
         "_Unstable/ao486_unstable_20260917_06e91e.rbf": {
             "hash": "76529458d77dbf22f512d80fa6074d6a",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1790529276,
+    "timestamp": 1790614001,
     "v": 1
 }
