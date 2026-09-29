@@ -41,13 +41,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Amstrad_MiSTer/releases/download/unstable-builds/Amstrad_unstable_20260509_149f20.rbf"
         },
-        "_Unstable/Apple-II_unstable_20260928_1433f9.rbf": {
-            "hash": "56cc604aacf9f7940c906dac4e6f262f",
-            "size": 4085252,
+        "_Unstable/Apple-II_unstable_20260929_13254d.rbf": {
+            "hash": "aca12e2544b1048261d2166371b869f4",
+            "size": 4185028,
             "tags": [
                 "appleii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260928_1433f9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Apple-II_MiSTer/releases/download/unstable-builds/Apple-II_unstable_20260929_13254d.rbf"
         },
         "_Unstable/Arcade-Galaga_unstable_20251210_0029d8.rbf": {
             "hash": "a6db608d547008de6aae134f0a2c4db8",
@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20260902_116918.rbf"
         },
-        "_Unstable/MiSTer_unstable_20260926_06aa51": {
-            "hash": "4c0f0c6b6a76910afe1caf3028a4769f",
-            "size": 1244192,
+        "_Unstable/MiSTer_unstable_20260929_13db4c": {
+            "hash": "9dc8c4458d019fb288597ea0c6df9f31",
+            "size": 1240096,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260926_06aa51"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20260929_13db4c"
         },
         "_Unstable/Minimig_unstable_20260917_19c2b8.rbf": {
             "hash": "c5e246d32518853cd3698aff264d71e7",
@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20260928_20b344.rbf": {
-            "hash": "1f453b297b948fedda11f48f3865358e",
-            "size": 2975112,
+        "_Unstable/PC88_unstable_20260929_13936e.rbf": {
+            "hash": "06deeedc04715c27d09d4c90b6c67f68",
+            "size": 3014724,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20260928_20b344.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20260929_13936e.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1790634114,
+    "timestamp": 1790694189,
     "v": 1
 }
