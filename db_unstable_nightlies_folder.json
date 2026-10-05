@@ -129,13 +129,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20260906_15a61b.rbf"
         },
-        "_Unstable/CDi_unstable_20260829_202c5d.rbf": {
-            "hash": "c1e0dd07b226563faa6e5e5ae3c03b3e",
-            "size": 3867472,
+        "_Unstable/CDi_unstable_20261005_1288dc.rbf": {
+            "hash": "c9eebf20aab26738096c4e6b2f8633b6",
+            "size": 3903580,
             "tags": [
                 "cdi"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20260829_202c5d.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/CDi_MiSTer/releases/download/unstable-builds/CDi_unstable_20261005_1288dc.rbf"
         },
         "_Unstable/Chip8_unstable_20251210_178509.rbf": {
             "hash": "7d6cfcfeb7bff87d21b1cb3624656528",
@@ -209,21 +209,21 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20260730_15c9a5.rbf"
         },
-        "_Unstable/MegaDrive_unstable_20261001_16671e.rbf": {
-            "hash": "0761a9c6e1a2815655936f5fabeaa5c0",
-            "size": 4313808,
+        "_Unstable/MegaDrive_unstable_20261005_1079e5.rbf": {
+            "hash": "699f9fbbbf58bd094a73b769550303c3",
+            "size": 4286104,
             "tags": [
                 "megadrive"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20261001_16671e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20261005_1079e5.rbf"
         },
-        "_Unstable/MiSTer_unstable_20261001_165b21": {
-            "hash": "94c7a0b6395baaf806e1c0e1fa0bdb52",
-            "size": 1281192,
+        "_Unstable/MiSTer_unstable_20261005_1000c8": {
+            "hash": "dac3468535598ab15dbbb0fbea32411d",
+            "size": 1293488,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261001_165b21"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261005_1000c8"
         },
         "_Unstable/Minimig_unstable_20260930_14c476.rbf": {
             "hash": "951fb8d8bcde673d515a7935566285df",
@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261004_205123.rbf": {
-            "hash": "c26e06c45dc47021cb4ded30d6992e98",
-            "size": 3028456,
+        "_Unstable/PC88_unstable_20261005_10d864.rbf": {
+            "hash": "39881bf64da5f9c21739193796e9ec35",
+            "size": 3006956,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261004_205123.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261005_10d864.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -273,13 +273,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/S32X_MiSTer/releases/download/unstable-builds/S32X_unstable_20260621_082182.rbf"
         },
-        "_Unstable/SMS_unstable_20260928_14cfe7.rbf": {
-            "hash": "e3f58687181d1779acd20d72b64d6a62",
-            "size": 4097168,
+        "_Unstable/SMS_unstable_20261005_1050e0.rbf": {
+            "hash": "c37db2b881bef9775239d6dc13fe07da",
+            "size": 4094396,
             "tags": [
                 "sms"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20260928_14cfe7.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/SMS_MiSTer/releases/download/unstable-builds/SMS_unstable_20261005_1050e0.rbf"
         },
         "_Unstable/SNES_unstable_20261004_173b11.rbf": {
             "hash": "31402cc511f5249010499d20d2e17e72",
@@ -377,26 +377,26 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/ZXNext_MISTer/releases/download/unstable-builds/ZXNext_unstable_20260928_14d6e3.rbf"
         },
-        "_Unstable/ao486_unstable_20260917_06e91e.rbf": {
-            "hash": "76529458d77dbf22f512d80fa6074d6a",
-            "size": 4207236,
+        "_Unstable/ao486_unstable_20261005_102387.rbf": {
+            "hash": "bbaf77aba06c733f61afae99f149ee69",
+            "size": 4258048,
             "tags": [
                 "ao486"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20260917_06e91e.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/ao486_MiSTer/releases/download/unstable-builds/ao486_unstable_20261005_102387.rbf"
         },
-        "_Unstable/menu_unstable_20251217_064ec9.rbf": {
-            "hash": "b62fb32d89629d0934d8dc1a75d4c71b",
-            "size": 2486132,
+        "_Unstable/menu_unstable_20261005_102cc7.rbf": {
+            "hash": "847f6ee4ea4eee4d3ea7cf8a2a7401f1",
+            "size": 2486280,
             "tags": [
                 "menu"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20251217_064ec9.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Menu_MiSTer/releases/download/unstable-builds/menu_unstable_20261005_102cc7.rbf"
         }
     },
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1791157509,
+    "timestamp": 1791228429,
     "v": 1
 }
