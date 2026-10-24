@@ -225,13 +225,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261019_15fdbb"
         },
-        "_Unstable/Minimig_unstable_20261022_161e88.rbf": {
-            "hash": "511554247bba66c93ff129001f8faa08",
-            "size": 3884568,
+        "_Unstable/Minimig_unstable_20261024_11298f.rbf": {
+            "hash": "a1141a0b6119382d8067cf7e7b833668",
+            "size": 3822048,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261022_161e88.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261024_11298f.rbf"
         },
         "_Unstable/NES_unstable_20260916_1208fe.rbf": {
             "hash": "f1640c2d14795e5b9428e8f1ecc4e7c3",
@@ -289,37 +289,37 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/SNES_MiSTer/releases/download/unstable-builds/SNES_unstable_20261023_012bf6.rbf"
         },
-        "_Unstable/ST-V_DualSDRAM_unstable_20261019_15c249.rbf": {
-            "hash": "e506d12664049d34e43dde026d320eb3",
-            "size": 4585680,
+        "_Unstable/ST-V_DualSDRAM_unstable_20261024_11671e.rbf": {
+            "hash": "eb81fbd516a22100c7b4564707cd2a0f",
+            "size": 4596656,
             "tags": [
                 "stvdualsdram"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20261019_15c249.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_DualSDRAM_unstable_20261024_11671e.rbf"
         },
-        "_Unstable/ST-V_unstable_20261019_15c249.rbf": {
-            "hash": "e4608f440c17d225c9a268be9b47ed4d",
-            "size": 4600304,
+        "_Unstable/ST-V_unstable_20261024_11671e.rbf": {
+            "hash": "95a2d2e3c65679e1073a7e75c36c6af7",
+            "size": 4596308,
             "tags": [
                 "stv"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20261019_15c249.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/ST-V_unstable_20261024_11671e.rbf"
         },
-        "_Unstable/Saturn_DualSDRAM_unstable_20261019_15c249.rbf": {
-            "hash": "a36db5fd6ce52d6afb89dffe11affd26",
-            "size": 4573460,
+        "_Unstable/Saturn_DualSDRAM_unstable_20261024_11671e.rbf": {
+            "hash": "f825b47e8289007cfe1059dc417d9685",
+            "size": 4587104,
             "tags": [
                 "saturndualsdram"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20261019_15c249.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20261024_11671e.rbf"
         },
-        "_Unstable/Saturn_unstable_20261019_15c249.rbf": {
-            "hash": "7ed4e8dadf553c0951afed105e1a8551",
-            "size": 4581708,
+        "_Unstable/Saturn_unstable_20261024_11671e.rbf": {
+            "hash": "79aaee20c67aaa586b9647dacd792043",
+            "size": 4580732,
             "tags": [
                 "saturn"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20261019_15c249.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20261024_11671e.rbf"
         },
         "_Unstable/Studio-II_unstable_20260920_018eb1.rbf": {
             "hash": "e835f40ad00b7981473e25a31de53e4f",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1792738071,
+    "timestamp": 1792854549,
     "v": 1
 }
