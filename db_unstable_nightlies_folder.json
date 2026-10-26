@@ -193,13 +193,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20260216_05862c.rbf"
         },
-        "_Unstable/MacPlus_unstable_20260917_16f452.rbf": {
-            "hash": "1858ac43973fb82a5b02cf9f7a542af5",
-            "size": 3032240,
+        "_Unstable/MacPlus_unstable_20261026_12aef3.rbf": {
+            "hash": "1504e169eb2c22945c80a07a93399ae8",
+            "size": 3074424,
             "tags": [
                 "macplus"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20260917_16f452.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20261026_12aef3.rbf"
         },
         "_Unstable/MegaCD_unstable_20260730_15c9a5.rbf": {
             "hash": "1f55672a1135259430d7d6c7ba465da7",
@@ -225,13 +225,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261019_15fdbb"
         },
-        "_Unstable/Minimig_unstable_20261024_22524b.rbf": {
-            "hash": "c373298492753e110ac05cbdac07593a",
-            "size": 3844436,
+        "_Unstable/Minimig_unstable_20261026_1240d6.rbf": {
+            "hash": "ce47ca77414e9d6a630074fcd16c2f81",
+            "size": 3787856,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261024_22524b.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261026_1240d6.rbf"
         },
         "_Unstable/NES_unstable_20260916_1208fe.rbf": {
             "hash": "f1640c2d14795e5b9428e8f1ecc4e7c3",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1792950548,
+    "timestamp": 1793036249,
     "v": 1
 }
