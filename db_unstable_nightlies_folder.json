@@ -225,13 +225,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261019_15fdbb"
         },
-        "_Unstable/Minimig_unstable_20261026_1240d6.rbf": {
-            "hash": "ce47ca77414e9d6a630074fcd16c2f81",
-            "size": 3787856,
+        "_Unstable/Minimig_unstable_20261027_13febc.rbf": {
+            "hash": "fb6ab9ee8c7c41e7e29e7335aab494a9",
+            "size": 3840584,
             "tags": [
                 "minimig"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261026_1240d6.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Minimig-AGA_MiSTer/releases/download/unstable-builds/Minimig_unstable_20261027_13febc.rbf"
         },
         "_Unstable/NES_unstable_20260916_1208fe.rbf": {
             "hash": "f1640c2d14795e5b9428e8f1ecc4e7c3",
@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261027_075870.rbf": {
-            "hash": "034211984c8b10d62301dd6179caba50",
-            "size": 3237720,
+        "_Unstable/PC88_unstable_20261027_136df5.rbf": {
+            "hash": "e7a569d15f207923f899dcf35236f8a2",
+            "size": 3252096,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261027_075870.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261027_136df5.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1793103931,
+    "timestamp": 1793124766,
     "v": 1
 }
