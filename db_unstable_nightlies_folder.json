@@ -121,13 +121,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
         },
-        "_Unstable/C64_unstable_20261029_12e3d3.rbf": {
-            "hash": "0224920933ae397cd66e6d86a0becfe9",
-            "size": 3979568,
+        "_Unstable/C64_unstable_20261029_181f5a.rbf": {
+            "hash": "f8148ce0c07feda259cbf8484ca68fab",
+            "size": 3944256,
             "tags": [
                 "c64"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20261029_12e3d3.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/C64_MiSTer/releases/download/unstable-builds/C64_unstable_20261029_181f5a.rbf"
         },
         "_Unstable/CDi_unstable_20261005_1288dc.rbf": {
             "hash": "c9eebf20aab26738096c4e6b2f8633b6",
@@ -193,13 +193,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MSX_MiSTer/releases/download/unstable-builds/MSX_unstable_20260216_05862c.rbf"
         },
-        "_Unstable/MacPlus_unstable_20261026_12aef3.rbf": {
-            "hash": "1504e169eb2c22945c80a07a93399ae8",
-            "size": 3074424,
+        "_Unstable/MacPlus_unstable_20261029_1875cc.rbf": {
+            "hash": "5588046ca859b3070de0371a2733e058",
+            "size": 3053768,
             "tags": [
                 "macplus"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20261026_12aef3.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MacPlus_MiSTer/releases/download/unstable-builds/MacPlus_unstable_20261029_1875cc.rbf"
         },
         "_Unstable/MegaCD_unstable_20260730_15c9a5.rbf": {
             "hash": "1f55672a1135259430d7d6c7ba465da7",
@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261029_12c5ad.rbf": {
-            "hash": "18719d6bf68eddf2f66cc75e7f3eb864",
-            "size": 3278484,
+        "_Unstable/PC88_unstable_20261029_183011.rbf": {
+            "hash": "13d37928be40513806cd64100ceedb5c",
+            "size": 3248604,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261029_12c5ad.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261029_183011.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -397,6 +397,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1793290225,
+    "timestamp": 1793308193,
     "v": 1
 }
