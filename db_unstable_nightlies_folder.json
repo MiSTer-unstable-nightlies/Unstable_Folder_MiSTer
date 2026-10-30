@@ -353,6 +353,14 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20260709_1748dd.rbf"
         },
+        "_Unstable/VideoBrain_unstable_20261030_137f54.rbf": {
+            "hash": "5f8fbe3b3e95928202d2fe2bfd183630",
+            "size": 3060688,
+            "tags": [
+                "videobrain"
+            ],
+            "url": "https://github.com/MiSTer-unstable-nightlies/VideoBrain_MiSTer/releases/download/unstable-builds/VideoBrain_unstable_20261030_137f54.rbf"
+        },
         "_Unstable/X68000_unstable_20261010_156b04.rbf": {
             "hash": "16359bcb1922bd413537e1314d17e375",
             "size": 4464844,
@@ -397,6 +405,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1793344264,
+    "timestamp": 1793369611,
     "v": 1
 }
