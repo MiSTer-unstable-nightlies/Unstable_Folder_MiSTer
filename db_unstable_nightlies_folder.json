@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261103_09cd20.rbf": {
-            "hash": "cb8ac354cd1ac14581c560d694a5a734",
-            "size": 3240396,
+        "_Unstable/PC88_unstable_20261104_091a4e.rbf": {
+            "hash": "c7d98846ddbb8398bdac7e60d015649b",
+            "size": 3236140,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261103_09cd20.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261104_091a4e.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -321,13 +321,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_unstable_20261024_11671e.rbf"
         },
-        "_Unstable/Studio-II_unstable_20260920_018eb1.rbf": {
-            "hash": "e835f40ad00b7981473e25a31de53e4f",
-            "size": 2797364,
+        "_Unstable/Studio-II_unstable_20261104_0905bf.rbf": {
+            "hash": "b66b64a444e3f98c7e0ab93d8eb45bfb",
+            "size": 2805272,
             "tags": [
                 "studioii"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20260920_018eb1.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/StudioII_MiSTer/releases/download/unstable-builds/Studio-II_unstable_20261104_0905bf.rbf"
         },
         "_Unstable/TatungEinstein_unstable_20251210_00e04e.rbf": {
             "hash": "239657c7b9b07000725b046579e0cfb9",
@@ -353,13 +353,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/TurboGrafx16_MiSTer/releases/download/unstable-builds/TurboGrafx16_unstable_20260709_1748dd.rbf"
         },
-        "_Unstable/VideoBrain_unstable_20261031_226aa8.rbf": {
-            "hash": "f3826c96c96c1fb451e437d3851eccd4",
-            "size": 3125892,
+        "_Unstable/VideoBrain_unstable_20261104_09e273.rbf": {
+            "hash": "80579646d08ad7dfd035510264966e6c",
+            "size": 2966412,
             "tags": [
                 "videobrain"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/VideoBrain_MiSTer/releases/download/unstable-builds/VideoBrain_unstable_20261031_226aa8.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/VideoBrain_MiSTer/releases/download/unstable-builds/VideoBrain_unstable_20261104_09e273.rbf"
         },
         "_Unstable/X68000_unstable_20261102_09b5a0.rbf": {
             "hash": "f2c51375d89e2092891366db782263f7",
@@ -405,6 +405,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1793724300,
+    "timestamp": 1793814025,
     "v": 1
 }
