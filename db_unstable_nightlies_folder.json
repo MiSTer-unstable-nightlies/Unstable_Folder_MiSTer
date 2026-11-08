@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261106_198ea7.rbf": {
-            "hash": "48ba535b56b2f55588e35be445fe6188",
-            "size": 3265236,
+        "_Unstable/PC88_unstable_20261108_11a855.rbf": {
+            "hash": "09ba5679ee24f0de7800bd2de204072c",
+            "size": 3256988,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261106_198ea7.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261108_11a855.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -314,8 +314,8 @@
             "url": "https://github.com/MiSTer-unstable-nightlies/Saturn_MiSTer/releases/download/unstable-builds/Saturn_DualSDRAM_unstable_20261024_11671e.rbf"
         },
         "_Unstable/Saturn_unstable_20261024_11671e.rbf": {
-            "hash": "ec2c47344c5689011af1d8c467ecf068",
-            "size": 54881,
+            "hash": "79aaee20c67aaa586b9647dacd792043",
+            "size": 4580732,
             "tags": [
                 "saturn"
             ],
@@ -405,6 +405,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1794135411,
+    "timestamp": 1794156857,
     "v": 1
 }
