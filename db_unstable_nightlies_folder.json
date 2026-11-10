@@ -217,13 +217,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20261005_1079e5.rbf"
         },
-        "_Unstable/MiSTer_unstable_20261110_01bc7c": {
-            "hash": "facb867edb90789c594e49c878b08954",
-            "size": 1383128,
+        "_Unstable/MiSTer_unstable_20261110_16d801": {
+            "hash": "711935e3ab278b97303e43df435d7343",
+            "size": 1403632,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261110_01bc7c"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261110_16d801"
         },
         "_Unstable/Minimig_unstable_20261028_158088.rbf": {
             "hash": "21fac3c8dee94a89ea394e04f41f7ba5",
@@ -249,13 +249,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/NeoGeo_MiSTer/releases/download/unstable-builds/NeoGeo_unstable_20260519_061364.rbf"
         },
-        "_Unstable/PC88_unstable_20261110_08d0d3.rbf": {
-            "hash": "c4aa72a47a2988ddb45f40e0975f385b",
-            "size": 3250872,
+        "_Unstable/PC88_unstable_20261110_168230.rbf": {
+            "hash": "84911c5403761681ba14e5b60c9c1b9e",
+            "size": 3247332,
             "tags": [
                 "pc88"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261110_08d0d3.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/PC88_MiSTer/releases/download/unstable-builds/PC88_unstable_20261110_168230.rbf"
         },
         "_Unstable/PSX_unstable_20260821_19f225.rbf": {
             "hash": "4d78fde2db433f9b0fe4000231335ff6",
@@ -405,6 +405,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1794326313,
+    "timestamp": 1794346815,
     "v": 1
 }
