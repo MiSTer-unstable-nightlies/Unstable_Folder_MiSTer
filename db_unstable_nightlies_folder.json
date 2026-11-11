@@ -113,13 +113,13 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/AtariLynx_MiSTer/releases/download/unstable-builds/AtariLynx_unstable_20260714_0467ec.rbf"
         },
-        "_Unstable/AtariST_unstable_20251210_008182.rbf": {
-            "hash": "1fcb5efc05bc5d00a55d7e54642cde1d",
-            "size": 2802396,
+        "_Unstable/AtariST_unstable_20261111_084dca.rbf": {
+            "hash": "e7798e9004fd81dd0dc9bd8863002af7",
+            "size": 3612832,
             "tags": [
                 "atarist"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20251210_008182.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/AtariST_MiSTer/releases/download/unstable-builds/AtariST_unstable_20261111_084dca.rbf"
         },
         "_Unstable/C64_unstable_20261029_227e0c.rbf": {
             "hash": "d51b65bfbecbb3001b54d1c3fb6a0de2",
@@ -209,21 +209,21 @@
             ],
             "url": "https://github.com/MiSTer-unstable-nightlies/MegaCD_MiSTer/releases/download/unstable-builds/MegaCD_unstable_20260730_15c9a5.rbf"
         },
-        "_Unstable/MegaDrive_unstable_20261005_1079e5.rbf": {
-            "hash": "699f9fbbbf58bd094a73b769550303c3",
-            "size": 4286104,
+        "_Unstable/MegaDrive_unstable_20261111_08e9bf.rbf": {
+            "hash": "b18deff6abd4c061e33f3a6be1a6f04a",
+            "size": 4274584,
             "tags": [
                 "megadrive"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20261005_1079e5.rbf"
+            "url": "https://github.com/MiSTer-unstable-nightlies/MegaDrive_MiSTer/releases/download/unstable-builds/MegaDrive_unstable_20261111_08e9bf.rbf"
         },
-        "_Unstable/MiSTer_unstable_20261110_16d801": {
-            "hash": "711935e3ab278b97303e43df435d7343",
-            "size": 1403632,
+        "_Unstable/MiSTer_unstable_20261111_081dd5": {
+            "hash": "41ce4178dde057822b03df88bb75ec05",
+            "size": 1444608,
             "tags": [
                 "mister"
             ],
-            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261110_16d801"
+            "url": "https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20261111_081dd5"
         },
         "_Unstable/Minimig_unstable_20261028_158088.rbf": {
             "hash": "21fac3c8dee94a89ea394e04f41f7ba5",
@@ -405,6 +405,6 @@
     "folders": {
         "_Unstable": {}
     },
-    "timestamp": 1794360515,
+    "timestamp": 1794413901,
     "v": 1
 }
